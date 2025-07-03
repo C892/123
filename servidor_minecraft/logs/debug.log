@@ -23171,3 +23171,80 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03Jul2025 17:23:16.519] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/monastery_corridors_deco_3 is being run through DFU (hash 4b39f4bc6ba61651707131b305838e47531a52af5e9fb5c0c925372e5cd6d438), this will cause launch time delays
 [03Jul2025 17:23:16.520] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/monastery_corridors_deco_0 is being run through DFU (hash 84c1c480b6f5e6aa0b6416c8cdf6ef1e157c817558c62d31b10e94d8681b2290), this will cause launch time delays
 [03Jul2025 17:24:20.551] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:mini_ferma
+[03Jul2025 17:25:32.602] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/witch-hazel/witch-hazel_trunk_1
+[03Jul2025 17:25:32.603] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/witch-hazel/witch-hazel_canopy_1
+[03Jul2025 17:25:32.617] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/witch-hazel/witch-hazel_trunk_5
+[03Jul2025 17:25:32.619] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/witch-hazel/witch-hazel_canopy_5
+[03Jul2025 17:25:32.675] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/witch-hazel/witch-hazel_trunk_3
+[03Jul2025 17:25:32.676] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/witch-hazel/witch-hazel_canopy_3
+[03Jul2025 17:25:35.060] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/tower
+[03Jul2025 17:25:35.064] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/staircase
+[03Jul2025 17:25:35.069] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/basement
+[03Jul2025 17:25:35.071] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/stairway
+[03Jul2025 17:25:35.071] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/junction
+[03Jul2025 17:25:35.072] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/dual_storage_secret
+[03Jul2025 17:25:35.073] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/rubble_dead_end
+[03Jul2025 17:25:35.073] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/cask_rack
+[03Jul2025 17:25:35.667] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_3
+[03Jul2025 17:25:35.679] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_mines/mushroom_mines_zombie_armored_0 is being run through DFU (hash 32f893293d78dce1cfecdba96de1eae147ac768abd03e5bf576eb713714011f2), this will cause launch time delays
+[03Jul2025 17:25:35.687] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_mines/mushroom_mines_zombie_armored_1 is being run through DFU (hash f202523e30759d1064e4ab162d096bd7835e2e9aa4462a9bd88a57347dc46803), this will cause launch time delays
+[03Jul2025 17:25:35.698] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_mines/mushroom_mines_skeleton_ranged_0 is being run through DFU (hash 4ca373a4e9dcf3dc7fa79b707b45035f42293ac8c2cb7b17dae98a8a807dc262), this will cause launch time delays
+[03Jul2025 17:25:35.708] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_mines/mushroom_mines_part_1 is being run through DFU (hash 1b76022040df1733fa807a501281a93fdc996931b659899e009d837d595dfe05), this will cause launch time delays
+[03Jul2025 17:25:35.735] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_mines/mushroom_mines_part_2 is being run through DFU (hash 93781b295d0623765f2c609cf4bf6765a449ac39f3c3c55b5426812aaf237ddc), this will cause launch time delays
+[03Jul2025 17:25:35.760] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_mines/mushroom_mines_part_0 is being run through DFU (hash 1497612195e1c3437613f4a0b399542740027b53e57da6c7c6051fe69c109053), this will cause launch time delays
+[03Jul2025 17:25:35.779] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_mines/mushroom_mines_part_5 is being run through DFU (hash b332640dea1132e9352eea28e19f909df46c3eb44d75ad4bda45be7a97896f08), this will cause launch time delays
+[03Jul2025 17:25:35.799] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_mines/mushroom_mines_part_7 is being run through DFU (hash ef12328f6ceb0d5c1f6c9e3a1c80eef1b4f3a271709a8489ab973d7c4931af5c), this will cause launch time delays
+[03Jul2025 17:25:35.812] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_mines/mushroom_mines_part_4 is being run through DFU (hash 4e3d43f4265ada6b7d04c8e0e4d600518a9022f0976b906999ef71b82ac454e9), this will cause launch time delays
+[03Jul2025 17:25:35.827] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_mines/mushroom_mines_part_6 is being run through DFU (hash e64d34656107447cbcdbfd29cc666c2218b3fe430c6cfcd2aa791cb61e3c42d7), this will cause launch time delays
+[03Jul2025 17:25:50.074] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 17:25:50.112] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 17:26:24.904] [Worker-Main-2/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/palm/palm_canopy2 is being run through DFU (hash ed196d1fb170807ab384baa154ca0bcdfc30f8e7a11723f72110af64400803a4), this will cause launch time delays
+[03Jul2025 17:26:30.314] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1344, y=66, z=0}
+[03Jul2025 17:26:30.319] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1367, y=54, z=37}
+[03Jul2025 17:26:34.670] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1344, y=66, z=0}
+[03Jul2025 17:26:34.673] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1367, y=54, z=37}
+[03Jul2025 17:26:42.454] [Server thread/DEBUG] [twilightforest/]: Did not find existing portal, making a new one.
+[03Jul2025 17:26:42.458] [Server thread/DEBUG] [twilightforest/]: Portal destination looks unsafe, rerouting!
+[03Jul2025 17:26:42.461] [Server thread/DEBUG] [twilightforest/]: Safely rerouted!
+[03Jul2025 17:26:46.294] [Server thread/DEBUG] [twilightforest/]: Found ideal portal spot for Asierito01OwO at BlockPos{x=-1356, y=4, z=3226}
+[03Jul2025 17:26:46.512] [Server thread/DEBUG] [twilightforest/]: Caching Dest Portal Blocks to BlockPos{x=-157, y=63, z=416}
+[03Jul2025 17:26:46.523] [Server thread/DEBUG] [twilightforest/]: Caching Src Portal Blocks to BlockPos{x=-1356, y=4, z=3227}
+[03Jul2025 17:26:46.523] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=-157, y=63, z=416}
+[03Jul2025 17:26:46.523] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=-158, y=63, z=417}
+[03Jul2025 17:26:46.523] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=-157, y=63, z=417}
+[03Jul2025 17:26:46.523] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=-158, y=63, z=416}
+[03Jul2025 17:26:48.815] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6389ms or 127 ticks behind
+[03Jul2025 17:26:49.987] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Asierito01OwO moved too quickly! -1196.624411221546,-58.95327914164065,2810.741710730498
+[03Jul2025 17:26:49.993] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-1356, y=4, z=3227}
+[03Jul2025 17:26:50.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tin1G moved too quickly! -1196.9744358815622,-58.92159999847412,2810.2155093524366
+[03Jul2025 17:26:58.303] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_end
+[03Jul2025 17:27:04.463] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1344, y=66, z=0}
+[03Jul2025 17:27:04.471] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1367, y=54, z=37}
+[03Jul2025 17:27:41.335] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[03Jul2025 17:27:58.587] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2261ms or 45 ticks behind
+[03Jul2025 17:28:30.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G has made the advancement [The Silence of the Forest]
+[03Jul2025 17:28:34.380] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_nether
+[03Jul2025 17:28:43.482] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[03Jul2025 17:29:23.570] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/pumpkin_patch/town_centers/pumpkin_patch_meeting_point_2
+[03Jul2025 17:30:30.605] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_5
+[03Jul2025 17:30:32.020] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Asierito01OwO moved too quickly! -9.9611933682977,-0.41999998688697815,2.2735779407476002
+[03Jul2025 17:30:32.029] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3703ms or 74 ticks behind
+[03Jul2025 17:30:40.035] [Server thread/DEBUG] [mixin/]: Mixing compat.PistonReactQuarkMixin from moonlight-common.mixins.json into net.mehvahdjukaar.moonlight.api.block.IPistonMotionReact
+[03Jul2025 17:30:51.282] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4256ms or 85 ticks behind
+[03Jul2025 17:31:05.663] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in the_bumblezone:the_bumblezone
+[03Jul2025 17:31:08.803] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2527ms or 50 ticks behind
+[03Jul2025 17:31:14.463] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 17:31:14.566] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 17:31:16.847] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[03Jul2025 17:31:28.148] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4372ms or 87 ticks behind
+[03Jul2025 17:31:44.419] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/76529, l='ServerLevel[world]', x=-1987.50, y=55.00, z=95.50]
+[03Jul2025 17:31:45.652] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2526ms or 50 ticks behind
+[03Jul2025 17:32:17.190] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[03Jul2025 17:32:32.731] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/77521, l='ServerLevel[world]', x=-1951.50, y=53.00, z=167.50]
+[03Jul2025 17:32:35.376] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3200ms or 64 ticks behind
+[03Jul2025 17:33:11.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asierito01OwO has made the advancement [Bug Stomper]
+[03Jul2025 17:33:11.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asierito01OwO has made the advancement [The Silence of the Forest]
+[03Jul2025 17:33:16.479] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[03Jul2025 17:33:36.178] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[03Jul2025 17:34:01.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge was doomed to fall by Skeleton
+[03Jul2025 17:34:03.432] [Server thread/DEBUG] [twilightforest/]: Player PrincessAuge (b48dd7c9-7c9c-36a2-851c-6d210d133d2a) respawned and received items held in storage

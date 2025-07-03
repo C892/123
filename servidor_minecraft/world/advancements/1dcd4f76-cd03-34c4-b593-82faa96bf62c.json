@@ -515,6 +515,27 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-07-03 17:31:13 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "deer": "2025-07-03 17:28:30 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "canopy_sapling": "2025-07-03 17:31:06 +0000",
+      "twilight_oak_log": "2025-07-03 17:28:55 +0000",
+      "rainbow_oak_sapling": "2025-07-03 17:28:56 +0000",
+      "canopy_log": "2025-07-03 17:31:04 +0000"
+    },
+    "done": false
+  },
   "create:copper": {
     "criteria": {
       "0": "2025-07-03 16:02:07 +0000"
@@ -542,6 +563,12 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-07-03 15:50:55 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "make_portal": "2025-07-03 17:26:05 +0000"
     },
     "done": true
   },
