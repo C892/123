@@ -355,6 +355,7 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:prairie": "2025-07-03 18:33:28 +0000",
       "biomeswevegone:allium_shrubland": "2025-07-02 22:00:37 +0000"
     },
     "done": false
@@ -573,6 +574,12 @@
       "canopy_log": "2025-07-03 17:31:04 +0000"
     },
     "done": false
+  },
+  "alexsmobs:alexsmobs/murmur": {
+    "criteria": {
+      "killed_by": "2025-07-03 18:36:15 +0000"
+    },
+    "done": true
   },
   "minecraft_121_update:trial_chambers_start_advancement": {
     "criteria": {
