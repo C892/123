@@ -379,7 +379,8 @@
   },
   "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
     "criteria": {
-      "apple": "2025-07-02 21:03:29 +0000"
+      "apple": "2025-07-02 21:03:29 +0000",
+      "golden_apple": "2025-07-03 18:54:03 +0000"
     },
     "done": false
   },
