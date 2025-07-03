@@ -8487,3 +8487,17 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03Jul2025 15:43:39.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G left the game
 [03Jul2025 15:43:49.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge was shot by Missionary
 [03Jul2025 15:43:55.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asierito01OwO was shot by Missionary
+[03Jul2025 15:44:30.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asierito01OwO was shot by Missionary
+[03Jul2025 15:44:32.096] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1a059715[id=<null>,name=Tin1G,properties={},legacy=false] (/127.2.131.46:36049) lost connection: Disconnected
+[03Jul2025 15:44:41.834] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tin1G[/127.2.131.46:36491] logged in with entity id 32892 at (-319.1966590512007, 64.02442408821369, 95.83052415556917)
+[03Jul2025 15:44:41.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G joined the game
+[03Jul2025 15:45:50.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asierito01OwO was slain by Zombie Bruiser
+[03Jul2025 15:46:46.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asierito01OwO was shot by Missionary
+[03Jul2025 15:47:36.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asierito01OwO was shot by Missionary
+[03Jul2025 15:48:22.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G was shot by Missionary
+[03Jul2025 15:48:24.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asierito01OwO has reached the goal [Dark Creator]
+[03Jul2025 15:50:55.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G has made the advancement [What a Deal!]
+[03Jul2025 16:07:22.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge has made the advancement [The Wind Darkening]
+[03Jul2025 16:07:34.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asierito01OwO> z
+[03Jul2025 16:07:39.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asierito01OwO> z
+[03Jul2025 16:09:32.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G has made the advancement [Dark Metallurgy]

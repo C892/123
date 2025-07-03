@@ -531,6 +531,12 @@
     },
     "done": true
   },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-07-03 16:00:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-07-03 14:53:32 +0000"
@@ -558,6 +564,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-07-03 14:18:43 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2025-07-03 16:07:22 +0000"
     },
     "done": true
   },
