@@ -400,6 +400,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-07-03 14:40:25 +0000",
       "minecraft:skeleton": "2025-07-02 21:33:24 +0000",
       "minecraft:spider": "2025-07-02 22:18:26 +0000",
       "minecraft:creeper": "2025-07-02 21:52:18 +0000",
@@ -539,6 +540,18 @@
   "born_in_chaos_v1:fighting_nightmares": {
     "criteria": {
       "fighting_nightmares_0": "2025-07-03 14:26:06 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-07-03 14:36:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-07-03 14:40:25 +0000"
     },
     "done": true
   },
