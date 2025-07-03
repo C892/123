@@ -8501,3 +8501,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03Jul2025 16:07:34.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asierito01OwO> z
 [03Jul2025 16:07:39.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asierito01OwO> z
 [03Jul2025 16:09:32.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G has made the advancement [Dark Metallurgy]
+[03Jul2025 16:18:55.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asierito01OwO was led to the grave by Priest
+[03Jul2025 16:21:15.592] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/39164, l='ServerLevel[world]', x=221.99, y=61.00, z=608.72] died, message: 'Farmer was slain by Zombie'
+[03Jul2025 16:21:23.435] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/39116, l='ServerLevel[world]', x=166.70, y=70.94, z=606.89] died, message: 'Weaponsmith experienced kinetic energy'
+[03Jul2025 16:23:43.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G has made the advancement [Rotten to the Core]
