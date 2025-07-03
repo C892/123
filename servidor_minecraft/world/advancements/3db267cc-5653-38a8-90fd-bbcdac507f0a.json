@@ -421,8 +421,10 @@
       "biomeswevegone:sakura_grove": "2025-07-02 21:36:41 +0000",
       "biomeswevegone:forgotten_forest": "2025-07-02 22:34:49 +0000",
       "biomeswevegone:coconino_meadow": "2025-07-03 13:39:08 +0000",
+      "biomeswevegone:maple_taiga": "2025-07-03 14:20:51 +0000",
       "biomeswevegone:orchard": "2025-07-02 21:54:31 +0000",
       "biomeswevegone:prairie": "2025-07-03 14:18:02 +0000",
+      "biomeswevegone:aspen_boreal": "2025-07-03 14:21:35 +0000",
       "biomeswevegone:allium_shrubland": "2025-07-02 22:34:08 +0000",
       "biomeswevegone:pumpkin_valley": "2025-07-03 13:39:32 +0000"
     },
@@ -533,6 +535,12 @@
       "prairie_house": "2025-07-03 14:19:00 +0000"
     },
     "done": false
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-07-03 14:26:06 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

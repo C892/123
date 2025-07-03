@@ -8374,3 +8374,22 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03Jul2025 14:22:21.118] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6043ms or 120 ticks behind
 [03Jul2025 14:22:40.983] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4907ms or 98 ticks behind
 [03Jul2025 14:22:58.134] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2158ms or 43 ticks behind
+[03Jul2025 14:23:15.961] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2835ms or 56 ticks behind
+[03Jul2025 14:23:37.633] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[03Jul2025 14:25:01.633] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Asierito01OwO lost connection: Disconnected
+[03Jul2025 14:25:01.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asierito01OwO left the game
+[03Jul2025 14:26:06.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has reached the goal [Fighting Nightmares]
+[03Jul2025 14:26:24.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G has made the advancement [Life turned out to be a comedy]
+[03Jul2025 14:27:37.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge has made the advancement [Dark Metallurgy]
+[03Jul2025 14:27:44.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G was slain by Door Knight
+[03Jul2025 14:27:44.651] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[03Jul2025 14:27:44.651] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[03Jul2025 14:27:44.651] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 obituary
+[03Jul2025 14:27:44.651] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[03Jul2025 14:27:44.651] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[03Jul2025 14:29:29.041] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 lost connection: Disconnected
+[03Jul2025 14:29:29.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 left the game
+[03Jul2025 14:29:35.515] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Calamar892[/127.16.152.39:60593] logged in with entity id 13109 at (-316.5370089531068, 87.0, 272.90945173831994)
+[03Jul2025 14:29:35.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 joined the game
+[03Jul2025 14:29:47.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 was slain by Door Knight
+[03Jul2025 14:30:51.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G has reached the goal [Big Boy]
