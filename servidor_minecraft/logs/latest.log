@@ -8505,3 +8505,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03Jul2025 16:21:15.592] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/39164, l='ServerLevel[world]', x=221.99, y=61.00, z=608.72] died, message: 'Farmer was slain by Zombie'
 [03Jul2025 16:21:23.435] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/39116, l='ServerLevel[world]', x=166.70, y=70.94, z=606.89] died, message: 'Weaponsmith experienced kinetic energy'
 [03Jul2025 16:23:43.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G has made the advancement [Rotten to the Core]
+[03Jul2025 16:26:38.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G withered away whilst fighting Nightmare Stalker
+[03Jul2025 16:27:18.696] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/38887, l='ServerLevel[world]', x=144.40, y=93.00, z=698.68] died, message: 'Nitwit was slain by Zombie'
+[03Jul2025 16:30:04.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge was slain by Scarlet Persecutor
+[03Jul2025 16:30:21.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asierito01OwO was slain by Scarlet Persecutor
+[03Jul2025 16:31:24.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asierito01OwO was slain by Grizzly Bear
