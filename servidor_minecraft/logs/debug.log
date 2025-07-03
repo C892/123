@@ -22777,3 +22777,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03Jul2025 16:31:24.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asierito01OwO was slain by Grizzly Bear
 [03Jul2025 16:31:25.570] [Server thread/DEBUG] [twilightforest/]: Player Asierito01OwO (06b1eb39-e73a-3be1-9a3a-a37437110d20) respawned and received items held in storage
 [03Jul2025 16:32:26.876] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:overworld
+[03Jul2025 16:35:16.897] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in mofus_better_end_:broken_constellation
+[03Jul2025 16:35:48.028] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 16:35:48.066] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 16:38:33.797] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/38997, l='ServerLevel[world]', x=170.87, y=75.00, z=637.04] died, message: 'Villager was slain by Decaying Zombie'
+[03Jul2025 16:40:48.034] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 16:40:48.071] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 16:41:03.898] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in the_bumblezone:the_bumblezone
+[03Jul2025 16:41:43.902] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/38998, l='ServerLevel[world]', x=174.50, y=72.00, z=598.50] died, message: 'Nitwit was smitten by Asierito01OwO'
+[03Jul2025 16:43:39.896] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_end
+[03Jul2025 16:44:01.899] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in the_bumblezone:the_bumblezone

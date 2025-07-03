@@ -8510,3 +8510,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03Jul2025 16:30:04.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge was slain by Scarlet Persecutor
 [03Jul2025 16:30:21.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asierito01OwO was slain by Scarlet Persecutor
 [03Jul2025 16:31:24.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asierito01OwO was slain by Grizzly Bear
+[03Jul2025 16:38:33.797] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/38997, l='ServerLevel[world]', x=170.87, y=75.00, z=637.04] died, message: 'Villager was slain by Decaying Zombie'
+[03Jul2025 16:41:43.902] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/38998, l='ServerLevel[world]', x=174.50, y=72.00, z=598.50] died, message: 'Nitwit was smitten by Asierito01OwO'
