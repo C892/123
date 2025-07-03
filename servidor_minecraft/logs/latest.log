@@ -8396,3 +8396,15 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03Jul2025 14:36:35.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Once Upon a Cave]
 [03Jul2025 14:40:25.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Voluntary Exile]
 [03Jul2025 14:43:18.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Life turned out to be a comedy]
+[03Jul2025 14:48:56.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Lorem Ipsum]
+[03Jul2025 14:49:12.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge has made the advancement [Lorem Ipsum]
+[03Jul2025 14:53:32.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge has made the advancement [Ice Bucket Challenge]
+[03Jul2025 14:54:32.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G has made the advancement [Ice Bucket Challenge]
+[03Jul2025 14:55:31.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge has made the advancement [Bypassing the Expiration Date]
+[03Jul2025 14:56:38.725] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-602, y=-23, z=-87}
+[03Jul2025 14:58:02.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [The Journey Begins]
+[03Jul2025 14:58:05.829] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:toxic_caves at 1293 -56 2842 in 1s
+[03Jul2025 15:01:15.719] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Asierito01OwO[/127.182.212.45:43639] logged in with entity id 20529 at (-155.1439413365859, 64.0, 424.1238438853477)
+[03Jul2025 15:01:15.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asierito01OwO joined the game
+[03Jul2025 15:02:30.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G has made the advancement [Crops of the Wild]
+[03Jul2025 15:02:53.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asierito01OwO was blown up by Creeper
