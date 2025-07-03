@@ -420,7 +420,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-07-03 15:30:11 +0000",
       "minecraft:skeleton": "2025-07-03 13:46:14 +0000",
+      "minecraft:ravager": "2025-07-03 15:29:34 +0000",
+      "minecraft:vindicator": "2025-07-03 15:30:44 +0000",
       "minecraft:spider": "2025-07-03 13:45:15 +0000",
       "minecraft:creeper": "2025-07-03 14:58:55 +0000",
       "minecraft:zombie": "2025-07-02 22:42:36 +0000"
@@ -488,6 +491,12 @@
       "lavender_field": "2025-07-03 14:57:58 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-07-03 15:30:44 +0000"
+    },
+    "done": true
   },
   "minecraft:story/mine_diamond": {
     "criteria": {

@@ -457,6 +457,7 @@
       "minecraft:vindicator": "2025-07-03 15:19:53 +0000",
       "minecraft:spider": "2025-07-03 15:12:03 +0000",
       "minecraft:creeper": "2025-07-02 22:37:39 +0000",
+      "minecraft:witch": "2025-07-03 15:30:34 +0000",
       "minecraft:zombie": "2025-07-02 21:37:06 +0000",
       "minecraft:drowned": "2025-07-02 22:14:42 +0000",
       "minecraft:zombie_villager": "2025-07-02 21:37:10 +0000"
@@ -505,6 +506,24 @@
       "lavender_field": "2025-07-03 14:11:18 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-07-03 15:26:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-07-03 15:26:42 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-07-03 15:29:53 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

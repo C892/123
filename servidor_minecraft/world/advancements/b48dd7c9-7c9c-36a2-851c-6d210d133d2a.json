@@ -439,6 +439,7 @@
       "minecraft:pillager": "2025-07-03 15:09:48 +0000",
       "minecraft:skeleton": "2025-07-02 22:29:17 +0000",
       "minecraft:spider": "2025-07-03 15:10:47 +0000",
+      "minecraft:witch": "2025-07-03 15:30:30 +0000",
       "minecraft:cave_spider": "2025-07-03 14:12:22 +0000",
       "minecraft:zombie": "2025-07-02 22:30:06 +0000"
     },
@@ -533,6 +534,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-07-03 14:53:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-07-03 15:25:44 +0000"
     },
     "done": true
   },
