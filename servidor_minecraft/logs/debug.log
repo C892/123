@@ -23663,3 +23663,19 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03Jul2025 18:23:03.475] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [03Jul2025 18:25:12.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge fell from a high place
 [03Jul2025 18:25:14.137] [Server thread/DEBUG] [twilightforest/]: Player PrincessAuge (b48dd7c9-7c9c-36a2-851c-6d210d133d2a) respawned and received items held in storage
+[03Jul2025 18:28:03.438] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 18:28:03.478] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 18:30:09.291] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_nether
+[03Jul2025 18:31:22.275] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:overworld
+[03Jul2025 18:31:41.292] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in twilightforest:twilight_forest
+[03Jul2025 18:31:49.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asierito01OwO fell from a high place
+[03Jul2025 18:31:52.851] [Server thread/DEBUG] [twilightforest/]: Player Asierito01OwO (06b1eb39-e73a-3be1-9a3a-a37437110d20) respawned and received items held in storage
+[03Jul2025 18:32:12.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G has made the advancement [Deceived Hopes]
+[03Jul2025 18:32:59.304] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_nether
+[03Jul2025 18:33:03.438] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 18:33:03.478] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 18:35:18.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asierito01OwO was slain by Murmur
+[03Jul2025 18:35:21.880] [Server thread/DEBUG] [twilightforest/]: Player Asierito01OwO (06b1eb39-e73a-3be1-9a3a-a37437110d20) respawned and received items held in storage
+[03Jul2025 18:36:14.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge has made the advancement [Flexible Schedule]
+[03Jul2025 18:36:14.276] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:overworld
+[03Jul2025 18:36:15.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G has made the advancement [Flexible Schedule]
