@@ -8348,3 +8348,29 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03Jul2025 14:07:45.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G has made the advancement [Cobweb Entanglement]
 [03Jul2025 14:07:58.772] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Butterfly['Butterfly'/2090, l='ServerLevel[world]', x=-635.53, y=76.99, z=47.94]
 [03Jul2025 14:08:18.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge was slain by Mimic
+[03Jul2025 14:12:53.336] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-279, y=112, z=79} BlockPos{x=-279, y=114, z=78}
+[03Jul2025 14:15:17.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asierito01OwO fell from a high place
+[03Jul2025 14:15:25.253] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[03Jul2025 14:15:38.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asierito01OwO was slain by Zombie
+[03Jul2025 14:15:43.514] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3288ms or 65 ticks behind
+[03Jul2025 14:16:39.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G has made the advancement [Diamonds!]
+[03Jul2025 14:17:11.079] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
+[03Jul2025 14:17:28.176] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2101ms or 42 ticks behind
+[03Jul2025 14:17:56.377] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[03Jul2025 14:18:16.599] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5224ms or 104 ticks behind
+[03Jul2025 14:18:34.819] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3244ms or 64 ticks behind
+[03Jul2025 14:18:43.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge has made the advancement [Diamonds!]
+[03Jul2025 14:18:52.969] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3193ms or 63 ticks behind
+[03Jul2025 14:19:11.352] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3426ms or 68 ticks behind
+[03Jul2025 14:20:05.598] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2522ms or 50 ticks behind
+[03Jul2025 14:20:24.850] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4274ms or 85 ticks behind
+[03Jul2025 14:20:44.253] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4427ms or 88 ticks behind
+[03Jul2025 14:21:03.521] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4296ms or 85 ticks behind
+[03Jul2025 14:21:22.714] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4238ms or 84 ticks behind
+[03Jul2025 14:21:40.920] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3245ms or 64 ticks behind
+[03Jul2025 14:22:00.097] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4222ms or 84 ticks behind
+[03Jul2025 14:22:02.521] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jul2025 14:22:02.529] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jul2025 14:22:21.118] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6043ms or 120 ticks behind
+[03Jul2025 14:22:40.983] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4907ms or 98 ticks behind
+[03Jul2025 14:22:58.134] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2158ms or 43 ticks behind

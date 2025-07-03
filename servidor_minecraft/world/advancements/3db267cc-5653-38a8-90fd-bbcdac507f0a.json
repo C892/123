@@ -422,6 +422,7 @@
       "biomeswevegone:forgotten_forest": "2025-07-02 22:34:49 +0000",
       "biomeswevegone:coconino_meadow": "2025-07-03 13:39:08 +0000",
       "biomeswevegone:orchard": "2025-07-02 21:54:31 +0000",
+      "biomeswevegone:prairie": "2025-07-03 14:18:02 +0000",
       "biomeswevegone:allium_shrubland": "2025-07-02 22:34:08 +0000",
       "biomeswevegone:pumpkin_valley": "2025-07-03 13:39:32 +0000"
     },
@@ -492,7 +493,8 @@
       "lavender_forest": "2025-07-02 22:39:14 +0000",
       "spider_nest": "2025-07-03 13:50:06 +0000",
       "seasonal_orchard": "2025-07-02 22:39:18 +0000",
-      "seasonal_forest": "2025-07-03 13:31:18 +0000"
+      "seasonal_forest": "2025-07-03 13:31:18 +0000",
+      "lavender_field": "2025-07-03 14:11:02 +0000"
     },
     "done": false
   },
@@ -526,9 +528,9 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "biomeswevegone:biomeswevegone/adventure/little_house_on_the_prairie": {
     "criteria": {
-      "requirement": "2025-07-03 14:09:36 +0000"
+      "prairie_house": "2025-07-03 14:19:00 +0000"
     },
     "done": false
   },
