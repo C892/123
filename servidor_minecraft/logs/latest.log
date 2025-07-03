@@ -8516,3 +8516,29 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03Jul2025 16:49:58.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G has made the advancement [A Seedy Place]
 [03Jul2025 16:54:28.950] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/38881, l='ServerLevel[world]', x=114.52, y=92.00, z=705.93] died, message: 'Toolsmith was slain by Decaying Zombie'
 [03Jul2025 16:54:45.389] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/38993, l='ServerLevel[world]', x=167.15, y=90.29, z=639.69] died, message: 'Villager was slain by Zombie'
+[03Jul2025 16:54:56.147] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/38990, l='ServerLevel[world]', x=161.81, y=91.00, z=639.15] died, message: 'Villager was slain by Zombie Villager'
+[03Jul2025 16:54:56.193] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/38995, l='ServerLevel[world]', x=167.40, y=90.08, z=639.70] died, message: 'Villager was slain by Zombie'
+[03Jul2025 16:54:57.845] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/38989, l='ServerLevel[world]', x=165.94, y=91.00, z=639.62] died, message: 'Villager was slain by Zombie'
+[03Jul2025 16:54:59.844] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/38992, l='ServerLevel[world]', x=165.96, y=91.00, z=641.63] died, message: 'Villager was slain by Zombie Villager'
+[03Jul2025 17:00:00.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge blew up
+[03Jul2025 17:00:52.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asierito01OwO has made the advancement [Diamonds!]
+[03Jul2025 17:02:54.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asierito01OwO has made the advancement [What a Deal!]
+[03Jul2025 17:04:30.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asierito01OwO blew up
+[03Jul2025 17:04:30.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge blew up
+[03Jul2025 17:09:34.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asierito01OwO was blown up by Creeper
+[03Jul2025 17:18:03.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asierito01OwO fell from a high place
+[03Jul2025 17:18:14.436] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/62837, l='ServerLevel[world]', x=-1185.50, y=48.00, z=1019.50]
+[03Jul2025 17:18:31.079] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[03Jul2025 17:18:54.665] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/63483, l='ServerLevel[world]', x=-1171.50, y=48.00, z=1023.50]
+[03Jul2025 17:19:36.913] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-106, y=56, z=413} BlockPos{x=-106, y=57, z=413}
+[03Jul2025 17:19:36.923] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-106, y=56, z=413} BlockPos{x=-106, y=57, z=413}
+[03Jul2025 17:21:20.975] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PrincessAuge lost connection: Disconnected
+[03Jul2025 17:21:20.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge left the game
+[03Jul2025 17:21:28.411] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PrincessAuge[/127.142.125.183:50793] logged in with entity id 65290 at (-1383.3904216164042, 63.0, 884.2873684338346)
+[03Jul2025 17:21:28.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge joined the game
+[03Jul2025 17:22:23.181] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/66600, l='ServerLevel[world]', x=-1534.50, y=46.00, z=799.50]
+[03Jul2025 17:22:30.987] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/66659, l='ServerLevel[world]', x=-1526.50, y=46.00, z=799.50]
+[03Jul2025 17:22:42.830] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/66789, l='ServerLevel[world]', x=-1577.50, y=47.00, z=746.50]
+[03Jul2025 17:22:43.181] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/66790, l='ServerLevel[world]', x=-1516.50, y=46.00, z=806.50]
+[03Jul2025 17:22:43.278] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/66791, l='ServerLevel[world]', x=-1577.50, y=47.00, z=746.50]
+[03Jul2025 17:22:46.430] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/66833, l='ServerLevel[world]', x=-1576.50, y=48.00, z=747.50]

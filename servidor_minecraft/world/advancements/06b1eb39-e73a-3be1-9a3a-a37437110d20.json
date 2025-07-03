@@ -537,6 +537,18 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-07-03 17:02:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-07-03 17:00:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2025-07-03 15:31:39 +0000"
