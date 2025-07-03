@@ -23646,3 +23646,20 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03Jul2025 18:05:39.880] [Server thread/DEBUG] [twilightforest/]: Player PrincessAuge (b48dd7c9-7c9c-36a2-851c-6d210d133d2a) respawned and received items held in storage
 [03Jul2025 18:05:40.191] [Server thread/DEBUG] [twilightforest/]: Player Asierito01OwO (06b1eb39-e73a-3be1-9a3a-a37437110d20) respawned and received items held in storage
 [03Jul2025 18:06:04.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asierito01OwO has reached the goal [Horror Under the Mantle]
+[03Jul2025 18:07:58.287] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in mofus_better_end_:broken_constellation
+[03Jul2025 18:08:03.425] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 18:08:03.466] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 18:13:03.446] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 18:13:03.485] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 18:18:03.439] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 18:18:03.478] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 18:20:47.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge has made the advancement [Good Demoman]
+[03Jul2025 18:21:51.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G was slain by Door Knight
+[03Jul2025 18:21:55.166] [Server thread/DEBUG] [twilightforest/]: Player Tin1G (1dcd4f76-cd03-34c4-b593-82faa96bf62c) respawned and received items held in storage
+[03Jul2025 18:22:10.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge was slain by Door Knight
+[03Jul2025 18:22:12.029] [Server thread/DEBUG] [twilightforest/]: Player PrincessAuge (b48dd7c9-7c9c-36a2-851c-6d210d133d2a) respawned and received items held in storage
+[03Jul2025 18:22:48.301] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in twilightforest:twilight_forest
+[03Jul2025 18:23:03.436] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 18:23:03.475] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 18:25:12.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge fell from a high place
+[03Jul2025 18:25:14.137] [Server thread/DEBUG] [twilightforest/]: Player PrincessAuge (b48dd7c9-7c9c-36a2-851c-6d210d133d2a) respawned and received items held in storage
