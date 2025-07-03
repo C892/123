@@ -561,6 +561,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-07-03 15:09:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-07-03 14:40:25 +0000"
@@ -570,6 +576,12 @@
   "alexscaves:alexscaves/cave_map": {
     "criteria": {
       "cave_map": "2025-07-03 14:58:02 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bypassingthe_expiration_date": {
+    "criteria": {
+      "bypassingthe_expiration_date_0": "2025-07-03 15:04:53 +0000"
     },
     "done": true
   },

@@ -21813,3 +21813,39 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03Jul2025 15:02:30.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G has made the advancement [Crops of the Wild]
 [03Jul2025 15:02:53.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asierito01OwO was blown up by Creeper
 [03Jul2025 15:02:55.304] [Server thread/DEBUG] [twilightforest/]: Player Asierito01OwO (06b1eb39-e73a-3be1-9a3a-a37437110d20) respawned and received items held in storage
+[03Jul2025 15:04:53.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Bypassing the Expiration Date]
+[03Jul2025 15:05:48.068] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 15:05:48.106] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 15:05:51.475] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/orchard/orchard_canopy3
+[03Jul2025 15:09:13.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asierito01OwO> no
+[03Jul2025 15:09:27.877] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:overworld
+[03Jul2025 15:09:43.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge has made the advancement [Not Today, Thank You]
+[03Jul2025 15:09:48.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge has made the advancement [Voluntary Exile]
+[03Jul2025 15:09:49.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Magery]
+[03Jul2025 15:10:48.076] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 15:10:48.120] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 15:12:52.907] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in mofus_better_end_:broken_constellation
+[03Jul2025 15:13:30.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G was smitten by Asierito01OwO
+[03Jul2025 15:13:30.463] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tin1G moved wrongly!
+[03Jul2025 15:13:30.470] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[03Jul2025 15:13:30.470] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[03Jul2025 15:13:30.470] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 obituary
+[03Jul2025 15:13:30.471] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[03Jul2025 15:13:30.472] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[03Jul2025 15:13:37.050] [Server thread/DEBUG] [twilightforest/]: Player Tin1G (1dcd4f76-cd03-34c4-b593-82faa96bf62c) respawned and received items held in storage
+[03Jul2025 15:15:48.075] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 15:15:48.120] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 15:15:57.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G has made the advancement [Magery]
+[03Jul2025 15:16:29.897] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_nether
+[03Jul2025 15:18:39.877] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:overworld
+[03Jul2025 15:18:45.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge was slain by Vindicator
+[03Jul2025 15:18:47.837] [Server thread/DEBUG] [twilightforest/]: Player PrincessAuge (b48dd7c9-7c9c-36a2-851c-6d210d133d2a) respawned and received items held in storage
+[03Jul2025 15:19:15.912] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in mofus_better_end_:broken_constellation
+[03Jul2025 15:19:52.839] [Server thread/DEBUG] [mixin/]: Mixing gameplay.CooldownInstanceAccessor from the_bumblezone-common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[03Jul2025 15:19:53.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G was slain by Vindicator
+[03Jul2025 15:20:00.999] [Server thread/DEBUG] [twilightforest/]: Player Tin1G (1dcd4f76-cd03-34c4-b593-82faa96bf62c) respawned and received items held in storage
+[03Jul2025 15:20:48.078] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 15:20:48.120] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 15:21:51.902] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_end
+[03Jul2025 15:22:36.494] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player Tin1G just tried to change non-editable sign
+[03Jul2025 15:22:37.900] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_nether

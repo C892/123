@@ -436,7 +436,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-07-03 15:09:48 +0000",
       "minecraft:skeleton": "2025-07-02 22:29:17 +0000",
+      "minecraft:spider": "2025-07-03 15:10:47 +0000",
       "minecraft:cave_spider": "2025-07-03 14:12:22 +0000",
       "minecraft:zombie": "2025-07-02 22:30:06 +0000"
     },
@@ -516,6 +518,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-07-03 15:09:43 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/cave_codex": {
     "criteria": {
       "cave_codex": "2025-07-03 14:49:12 +0000"
@@ -525,6 +533,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-07-03 14:53:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-07-03 15:09:48 +0000"
     },
     "done": true
   },

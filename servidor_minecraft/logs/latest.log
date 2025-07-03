@@ -8408,3 +8408,19 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03Jul2025 15:01:15.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asierito01OwO joined the game
 [03Jul2025 15:02:30.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G has made the advancement [Crops of the Wild]
 [03Jul2025 15:02:53.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asierito01OwO was blown up by Creeper
+[03Jul2025 15:04:53.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Bypassing the Expiration Date]
+[03Jul2025 15:09:13.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asierito01OwO> no
+[03Jul2025 15:09:43.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge has made the advancement [Not Today, Thank You]
+[03Jul2025 15:09:48.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge has made the advancement [Voluntary Exile]
+[03Jul2025 15:09:49.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Magery]
+[03Jul2025 15:13:30.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G was smitten by Asierito01OwO
+[03Jul2025 15:13:30.463] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tin1G moved wrongly!
+[03Jul2025 15:13:30.470] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[03Jul2025 15:13:30.470] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[03Jul2025 15:13:30.470] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 obituary
+[03Jul2025 15:13:30.471] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[03Jul2025 15:13:30.472] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[03Jul2025 15:15:57.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G has made the advancement [Magery]
+[03Jul2025 15:18:45.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge was slain by Vindicator
+[03Jul2025 15:19:53.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G was slain by Vindicator
+[03Jul2025 15:22:36.494] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player Tin1G just tried to change non-editable sign

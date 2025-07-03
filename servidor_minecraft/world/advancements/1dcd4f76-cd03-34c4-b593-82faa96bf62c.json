@@ -451,6 +451,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-07-03 15:02:30 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "spider_nest": "2025-07-03 14:07:46 +0000"
@@ -460,6 +466,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-07-03 14:54:32 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-07-03 15:15:57 +0000"
     },
     "done": true
   },
