@@ -8512,3 +8512,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03Jul2025 16:31:24.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asierito01OwO was slain by Grizzly Bear
 [03Jul2025 16:38:33.797] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/38997, l='ServerLevel[world]', x=170.87, y=75.00, z=637.04] died, message: 'Villager was slain by Decaying Zombie'
 [03Jul2025 16:41:43.902] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/38998, l='ServerLevel[world]', x=174.50, y=72.00, z=598.50] died, message: 'Nitwit was smitten by Asierito01OwO'
+[03Jul2025 16:48:22.243] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/39124, l='ServerLevel[world]', x=189.84, y=72.00, z=663.30] died, message: 'Villager was slain by Zombie'
+[03Jul2025 16:49:58.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G has made the advancement [A Seedy Place]
+[03Jul2025 16:54:28.950] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/38881, l='ServerLevel[world]', x=114.52, y=92.00, z=705.93] died, message: 'Toolsmith was slain by Decaying Zombie'
+[03Jul2025 16:54:45.389] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/38993, l='ServerLevel[world]', x=167.15, y=90.29, z=639.69] died, message: 'Villager was slain by Zombie'
