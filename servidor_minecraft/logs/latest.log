@@ -8660,3 +8660,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03Jul2025 19:16:35.669] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=191, y=31, z=-210}
 [03Jul2025 19:16:35.670] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=191, y=31, z=-209}
 [03Jul2025 19:16:35.670] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=191, y=31, z=-208}
+[03Jul2025 19:18:10.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3RO_Bruce has made the advancement [Alex's Mobs]
+[03Jul2025 19:19:07.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3RO_Bruce has made the advancement [Stone Age]
+[03Jul2025 19:20:10.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3RO_Bruce has made the advancement [Getting an Upgrade]
+[03Jul2025 19:24:08.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Z3RO_Bruce> @princesita
+[03Jul2025 19:24:26.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrincessAuge> Z3RO_Bruce
+[03Jul2025 19:24:31.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asierito01OwO> Tin1G
+[03Jul2025 19:24:35.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrincessAuge> Z3RO_Bruce Gay
+[03Jul2025 19:26:34.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3RO_Bruce has made the advancement [Acquire Hardware]
