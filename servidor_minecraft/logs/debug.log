@@ -23598,3 +23598,51 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03Jul2025 17:54:00.427] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:overworld
 [03Jul2025 17:54:08.444] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_nether
 [03Jul2025 17:54:55.464] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_end
+[03Jul2025 17:55:56.496] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in the_bumblezone:the_bumblezone
+[03Jul2025 17:57:48.602] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 17:57:48.654] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 17:59:13.463] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_nether
+[03Jul2025 18:00:38.438] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in the_bumblezone:the_bumblezone
+[03Jul2025 18:00:44.427] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:overworld
+[03Jul2025 18:01:36.912] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-157, y=63, z=416}
+[03Jul2025 18:01:41.560] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/savanna_scriber_1
+[03Jul2025 18:01:51.795] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14870ms or 297 ticks behind
+[03Jul2025 18:01:51.859] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tin1G moved too quickly! 1199.3942114267927,59.04672085835935,-2809.839241027077
+[03Jul2025 18:01:51.860] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-157, y=63, z=416}
+[03Jul2025 18:01:52.515] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Asierito01OwO moved too quickly! 1199.999555684417,59.07840000152588,-2809.2146214190266
+[03Jul2025 18:03:03.426] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 18:03:03.466] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 18:04:02.291] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in mofus_better_end_:broken_constellation
+[03Jul2025 18:04:18.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G was slain by Lifestealer
+[03Jul2025 18:04:20.241] [Server thread/DEBUG] [twilightforest/]: Player Tin1G (1dcd4f76-cd03-34c4-b593-82faa96bf62c) respawned and received items held in storage
+[03Jul2025 18:04:22.289] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_end
+[03Jul2025 18:04:32.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asierito01OwO withered away whilst fighting Lifestealer
+[03Jul2025 18:04:34.174] [Server thread/DEBUG] [twilightforest/]: Player Asierito01OwO (06b1eb39-e73a-3be1-9a3a-a37437110d20) respawned and received items held in storage
+[03Jul2025 18:04:34.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G withered away
+[03Jul2025 18:04:34.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge withered away
+[03Jul2025 18:04:34.470] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[03Jul2025 18:04:34.470] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[03Jul2025 18:04:34.470] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 obituary
+[03Jul2025 18:04:34.470] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[03Jul2025 18:04:34.470] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[03Jul2025 18:04:35.933] [Server thread/DEBUG] [twilightforest/]: Player PrincessAuge (b48dd7c9-7c9c-36a2-851c-6d210d133d2a) respawned and received items held in storage
+[03Jul2025 18:04:39.068] [Server thread/DEBUG] [twilightforest/]: Player Tin1G (1dcd4f76-cd03-34c4-b593-82faa96bf62c) respawned and received items held in storage
+[03Jul2025 18:04:52.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge withered away
+[03Jul2025 18:04:52.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G withered away
+[03Jul2025 18:04:52.921] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tin1G moved wrongly!
+[03Jul2025 18:04:54.344] [Server thread/DEBUG] [twilightforest/]: Player Tin1G (1dcd4f76-cd03-34c4-b593-82faa96bf62c) respawned and received items held in storage
+[03Jul2025 18:04:54.684] [Server thread/DEBUG] [twilightforest/]: Player PrincessAuge (b48dd7c9-7c9c-36a2-851c-6d210d133d2a) respawned and received items held in storage
+[03Jul2025 18:05:17.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asierito01OwO withered away
+[03Jul2025 18:05:17.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G withered away
+[03Jul2025 18:05:18.061] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[03Jul2025 18:05:18.061] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[03Jul2025 18:05:18.062] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 obituary
+[03Jul2025 18:05:18.062] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[03Jul2025 18:05:18.062] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[03Jul2025 18:05:19.315] [Server thread/DEBUG] [twilightforest/]: Player Tin1G (1dcd4f76-cd03-34c4-b593-82faa96bf62c) respawned and received items held in storage
+[03Jul2025 18:05:19.536] [Server thread/DEBUG] [twilightforest/]: Player Asierito01OwO (06b1eb39-e73a-3be1-9a3a-a37437110d20) respawned and received items held in storage
+[03Jul2025 18:05:38.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asierito01OwO withered away
+[03Jul2025 18:05:38.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge withered away
+[03Jul2025 18:05:39.880] [Server thread/DEBUG] [twilightforest/]: Player PrincessAuge (b48dd7c9-7c9c-36a2-851c-6d210d133d2a) respawned and received items held in storage
+[03Jul2025 18:05:40.191] [Server thread/DEBUG] [twilightforest/]: Player Asierito01OwO (06b1eb39-e73a-3be1-9a3a-a37437110d20) respawned and received items held in storage
+[03Jul2025 18:06:04.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asierito01OwO has reached the goal [Horror Under the Mantle]

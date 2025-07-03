@@ -508,6 +508,12 @@
     },
     "done": false
   },
+  "minecraft_121_update:trial_chambers_start_advancement": {
+    "criteria": {
+      "trial_chambers_start_advancement": "2025-07-03 18:01:51 +0000"
+    },
+    "done": true
+  },
   "twilightforest:twilight_hunter": {
     "criteria": {
       "swarm_spider": "2025-07-03 17:33:11 +0000"

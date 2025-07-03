@@ -572,6 +572,12 @@
     },
     "done": false
   },
+  "minecraft_121_update:trial_chambers_start_advancement": {
+    "criteria": {
+      "trial_chambers_start_advancement": "2025-07-03 18:01:36 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progress_naga": {
     "criteria": {
       "naga": "2025-07-03 17:52:32 +0000"

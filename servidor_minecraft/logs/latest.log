@@ -8600,3 +8600,28 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03Jul2025 17:53:08.538] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
 [03Jul2025 17:53:26.131] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2605ms or 52 ticks behind
 [03Jul2025 17:53:32.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge has made the advancement [What a Deal!]
+[03Jul2025 18:01:51.795] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14870ms or 297 ticks behind
+[03Jul2025 18:01:51.859] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tin1G moved too quickly! 1199.3942114267927,59.04672085835935,-2809.839241027077
+[03Jul2025 18:01:52.515] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Asierito01OwO moved too quickly! 1199.999555684417,59.07840000152588,-2809.2146214190266
+[03Jul2025 18:04:18.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G was slain by Lifestealer
+[03Jul2025 18:04:32.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asierito01OwO withered away whilst fighting Lifestealer
+[03Jul2025 18:04:34.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G withered away
+[03Jul2025 18:04:34.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge withered away
+[03Jul2025 18:04:34.470] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[03Jul2025 18:04:34.470] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[03Jul2025 18:04:34.470] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 obituary
+[03Jul2025 18:04:34.470] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[03Jul2025 18:04:34.470] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[03Jul2025 18:04:52.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge withered away
+[03Jul2025 18:04:52.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G withered away
+[03Jul2025 18:04:52.921] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tin1G moved wrongly!
+[03Jul2025 18:05:17.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asierito01OwO withered away
+[03Jul2025 18:05:17.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G withered away
+[03Jul2025 18:05:18.061] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[03Jul2025 18:05:18.061] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[03Jul2025 18:05:18.062] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 obituary
+[03Jul2025 18:05:18.062] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[03Jul2025 18:05:18.062] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[03Jul2025 18:05:38.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asierito01OwO withered away
+[03Jul2025 18:05:38.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge withered away
+[03Jul2025 18:06:04.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asierito01OwO has reached the goal [Horror Under the Mantle]
