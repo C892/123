@@ -484,5 +484,11 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2025-07-03 13:53:04 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
