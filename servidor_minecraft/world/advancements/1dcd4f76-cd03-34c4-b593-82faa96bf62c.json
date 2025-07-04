@@ -430,6 +430,7 @@
       "minecraft:creeper": "2025-07-03 14:58:55 +0000",
       "minecraft:evoker": "2025-07-03 15:32:50 +0000",
       "minecraft:slime": "2025-07-03 18:30:34 +0000",
+      "quark:forgotten": "2025-07-04 20:34:11 +0000",
       "minecraft:witch": "2025-07-03 15:33:17 +0000",
       "minecraft:cave_spider": "2025-07-03 18:18:57 +0000",
       "minecraft:vex": "2025-07-03 15:32:50 +0000",
@@ -609,6 +610,42 @@
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2025-07-03 18:52:52 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2025-07-04 20:32:15 +0000"
+    },
+    "done": true
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2025-07-04 20:34:13 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2025-07-04 20:35:57 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-07-04 20:42:31 +0000"
+    },
+    "done": true
+  },
+  "mofus_better_end_:greater_endermite_advancement": {
+    "criteria": {
+      "greater_endermite_advancement_0": "2025-07-04 20:43:35 +0000"
+    },
+    "done": true
+  },
+  "mofus_better_end_:greater_enderman_kills_enderman_advancement": {
+    "criteria": {
+      "greater_enderman_kills_enderman_advancement_0": "2025-07-04 20:43:42 +0000"
     },
     "done": true
   },
