@@ -600,15 +600,15 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/murmur": {
-    "criteria": {
-      "killed_by": "2025-07-03 18:36:14 +0000"
-    },
-    "done": true
-  },
   "dungeons_arise:find_mushroom_mines": {
     "criteria": {
       "location0": "2025-07-03 17:31:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-07-03 17:53:32 +0000"
     },
     "done": true
   },
@@ -618,9 +618,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/trade": {
+  "alexsmobs:alexsmobs/murmur": {
     "criteria": {
-      "traded": "2025-07-03 17:53:32 +0000"
+      "killed_by": "2025-07-03 18:36:14 +0000"
     },
     "done": true
   },
