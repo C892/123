@@ -8332,3 +8332,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Jul2025 20:20:55.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G left the game
 [04Jul2025 20:21:40.188] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tin1G[/127.100.209.99:47897] logged in with entity id 714 at (-619.3824143361319, -38.0, 196.9126998629446)
 [04Jul2025 20:21:40.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G joined the game
+[04Jul2025 20:27:07.801] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PrincessAuge[/127.142.125.183:47213] logged in with entity id 1865 at (-619.101621865619, -32.0, 202.64359430653366)
+[04Jul2025 20:27:07.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge joined the game
+[04Jul2025 20:27:16.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge was slain by Zombie
+[04Jul2025 20:27:41.496] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityCrow['Crow'/2104, l='ServerLevel[world]', x=-195.80, y=67.91, z=239.87]
+[04Jul2025 20:32:15.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G has made the advancement [Good Demoman]
