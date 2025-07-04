@@ -8321,3 +8321,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Jul2025 13:29:09.050] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
 [04Jul2025 13:29:09.141] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 101844 bytes (in 11 string chunks with the size of 10000)
 [04Jul2025 13:29:09.144] [Server thread/WARN] [ModernFix/]: Dedicated server took 109.221 seconds to load
+[04Jul2025 13:50:25.920] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Asierito01OwO[/127.209.8.129:45659] logged in with entity id 170 at (-619.2191098024763, -35.975575911786315, 200.10976876038148)
+[04Jul2025 13:50:26.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asierito01OwO joined the game
+[04Jul2025 13:55:23.964] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PrincessAuge[/127.142.125.183:59153] logged in with entity id 1053 at (-617.947395114767, -36.0, 199.76796696724915)
+[04Jul2025 13:55:23.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge joined the game
+[04Jul2025 13:56:06.422] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tin1G[/127.100.209.99:51521] logged in with entity id 1359 at (-620.2158008096895, -36.0, 198.067372315545)
+[04Jul2025 13:56:06.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G joined the game
+[04Jul2025 13:56:51.464] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tin1G lost connection: Timed out
+[04Jul2025 13:56:51.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G left the game
+[04Jul2025 13:56:51.540] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice

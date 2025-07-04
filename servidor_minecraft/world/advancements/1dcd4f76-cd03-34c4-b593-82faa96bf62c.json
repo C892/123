@@ -576,27 +576,21 @@
     },
     "done": false
   },
-  "alexsmobs:alexsmobs/murmur": {
-    "criteria": {
-      "killed_by": "2025-07-03 18:36:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft_121_update:trial_chambers_start_advancement": {
-    "criteria": {
-      "trial_chambers_start_advancement": "2025-07-03 18:01:36 +0000"
-    },
-    "done": true
-  },
   "twilightforest:progress_naga": {
     "criteria": {
       "naga": "2025-07-03 17:52:32 +0000"
     },
     "done": true
   },
-  "artifacts:amateur_archaeologist": {
+  "twilightforest:progress_lich": {
     "criteria": {
-      "find_artifact": "2025-07-03 18:52:52 +0000"
+      "kill_naga": "2025-07-03 17:52:32 +0000"
+    },
+    "done": false
+  },
+  "minecraft_121_update:trial_chambers_start_advancement": {
+    "criteria": {
+      "trial_chambers_start_advancement": "2025-07-03 18:01:36 +0000"
     },
     "done": true
   },
@@ -606,9 +600,88 @@
     },
     "done": true
   },
-  "twilightforest:progress_lich": {
+  "alexsmobs:alexsmobs/murmur": {
     "criteria": {
-      "kill_naga": "2025-07-03 17:52:32 +0000"
+      "killed_by": "2025-07-03 18:36:15 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-07-03 18:52:52 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-04 13:56:09 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-04 13:56:09 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-04 13:56:09 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-04 13:56:09 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-04 13:56:09 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-07-04 13:56:40 +0000",
+      "log_spam_fixer": "2025-07-04 13:56:09 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-04 13:56:09 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-04 13:56:09 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-04 13:56:09 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-04 13:56:09 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-04 13:56:09 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-04 13:56:09 +0000"
     },
     "done": false
   },
