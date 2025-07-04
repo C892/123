@@ -20086,3 +20086,61 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Jul2025 20:57:52.063] [Server thread/DEBUG] [mixin/]: rarcompat.mixins.json:WearableArtifactCurioMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
 [04Jul2025 20:59:17.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge has made the advancement [Cover Me with Diamonds]
 [04Jul2025 20:59:21.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G has made the advancement [Cover Me with Diamonds]
+[04Jul2025 20:59:38.925] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@730f3ef8 for service interface com.blamejared.clumps.platform.IEventHelper
+[04Jul2025 20:59:38.925] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@1a7c036c for service interface com.blamejared.clumps.platform.IPlatformHelper
+[04Jul2025 20:59:59.917] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_nether
+[04Jul2025 21:01:25.051] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 21:01:25.104] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 21:01:30.305] [Server thread/DEBUG] [mixin/]: Mixing PiglinAiMixin from relics.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[04Jul2025 21:01:30.305] [Server thread/DEBUG] [mixin/]: relics.mixins.json:PiglinAiMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[04Jul2025 21:01:30.308] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[04Jul2025 21:01:32.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G has made the advancement [It Belongs in a Museum]
+[04Jul2025 21:02:44.234] [Worker-Main-10/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterdungeons.mixins.json into net.minecraft.server.level.WorldGenRegion
+[04Jul2025 21:02:44.234] [Worker-Main-10/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betteroceanmonuments.mixins.json into net.minecraft.server.level.WorldGenRegion
+[04Jul2025 21:02:44.234] [Worker-Main-10/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterfortresses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[04Jul2025 21:02:44.235] [Worker-Main-10/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[04Jul2025 21:02:44.235] [Worker-Main-10/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from the_bumblezone-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[04Jul2025 21:02:44.235] [Worker-Main-10/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterjungletemples.mixins.json into net.minecraft.server.level.WorldGenRegion
+[04Jul2025 21:02:44.235] [Worker-Main-10/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[04Jul2025 21:02:44.236] [Worker-Main-10/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[04Jul2025 21:02:44.236] [Worker-Main-10/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[04Jul2025 21:02:44.236] [Worker-Main-10/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[04Jul2025 21:02:44.236] [Worker-Main-10/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[04Jul2025 21:02:44.236] [Worker-Main-10/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[04Jul2025 21:02:44.236] [Worker-Main-10/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[04Jul2025 21:02:44.236] [Worker-Main-10/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[04Jul2025 21:02:44.236] [Worker-Main-10/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[04Jul2025 21:02:44.236] [Worker-Main-10/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[04Jul2025 21:02:44.236] [Worker-Main-10/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[04Jul2025 21:02:44.236] [Worker-Main-10/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[04Jul2025 21:02:44.236] [Worker-Main-10/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[04Jul2025 21:02:44.236] [Worker-Main-10/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[04Jul2025 21:02:44.236] [Worker-Main-10/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[04Jul2025 21:02:44.236] [Worker-Main-10/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[04Jul2025 21:02:44.236] [Worker-Main-10/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[04Jul2025 21:02:44.236] [Worker-Main-10/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[04Jul2025 21:03:07.917] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_nether
+[04Jul2025 21:03:21.915] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in mofus_better_end_:broken_constellation
+[04Jul2025 21:06:10.770] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[04Jul2025 21:06:11.342] [Worker-Main-3/DEBUG] [mixin/]: Mixing world.NoiseChunkAccessor from the_bumblezone-common.mixins.json into net.minecraft.world.level.levelgen.NoiseChunk
+[04Jul2025 21:06:11.342] [Worker-Main-3/DEBUG] [mixin/]: Mixing accessor.NoiseChunkAccessor from yungscavebiomes.mixins.json into net.minecraft.world.level.levelgen.NoiseChunk
+[04Jul2025 21:06:11.342] [Worker-Main-3/DEBUG] [mixin/]: Mixing marble_caves.NoiseChunkMixin from yungscavebiomes.mixins.json into net.minecraft.world.level.levelgen.NoiseChunk
+[04Jul2025 21:06:11.345] [Worker-Main-3/DEBUG] [mixin/]: Mixing ChunkNoiseSamplerMixin from mixins.mofus_better_end_.json into net.minecraft.world.level.levelgen.NoiseChunk
+[04Jul2025 21:06:11.346] [Worker-Main-3/DEBUG] [mixin/]: Unexpected: Registered method callCachedClimateSampler(Lnet/minecraft/world/level/levelgen/NoiseRouter;Ljava/util/List;)Lnet/minecraft/world/level/biome/Climate$Sampler; in net.minecraft.world.level.levelgen.NoiseChunk was not merged
+[04Jul2025 21:06:11.351] [Worker-Main-3/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[04Jul2025 21:06:11.352] [Worker-Main-3/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[04Jul2025 21:06:11.352] [Worker-Main-3/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[04Jul2025 21:06:11.352] [Worker-Main-3/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[04Jul2025 21:06:11.355] [Worker-Main-3/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[04Jul2025 21:06:11.355] [Worker-Main-3/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[04Jul2025 21:06:11.419] [Worker-Main-28/DEBUG] [mixin/]: Mixing frosted_caves.AquiferMixin from yungscavebiomes.mixins.json into net.minecraft.world.level.levelgen.Aquifer$NoiseBasedAquifer
+[04Jul2025 21:06:11.420] [Worker-Main-28/DEBUG] [mixin/]: Mixing marble_caves.AquiferMixin from yungscavebiomes.mixins.json into net.minecraft.world.level.levelgen.Aquifer$NoiseBasedAquifer
+[04Jul2025 21:06:13.000] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/oak/large_oak_trunk2
+[04Jul2025 21:06:13.006] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/oak/large_oak_canopy2
+[04Jul2025 21:06:18.288] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/generic_trunk
+[04Jul2025 21:06:18.289] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/orchard/orchard_canopy3
+[04Jul2025 21:06:18.711] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/orchard/orchard_trunk1
+[04Jul2025 21:06:18.714] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/orchard/orchard_canopy1
+[04Jul2025 21:06:25.045] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 21:06:25.111] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 21:06:37.920] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in mofus_better_end_:broken_constellation

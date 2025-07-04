@@ -649,5 +649,17 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-07-04 20:59:21 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-07-04 21:01:32 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
