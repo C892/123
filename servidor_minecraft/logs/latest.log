@@ -8322,3 +8322,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Jul2025 19:56:14.936] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
 [04Jul2025 19:56:15.045] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 101844 bytes (in 11 string chunks with the size of 10000)
 [04Jul2025 19:56:15.048] [Server thread/WARN] [ModernFix/]: Dedicated server took 154.353 seconds to load
+[04Jul2025 20:15:41.015] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tin1G[/127.100.209.99:49129] logged in with entity id 54 at (-620.2158008096895, -36.0, 198.067372315545)
+[04Jul2025 20:15:41.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G joined the game
+[04Jul2025 20:16:11.071] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tin1G lost connection: Timed out
+[04Jul2025 20:16:11.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G left the game
+[04Jul2025 20:20:23.892] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tin1G[/127.100.209.99:41477] logged in with entity id 378 at (-620.2158008096895, -36.0, 198.067372315545)
+[04Jul2025 20:20:23.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G joined the game
+[04Jul2025 20:20:55.620] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tin1G lost connection: Disconnected
+[04Jul2025 20:20:55.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G left the game
+[04Jul2025 20:21:40.188] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tin1G[/127.100.209.99:47897] logged in with entity id 714 at (-619.3824143361319, -38.0, 196.9126998629446)
+[04Jul2025 20:21:40.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G joined the game
