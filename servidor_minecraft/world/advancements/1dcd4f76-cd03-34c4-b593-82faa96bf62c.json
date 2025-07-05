@@ -355,6 +355,7 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:forgotten_forest": "2025-07-04 21:48:24 +0000",
       "biomeswevegone:prairie": "2025-07-03 18:33:28 +0000",
       "biomeswevegone:allium_shrubland": "2025-07-02 22:00:37 +0000"
     },
@@ -433,6 +434,7 @@
       "quark:forgotten": "2025-07-04 20:34:11 +0000",
       "minecraft:witch": "2025-07-03 15:33:17 +0000",
       "minecraft:cave_spider": "2025-07-03 18:18:57 +0000",
+      "minecraft:enderman": "2025-07-04 21:35:50 +0000",
       "minecraft:vex": "2025-07-03 15:32:50 +0000",
       "minecraft:zombie": "2025-07-02 22:42:36 +0000",
       "minecraft:zombie_villager": "2025-07-03 15:43:04 +0000"
@@ -658,6 +660,18 @@
   "alexscaves:alexscaves/cave_tablet": {
     "criteria": {
       "cave_tablet": "2025-07-04 21:01:32 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2025-07-04 21:20:49 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-07-04 21:43:21 +0000"
     },
     "done": true
   },

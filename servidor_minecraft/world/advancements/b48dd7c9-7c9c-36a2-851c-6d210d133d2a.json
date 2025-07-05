@@ -648,5 +648,30 @@
     },
     "done": true
   },
+  "twilightforest:arborist": {
+    "criteria": {
+      "twilight_oak_planks": "2025-07-04 21:17:15 +0000",
+      "twilight_oak_log": "2025-07-04 21:17:13 +0000"
+    },
+    "done": false
+  },
+  "quark:mine_toretoise": {
+    "criteria": {
+      "mine_toretoise": "2025-07-04 21:49:44 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2025-07-04 21:47:29 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:arachnophobes_nightmare": {
+    "criteria": {
+      "arachnophobes_nightmare_0": "2025-07-04 21:46:03 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
