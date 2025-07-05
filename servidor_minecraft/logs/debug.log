@@ -13663,3 +13663,58 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Jul2025 21:42:41.233] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Jul2025 21:42:41.280] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [05Jul2025 21:42:50.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> toma
+[05Jul2025 21:43:50.074] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:overworld
+[05Jul2025 21:43:50.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> tienes que cambiar algunos controles
+[05Jul2025 21:43:53.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> de la v
+[05Jul2025 21:44:12.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrincessAuge> donde
+[05Jul2025 21:44:12.173] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blessing_of_life 1: [b48dd7c9-7c9c-36a2-851c-6d210d133d2a]
+[05Jul2025 21:44:21.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge has made the advancement [Magery]
+[05Jul2025 21:44:24.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> con la v usas el hechizo
+[05Jul2025 21:44:32.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> con la r cambias de hechizo
+[05Jul2025 21:44:39.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> pero solo tienes 1
+[05Jul2025 21:44:41.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrincessAuge> solo tengo uno de momento
+[05Jul2025 21:45:03.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrincessAuge> Y q hace este hechizo
+[05Jul2025 21:45:08.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> lanzalo
+[05Jul2025 21:45:17.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> hace daño y cura
+[05Jul2025 21:45:27.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrincessAuge> curo a la gente
+[05Jul2025 21:45:27.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> osea si le pega a alguien cura
+[05Jul2025 21:45:32.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> cura a ti
+[05Jul2025 21:45:34.089] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in the_bumblezone:the_bumblezone
+[05Jul2025 21:45:38.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrincessAuge> a vale
+[05Jul2025 21:45:46.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> esos hechizos son muy agresivos
+[05Jul2025 21:45:55.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrincessAuge> Como es ese crafteo del libro
+[05Jul2025 21:46:01.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrincessAuge> para saber la proxima vez
+[05Jul2025 21:46:03.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrincessAuge> a tini
+[05Jul2025 21:46:24.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> mira el nombre por que es bien de complicado explicarlo
+[05Jul2025 21:46:27.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> en el jei
+[05Jul2025 21:47:02.082] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in twilightforest:twilight_forest
+[05Jul2025 21:47:07.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> mira proden
+[05Jul2025 21:47:10.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> soy un suport
+[05Jul2025 21:47:11.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrincessAuge> como se llama
+[05Jul2025 21:47:15.334] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blessing_of_life 1: [b48dd7c9-7c9c-36a2-851c-6d210d133d2a]
+[05Jul2025 21:47:27.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> lo tienes en el inventario de objetos
+[05Jul2025 21:47:30.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> allí lo ves
+[05Jul2025 21:47:41.236] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 21:47:41.278] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 21:47:48.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrincessAuge> no me sale
+[05Jul2025 21:48:04.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> con tome te sale
+[05Jul2025 21:48:05.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrincessAuge> ya esta
+[05Jul2025 21:48:17.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> o tambien si buscas spell te salen todos
+[05Jul2025 21:48:23.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> hay muchos mejores
+[05Jul2025 21:49:08.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrincessAuge> se pueden traspasar los hechizos a otro libro??
+[05Jul2025 21:49:17.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> si
+[05Jul2025 21:49:21.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> los sacas del libro
+[05Jul2025 21:49:23.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> como hiciste antes
+[05Jul2025 21:49:27.075] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:overworld
+[05Jul2025 21:49:42.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrincessAuge> vale
+[05Jul2025 21:49:50.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrincessAuge> esque quiero hacer el de 8
+[05Jul2025 21:50:01.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrincessAuge> el de aprendiz
+[05Jul2025 21:50:15.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrincessAuge> piel de hoglin es matando a un hoglin no??
+[05Jul2025 21:50:18.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> si
+[05Jul2025 21:50:26.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrincessAuge> Pos ire al nether
+[05Jul2025 21:50:30.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrincessAuge> y me lo hago
+[05Jul2025 21:50:31.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> esta peligroso
+[05Jul2025 21:50:57.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrincessAuge> solo necesito 2
+[05Jul2025 21:52:19.083] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in the_bumblezone:the_bumblezone
+[05Jul2025 21:52:41.240] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 21:52:41.286] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
