@@ -679,6 +679,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-07-05 21:30:22 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "carrot": "2025-07-05 20:13:28 +0000"
