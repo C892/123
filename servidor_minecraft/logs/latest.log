@@ -1107,3 +1107,21 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Jul2025 19:28:40.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G joined the game
 [05Jul2025 19:30:40.664] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2140ms or 42 ticks behind
 [05Jul2025 19:36:09.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Ice Bucket Challenge]
+[05Jul2025 19:47:04.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> la carne de mounstro cocinada es muy buena
+[05Jul2025 19:48:00.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> hagan un tren tio
+[05Jul2025 19:48:09.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> pero hay un tren tren
+[05Jul2025 19:48:11.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> no vagones
+[05Jul2025 19:48:14.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> un tren
+[05Jul2025 19:48:38.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> tienen mesa de encantamientos?
+[05Jul2025 19:49:06.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> por cierto
+[05Jul2025 19:49:13.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> al inicio les dieron un libro verde
+[05Jul2025 19:49:41.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> ese libro tiene info de todos los animales
+[05Jul2025 19:49:45.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> no tengo cama
+[05Jul2025 19:49:48.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> pero estoy cerca
+[05Jul2025 19:51:03.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> PUTa
+[05Jul2025 19:51:13.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> Un dragon
+[05Jul2025 19:51:15.298] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/14720, l='ServerLevel[world]', x=-895.28, y=81.00, z=24.43] died, message: 'Villager was burnt to a crisp whilst fighting Fire Dragon'
+[05Jul2025 19:51:19.863] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/14679, l='ServerLevel[world]', x=-892.63, y=75.00, z=3.57] died, message: 'Villager was turned into KFC by Fire Dragon'
+[05Jul2025 19:51:25.875] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 moved too quickly! 10.07171381021692,1.252203340253729,0.4941969418533887
+[05Jul2025 19:51:25.881] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[05Jul2025 19:51:29.195] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/14715, l='ServerLevel[world]', x=-896.70, y=81.00, z=41.64] died, message: 'Leatherworker burned to death'
