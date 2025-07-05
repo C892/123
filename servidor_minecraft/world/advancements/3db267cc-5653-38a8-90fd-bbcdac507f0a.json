@@ -403,6 +403,7 @@
     "criteria": {
       "minecraft:pillager": "2025-07-03 14:40:25 +0000",
       "minecraft:skeleton": "2025-07-02 21:33:24 +0000",
+      "minecraft:hoglin": "2025-07-05 23:28:02 +0000",
       "minecraft:spider": "2025-07-02 22:18:26 +0000",
       "minecraft:creeper": "2025-07-02 21:52:18 +0000",
       "quark:forgotten": "2025-07-02 21:45:32 +0000",
