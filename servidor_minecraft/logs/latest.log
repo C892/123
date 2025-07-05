@@ -1087,3 +1087,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Jul2025 18:42:53.903] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Calamar892[/127.16.152.39:50419] logged in with entity id 52 at (-411.07501363385467, 35.0, 336.33911037308764)
 [05Jul2025 18:42:54.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 joined the game
 [05Jul2025 18:44:55.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has reached the goal [Exorcism]
+[05Jul2025 18:57:56.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Deceived Hopes]
