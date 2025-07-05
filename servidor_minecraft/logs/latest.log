@@ -8329,3 +8329,31 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Jul2025 17:51:53.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 joined the game
 [05Jul2025 17:55:59.613] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 lost connection: Disconnected
 [05Jul2025 17:55:59.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 left the game
+[05Jul2025 18:00:43.347] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [vminus:network_channel] rejected their client side version number
+[05Jul2025 18:00:43.347] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[05Jul2025 18:00:43.352] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@d7ce66e[id=<null>,name=Calamar892,properties={},legacy=false] (/127.16.152.39:33363) lost connection: Connection closed - mismatched mod channel list
+[05Jul2025 18:00:46.554] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [vminus:network_channel] rejected their client side version number
+[05Jul2025 18:00:46.554] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[05Jul2025 18:00:46.602] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@50160f27[id=<null>,name=Calamar892,properties={},legacy=false] (/127.16.152.39:49761) lost connection: Connection closed - mismatched mod channel list
+[05Jul2025 18:00:57.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[05Jul2025 18:00:57.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[05Jul2025 18:00:57.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[05Jul2025 18:00:57.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[05Jul2025 18:00:57.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05Jul2025 18:00:58.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[05Jul2025 18:00:58.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05Jul2025 18:00:58.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05Jul2025 18:00:58.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mofus_better_end_:broken_constellation
+[05Jul2025 18:00:58.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[05Jul2025 18:00:58.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05Jul2025 18:00:58.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[05Jul2025 18:00:58.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05Jul2025 18:00:58.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05Jul2025 18:00:58.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (broken_constellation): All chunks are saved
+[05Jul2025 18:00:58.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[05Jul2025 18:00:58.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05Jul2025 18:00:58.202] [Server thread/INFO] [Framework/]: Unloading server configs...
+[05Jul2025 18:00:58.203] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[05Jul2025 18:00:58.205] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[05Jul2025 18:00:58.205] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[05Jul2025 18:00:58.214] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
