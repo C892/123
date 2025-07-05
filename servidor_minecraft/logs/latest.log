@@ -1096,3 +1096,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Jul2025 19:01:40.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge left the game
 [05Jul2025 19:03:37.841] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 lost connection: Disconnected
 [05Jul2025 19:03:37.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 left the game
+[05Jul2025 19:25:23.083] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@37778989[id=<null>,name=Tin1G,properties={},legacy=false] (/127.184.30.131:55713) lost connection: Disconnected
+[05Jul2025 19:25:28.907] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PrincessAuge[/127.142.125.183:52853] logged in with entity id 4636 at (-502.3152641042487, -42.0, 269.28043264823845)
+[05Jul2025 19:25:28.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge joined the game
+[05Jul2025 19:26:02.637] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@635368f1[id=<null>,name=Tin1G,properties={},legacy=false] (/127.184.30.131:58979) lost connection: Disconnected
+[05Jul2025 19:28:04.519] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Calamar892[/127.16.152.39:38963] logged in with entity id 5124 at (-936.6999999880791, 7.0, 303.30000001192093)
+[05Jul2025 19:28:04.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 joined the game
+[05Jul2025 19:28:40.037] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'vminus:mob_detection_range'
+[05Jul2025 19:28:40.052] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tin1G[/127.184.30.131:48785] logged in with entity id 5557 at (-504.0788052944404, -42.0, 267.3365593954741)
+[05Jul2025 19:28:40.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G joined the game
+[05Jul2025 19:30:40.664] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2140ms or 42 ticks behind
