@@ -1422,3 +1422,57 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Jul2025 22:13:01.051] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 lost connection: Disconnected
 [05Jul2025 22:13:01.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 left the game
 [05Jul2025 22:23:32.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge has reached the goal [Quaint Scribe]
+[05Jul2025 22:42:08.066] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Calamar892[/127.16.152.39:54989] logged in with entity id 61391 at (-500.69999998807907, 71.0, 130.30000001192093)
+[05Jul2025 22:42:08.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 joined the game
+[05Jul2025 22:42:39.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge has made the advancement [Incendium]
+[05Jul2025 22:42:39.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge has made the advancement [Nether Exorcism]
+[05Jul2025 22:42:39.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge has made the advancement [We Need to Go Deeper]
+[05Jul2025 22:42:45.760] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10736ms or 214 ticks behind
+[05Jul2025 22:42:45.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge has made the advancement [Genetically Advanced]
+[05Jul2025 22:42:59.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> proden que haces en el nether?
+[05Jul2025 22:43:05.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> por que estas en un bosque de adn?
+[05Jul2025 22:43:11.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> proden
+[05Jul2025 22:43:12.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> cuidado
+[05Jul2025 22:43:37.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> donde tienes el portal?
+[05Jul2025 22:44:56.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Incendium]
+[05Jul2025 22:44:56.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Nether Exorcism]
+[05Jul2025 22:44:56.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [We Need to Go Deeper]
+[05Jul2025 22:44:56.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Genetically Advanced]
+[05Jul2025 22:45:28.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> en el nether esta en jefe final
+[05Jul2025 22:45:45.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> es muy dificil ir
+[05Jul2025 22:45:50.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> es como una stronghold
+[05Jul2025 22:46:03.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> proden este bioma es peligroso
+[05Jul2025 22:46:17.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> ah no
+[05Jul2025 22:46:19.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> este no es
+[05Jul2025 22:46:37.827] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/62415, l='ServerLevel[world]', x=-73.64, y=-20.00, z=27.50] died: Toxic Slime was killed
+[05Jul2025 22:46:49.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> este no
+[05Jul2025 22:46:56.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> pero hay un bioma
+[05Jul2025 22:46:58.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> muy
+[05Jul2025 22:47:28.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> le van a lanzar un mega caballero
+[05Jul2025 22:48:17.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> que es eso?
+[05Jul2025 22:48:56.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> tienes diamantes?
+[05Jul2025 22:49:07.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> se me va a la mierda el pico
+[05Jul2025 22:49:22.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> tengo 2 de silver
+[05Jul2025 22:49:25.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> me cago en la pu
+[05Jul2025 22:49:30.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> ok
+[05Jul2025 22:49:45.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Isn't It Iron Pick]
+[05Jul2025 22:49:52.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> si
+[05Jul2025 22:50:08.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> este es el bosque de adn
+[05Jul2025 22:50:12.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> no recuerdo bien para que era
+[05Jul2025 22:50:22.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge has made the advancement [Cursed Bone Valley]
+[05Jul2025 22:50:24.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> aca
+[05Jul2025 22:50:24.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Cursed Bone Valley]
+[05Jul2025 22:50:27.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> ten cuidado
+[05Jul2025 22:51:27.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Fetch Me Their Souls!]
+[05Jul2025 22:51:34.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> ninguno tiene creo
+[05Jul2025 22:51:48.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> creo que ningun arbol del end tiene
+[05Jul2025 22:52:02.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> eso
+[05Jul2025 22:52:04.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> no te acerques
+[05Jul2025 22:52:11.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> proden
+[05Jul2025 22:52:13.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> cuidado
+[05Jul2025 22:52:30.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> ves eso que me mira fijamente?
+[05Jul2025 22:52:42.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> y tanto
+[05Jul2025 22:53:10.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> si encuentras una cria la puedes domesticar
+[05Jul2025 22:53:22.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> buena pregunta
+[05Jul2025 22:53:24.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> proden mira
+[05Jul2025 22:53:29.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> palpita

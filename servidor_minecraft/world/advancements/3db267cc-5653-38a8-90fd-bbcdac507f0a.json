@@ -407,6 +407,7 @@
       "minecraft:creeper": "2025-07-02 21:52:18 +0000",
       "quark:forgotten": "2025-07-02 21:45:32 +0000",
       "minecraft:cave_spider": "2025-07-03 13:50:11 +0000",
+      "minecraft:piglin": "2025-07-05 22:51:58 +0000",
       "minecraft:zombie": "2025-07-02 21:33:55 +0000",
       "minecraft:drowned": "2025-07-05 19:01:36 +0000",
       "minecraft:zombie_villager": "2025-07-02 22:00:27 +0000"
@@ -754,77 +755,61 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "nethers_exorcism_reborn:enterturquosieplains": {
     "criteria": {
-      "log_spam_fixer": "2025-07-05 22:12:41 +0000"
+      "enterturquosieplains_0": "2025-07-05 22:50:24 +0000"
+    },
+    "done": true
+  },
+  "nethers_exorcism_reborn:nether_exorcism": {
+    "criteria": {
+      "nether_exorcism_0": "2025-07-05 22:44:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-07-05 22:49:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-07-05 22:51:50 +0000",
+      "minecraft:nether_wastes": "2025-07-05 22:47:58 +0000",
+      "minecraft:basalt_deltas": "2025-07-05 22:47:02 +0000"
     },
     "done": false
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "incendium:root": {
     "criteria": {
-      "log_spam_fixer": "2025-07-05 22:12:41 +0000"
+      "requirement": "2025-07-05 22:44:56 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "minecraft:nether/root": {
     "criteria": {
-      "log_spam_fixer": "2025-07-05 22:12:41 +0000"
+      "entered_nether": "2025-07-05 22:44:56 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "nethers_exorcism_reborn:enter_dna_forest": {
     "criteria": {
-      "log_spam_fixer": "2025-07-05 22:12:41 +0000"
+      "enter_dna_forest_0": "2025-07-05 22:44:56 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "alexsmobs:alexsmobs/soul_vulture": {
     "criteria": {
-      "log_spam_fixer": "2025-07-05 22:12:41 +0000"
+      "killed_by": "2025-07-05 22:51:27 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "minecraft:story/enter_the_nether": {
     "criteria": {
-      "log_spam_fixer": "2025-07-05 22:12:41 +0000"
+      "entered_nether": "2025-07-05 22:44:56 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-05 22:12:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-05 22:12:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-05 22:12:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-05 22:12:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-05 22:12:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-05 22:12:41 +0000"
-    },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }

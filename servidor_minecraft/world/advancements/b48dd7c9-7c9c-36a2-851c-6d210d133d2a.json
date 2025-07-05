@@ -679,6 +679,44 @@
     },
     "done": true
   },
+  "nethers_exorcism_reborn:enterturquosieplains": {
+    "criteria": {
+      "enterturquosieplains_0": "2025-07-05 22:50:22 +0000"
+    },
+    "done": true
+  },
+  "nethers_exorcism_reborn:nether_exorcism": {
+    "criteria": {
+      "nether_exorcism_0": "2025-07-05 22:42:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-07-05 22:51:44 +0000",
+      "minecraft:nether_wastes": "2025-07-05 22:47:50 +0000",
+      "minecraft:basalt_deltas": "2025-07-05 22:46:58 +0000"
+    },
+    "done": false
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-07-05 22:42:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-07-05 22:42:39 +0000"
+    },
+    "done": true
+  },
+  "nethers_exorcism_reborn:enter_dna_forest": {
+    "criteria": {
+      "enter_dna_forest_0": "2025-07-05 22:42:45 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
       "killed_by": "2025-07-05 21:30:22 +0000"
@@ -688,6 +726,12 @@
   "irons_spellbooks:irons_spellbooks/spell_book_iron": {
     "criteria": {
       "requirement": "2025-07-05 21:42:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-07-05 22:42:39 +0000"
     },
     "done": true
   },
