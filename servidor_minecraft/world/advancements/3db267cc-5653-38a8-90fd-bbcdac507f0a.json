@@ -676,77 +676,35 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:story/form_obsidian": {
     "criteria": {
-      "log_spam_fixer": "2025-07-05 21:58:41 +0000"
+      "obsidian": "2025-07-05 19:36:09 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "dungeons_arise:find_greenwood_pub": {
     "criteria": {
-      "log_spam_fixer": "2025-07-05 21:58:41 +0000"
+      "location0": "2025-07-05 19:50:03 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "alexsmobs:alexsmobs/crocodile": {
     "criteria": {
-      "log_spam_fixer": "2025-07-05 21:58:41 +0000"
+      "killed_by": "2025-07-05 20:21:14 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "alexsmobs:alexsmobs/root": {
     "criteria": {
-      "log_spam_fixer": "2025-07-05 21:58:41 +0000"
+      "useitem": "2025-07-05 20:31:58 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "farmersdelight:main/harvest_ropelogged_tomato": {
     "criteria": {
-      "log_spam_fixer": "2025-07-05 21:58:41 +0000"
+      "harvest_ropelogged_tomato": "2025-07-05 20:40:55 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-05 21:58:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-05 21:58:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-05 21:58:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-05 21:58:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-05 21:58:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-05 21:58:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-05 21:58:41 +0000"
-    },
-    "done": false
+    "done": true
   },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
@@ -760,41 +718,17 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/spell_book_iron": {
-    "criteria": {
-      "requirement": "2025-07-05 21:42:46 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/root": {
-    "criteria": {
-      "useitem": "2025-07-05 20:31:58 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_greenwood_pub": {
-    "criteria": {
-      "location0": "2025-07-05 19:50:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-07-05 19:36:09 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/crocodile": {
-    "criteria": {
-      "killed_by": "2025-07-05 20:21:14 +0000"
-    },
-    "done": true
-  },
   "betterdungeons:all_dungeons": {
     "criteria": {
       "in_better_spider_dungeon": "2025-07-05 21:32:36 +0000"
     },
     "done": false
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-07-05 21:32:36 +0000"
+    },
+    "done": true
   },
   "irons_spellbooks:irons_spellbooks/root": {
     "criteria": {
@@ -808,23 +742,89 @@
     },
     "done": true
   },
-  "betterdungeons:spider_dungeon": {
-    "criteria": {
-      "in_better_spider_dungeon": "2025-07-05 21:32:36 +0000"
-    },
-    "done": true
-  },
   "irons_spellbooks:irons_spellbooks/make_inscription_table": {
     "criteria": {
       "inscription_table": "2025-07-05 21:40:37 +0000"
     },
     "done": true
   },
-  "farmersdelight:main/harvest_ropelogged_tomato": {
+  "irons_spellbooks:irons_spellbooks/spell_book_iron": {
     "criteria": {
-      "harvest_ropelogged_tomato": "2025-07-05 20:40:55 +0000"
+      "requirement": "2025-07-05 21:42:46 +0000"
     },
     "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-05 22:12:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-05 22:12:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-05 22:12:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-05 22:12:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-05 22:12:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-05 22:12:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-05 22:12:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-05 22:12:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-05 22:12:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-05 22:12:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-05 22:12:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-05 22:12:41 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

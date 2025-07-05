@@ -1417,3 +1417,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Jul2025 21:55:09.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> ya
 [05Jul2025 21:59:24.036] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 lost connection: Disconnected
 [05Jul2025 21:59:24.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 left the game
+[05Jul2025 22:06:35.320] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Calamar892[/127.16.152.39:49513] logged in with entity id 56034 at (-376.30000001192093, 63.0, 453.69999998807907)
+[05Jul2025 22:06:35.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 joined the game
+[05Jul2025 22:13:01.051] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 lost connection: Disconnected
+[05Jul2025 22:13:01.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 left the game
