@@ -1106,3 +1106,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Jul2025 19:28:40.052] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tin1G[/127.184.30.131:48785] logged in with entity id 5557 at (-504.0788052944404, -42.0, 267.3365593954741)
 [05Jul2025 19:28:40.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G joined the game
 [05Jul2025 19:30:40.664] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2140ms or 42 ticks behind
+[05Jul2025 19:36:09.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Ice Bucket Challenge]
