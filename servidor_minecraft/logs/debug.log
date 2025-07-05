@@ -14332,3 +14332,41 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Jul2025 22:53:24.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> proden mira
 [05Jul2025 22:53:29.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> palpita
 [05Jul2025 22:53:43.786] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in twilightforest:twilight_forest
+[05Jul2025 22:54:29.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> toma
+[05Jul2025 22:54:39.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> la pones en el suelo si se acerca un hoglin
+[05Jul2025 22:54:52.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> pues agresiva no es
+[05Jul2025 22:55:01.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [] survial
+[05Jul2025 22:55:01.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Ancient Golems]
+[05Jul2025 22:55:05.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [] survial
+[05Jul2025 22:55:05.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge has made the advancement [Ancient Golems]
+[05Jul2025 22:55:37.687] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blessing_of_life 1: [b48dd7c9-7c9c-36a2-851c-6d210d133d2a]
+[05Jul2025 22:55:39.089] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blessing_of_life 1: [b48dd7c9-7c9c-36a2-851c-6d210d133d2a]
+[05Jul2025 22:55:48.773] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:overworld
+[05Jul2025 22:56:08.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 was blown up by Turquoise Drifter
+[05Jul2025 22:56:10.472] [Server thread/DEBUG] [twilightforest/]: Player Calamar892 (3db267cc-5653-38a8-90fd-bbcdac507f0a) respawned and received items held in storage
+[05Jul2025 22:56:11.220] [Worker-Main-214/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=191, y=31, z=-210}
+[05Jul2025 22:56:11.221] [Worker-Main-214/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=191, y=31, z=-209}
+[05Jul2025 22:56:11.221] [Worker-Main-214/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=191, y=31, z=-208}
+[05Jul2025 22:56:27.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> mataste uno?
+[05Jul2025 22:56:43.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> la capa en el nether
+[05Jul2025 22:56:44.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> dura
+[05Jul2025 22:57:06.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> pou
+[05Jul2025 22:57:31.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> los hechizos proden
+[05Jul2025 22:57:50.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> no
+[05Jul2025 22:57:51.953] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 22:57:51.992] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 22:58:29.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> Con el poder del amor y la amistad
+[05Jul2025 22:59:04.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Suit Up]
+[05Jul2025 22:59:12.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> no
+[05Jul2025 22:59:59.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> los mataste?
+[05Jul2025 23:01:05.790] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in twilightforest:twilight_forest
+[05Jul2025 23:01:06.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge has made the advancement [Bravest of Warrior]
+[05Jul2025 23:01:13.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> parecian wardens
+[05Jul2025 23:01:23.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge has made the advancement [This belongs In a Museum!]
+[05Jul2025 23:01:29.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> por que mi casco es una mierda y me inmola
+[05Jul2025 23:02:07.776] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_nether
+[05Jul2025 23:02:31.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Nightmare Fuel]
+[05Jul2025 23:02:51.936] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 23:02:51.978] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 23:03:06.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Radioactive Hell]
+[05Jul2025 23:03:25.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [] survial

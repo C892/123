@@ -755,9 +755,21 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-07-05 22:59:04 +0000"
+    },
+    "done": true
+  },
   "nethers_exorcism_reborn:enterturquosieplains": {
     "criteria": {
       "enterturquosieplains_0": "2025-07-05 22:50:24 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-07-05 23:02:31 +0000"
     },
     "done": true
   },
@@ -770,6 +782,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-07-05 22:49:45 +0000"
+    },
+    "done": true
+  },
+  "nethers_exorcism_reborn:drifterstructure": {
+    "criteria": {
+      "drifterstructure_0": "2025-07-05 22:55:01 +0000"
     },
     "done": true
   },
