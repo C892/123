@@ -1414,3 +1414,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Jul2025 21:50:30.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrincessAuge> y me lo hago
 [05Jul2025 21:50:31.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> esta peligroso
 [05Jul2025 21:50:57.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrincessAuge> solo necesito 2
+[05Jul2025 21:55:09.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> ya
+[05Jul2025 21:59:24.036] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 lost connection: Disconnected
+[05Jul2025 21:59:24.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 left the game
