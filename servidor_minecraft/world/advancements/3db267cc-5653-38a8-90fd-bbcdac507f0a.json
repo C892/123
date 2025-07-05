@@ -763,6 +763,12 @@
     },
     "done": true
   },
+  "minecraft_121_update:trial_chambers_start_advancement": {
+    "criteria": {
+      "trial_chambers_start_advancement": "2025-07-05 23:42:33 +0000"
+    },
+    "done": true
+  },
   "nethers_exorcism_reborn:enterturquosieplains": {
     "criteria": {
       "enterturquosieplains_0": "2025-07-05 22:50:24 +0000"
@@ -834,6 +840,12 @@
   "nethers_exorcism_reborn:bi_ohazardou_sd_eltas": {
     "criteria": {
       "bi_ohazardou_sd_eltas_0": "2025-07-05 23:03:06 +0000"
+    },
+    "done": true
+  },
+  "nethers_exorcism_reborn:encounterhellstinger": {
+    "criteria": {
+      "encounterhellstinger_0": "2025-07-05 23:34:30 +0000"
     },
     "done": true
   },
