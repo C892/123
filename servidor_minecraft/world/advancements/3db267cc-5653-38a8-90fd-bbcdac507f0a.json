@@ -837,6 +837,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/make_arcane_anvil": {
+    "criteria": {
+      "arcane_anvil": "2025-07-05 23:50:43 +0000"
+    },
+    "done": true
+  },
   "nethers_exorcism_reborn:bi_ohazardou_sd_eltas": {
     "criteria": {
       "bi_ohazardou_sd_eltas_0": "2025-07-05 23:03:06 +0000"
@@ -846,6 +852,12 @@
   "nethers_exorcism_reborn:encounterhellstinger": {
     "criteria": {
       "encounterhellstinger_0": "2025-07-05 23:34:30 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_gold": {
+    "criteria": {
+      "requirement": "2025-07-05 23:47:05 +0000"
     },
     "done": true
   },
