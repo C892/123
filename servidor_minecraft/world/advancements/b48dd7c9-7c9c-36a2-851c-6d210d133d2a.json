@@ -703,6 +703,18 @@
     },
     "done": false
   },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2025-07-05 22:23:32 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-07-05 22:23:32 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_ghost": {
     "criteria": {
       "killed_fire_dragon": "2025-07-05 21:34:26 +0000"
@@ -720,6 +732,12 @@
       "carrot": "2025-07-05 20:13:28 +0000"
     },
     "done": false
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-07-05 22:23:32 +0000"
+    },
+    "done": true
   },
   "born_in_chaos_v1:junior_summoner": {
     "criteria": {
