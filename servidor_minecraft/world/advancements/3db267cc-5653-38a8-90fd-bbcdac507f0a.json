@@ -427,6 +427,7 @@
       "biomeswevegone:coconino_meadow": "2025-07-03 13:39:08 +0000",
       "biomeswevegone:maple_taiga": "2025-07-03 14:20:51 +0000",
       "biomeswevegone:orchard": "2025-07-02 21:54:31 +0000",
+      "biomeswevegone:weeping_witch_forest": "2025-07-05 19:48:03 +0000",
       "biomeswevegone:prairie": "2025-07-03 14:18:02 +0000",
       "biomeswevegone:aspen_boreal": "2025-07-03 14:21:35 +0000",
       "biomeswevegone:allium_shrubland": "2025-07-02 22:34:08 +0000",
@@ -496,7 +497,9 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "clover_patch": "2025-07-05 20:03:57 +0000",
       "mystic_grove": "2025-07-05 19:31:55 +0000",
+      "orchard": "2025-07-05 19:51:22 +0000",
       "lavender_forest": "2025-07-02 22:39:14 +0000",
       "spider_nest": "2025-07-03 13:50:06 +0000",
       "forested_field": "2025-07-05 19:33:01 +0000",
@@ -628,6 +631,7 @@
       "tomato": "2025-07-05 18:21:39 +0000",
       "potato": "2025-07-05 18:22:34 +0000",
       "wheat": "2025-07-05 18:18:48 +0000",
+      "pumpkin": "2025-07-05 20:37:02 +0000",
       "carrot": "2025-07-05 18:22:30 +0000"
     },
     "done": false
@@ -658,7 +662,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_beef": "2025-07-05 18:48:11 +0000"
+      "cooked_porkchop": "2025-07-05 20:08:10 +0000",
+      "cooked_beef": "2025-07-05 18:48:11 +0000",
+      "cookie": "2025-07-05 19:50:57 +0000",
+      "bread": "2025-07-05 20:08:13 +0000"
     },
     "done": false
   },
@@ -668,9 +675,27 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-07-05 20:31:58 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_greenwood_pub": {
+    "criteria": {
+      "location0": "2025-07-05 19:50:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-07-05 19:36:09 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-07-05 20:21:14 +0000"
     },
     "done": true
   },

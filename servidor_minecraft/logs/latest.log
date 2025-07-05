@@ -1125,3 +1125,105 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Jul2025 19:51:25.875] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 moved too quickly! 10.07171381021692,1.252203340253729,0.4941969418533887
 [05Jul2025 19:51:25.881] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
 [05Jul2025 19:51:29.195] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/14715, l='ServerLevel[world]', x=-896.70, y=81.00, z=41.64] died, message: 'Leatherworker burned to death'
+[05Jul2025 19:52:05.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> yo ahora mismo quiero que no me incinere un dragon
+[05Jul2025 19:52:16.814] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/14723, l='ServerLevel[world]', x=-896.70, y=81.00, z=41.50] died, message: 'Butcher burned to death'
+[05Jul2025 19:52:41.207] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2084ms or 41 ticks behind
+[05Jul2025 19:53:13.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> el lado bueno
+[05Jul2025 19:53:17.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> no me comio un dragon
+[05Jul2025 19:53:20.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> el lado malo
+[05Jul2025 19:53:23.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> quemo una aldea
+[05Jul2025 19:56:26.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> si encuentran un jamon me lo dan
+[05Jul2025 19:58:33.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> CUERVO DE MIER
+[05Jul2025 19:58:40.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> se me robo las papas
+[05Jul2025 20:00:58.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> que lindo como cogen
+[05Jul2025 20:02:54.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> si ven como un caballero gigante no dejen que les pegue o los maldice
+[05Jul2025 20:03:34.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 was blown up by Skeleton
+[05Jul2025 20:03:42.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> por que un esqueleto me inmolo?
+[05Jul2025 20:03:55.496] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/21699, l='ServerLevel[world]', x=-885.15, y=84.00, z=34.20] died, message: 'Librarian burned to death'
+[05Jul2025 20:04:09.109] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/21701, l='ServerLevel[world]', x=-886.55, y=83.00, z=40.05] died, message: 'Villager burned to death'
+[05Jul2025 20:04:32.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 was slain by Nightmare Stalker
+[05Jul2025 20:09:03.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> robando comida
+[05Jul2025 20:09:43.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> tini con quien andas?
+[05Jul2025 20:10:26.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> yo voy a hacer la primera base en el bioma de arboles grandes estos
+[05Jul2025 20:10:38.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> el iluminadow
+[05Jul2025 20:10:42.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> iluminado
+[05Jul2025 20:10:48.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> no
+[05Jul2025 20:10:56.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> el que tienen al lado con bayas
+[05Jul2025 20:11:16.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> por cierto la mayoria de animales son domesticos
+[05Jul2025 20:11:47.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> dragon ball?
+[05Jul2025 20:12:24.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> si se domestican un cuervo les autoacomoda los cultivos
+[05Jul2025 20:12:26.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> ño
+[05Jul2025 20:14:06.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> los mapaches te piden comida
+[05Jul2025 20:14:56.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> les importa si hacemos una base por aqui cerca??
+[05Jul2025 20:15:03.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> ven mira
+[05Jul2025 20:15:05.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> a bueno
+[05Jul2025 20:15:16.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> yo queria hacerlo en este bioma que esta bonito
+[05Jul2025 20:15:17.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> mira
+[05Jul2025 20:15:22.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> no
+[05Jul2025 20:15:25.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> este perate
+[05Jul2025 20:15:29.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> si
+[05Jul2025 20:15:45.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> aqui es donde tengo cosas
+[05Jul2025 20:16:12.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> yo tenia pensado hacer tuneles
+[05Jul2025 20:16:17.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> en vez de edificio
+[05Jul2025 20:16:35.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> como bunker
+[05Jul2025 20:16:50.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> los hijoputas cuervos me roban
+[05Jul2025 20:16:57.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> si
+[05Jul2025 20:17:33.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> me ando hablando con alguien de turquia que sabe ingles
+[05Jul2025 20:17:58.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> tini
+[05Jul2025 20:18:08.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> en este bioma no aparecen tantos tantos mobs
+[05Jul2025 20:18:16.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> al estar medianamente ya iluminado
+[05Jul2025 20:18:51.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> igual tenia planeado tener un ivernadero aca
+[05Jul2025 20:18:56.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> como se escriba
+[05Jul2025 20:20:07.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> la mesa y librerias donde las tienen?
+[05Jul2025 20:20:57.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> si
+[05Jul2025 20:21:11.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> que se conecte con tuneles
+[05Jul2025 20:21:11.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G has made the advancement [Chompy]
+[05Jul2025 20:21:14.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Chompy]
+[05Jul2025 20:21:21.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> te pegue un espadaso
+[05Jul2025 20:21:38.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> a ver si se puede incubar
+[05Jul2025 20:21:42.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge has made the advancement [Hot Stuff]
+[05Jul2025 20:21:42.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> nos hacemos un acuario 100%
+[05Jul2025 20:22:01.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge has made the advancement [Junior Summoner]
+[05Jul2025 20:22:07.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> empecemos en el medio este
+[05Jul2025 20:22:35.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> no
+[05Jul2025 20:22:37.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> la verdad
+[05Jul2025 20:22:53.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> no traje minerales
+[05Jul2025 20:23:13.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> si quieren xp pueden activar los spawners rojos que dan un huevo
+[05Jul2025 20:23:19.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> no se
+[05Jul2025 20:23:36.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> tini
+[05Jul2025 20:23:38.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> no te dejes pegar
+[05Jul2025 20:23:45.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> si
+[05Jul2025 20:23:53.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> se activa
+[05Jul2025 20:24:13.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G has made the advancement [Double Trouble]
+[05Jul2025 20:24:26.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> aqui si
+[05Jul2025 20:24:30.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> en el bosque no
+[05Jul2025 20:25:21.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> deja voy a mi cama
+[05Jul2025 20:26:10.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> brr brr patapim
+[05Jul2025 20:28:43.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> que venga un mago a mi casa que es
+[05Jul2025 20:28:57.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> si
+[05Jul2025 20:29:07.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> hay un ascensor muy avanzado de hecho
+[05Jul2025 20:29:14.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> facil
+[05Jul2025 20:29:18.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> para mi
+[05Jul2025 20:29:19.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> no mentira
+[05Jul2025 20:29:38.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> elevator
+[05Jul2025 20:29:40.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> y te sale
+[05Jul2025 20:30:17.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> elevador entonces que lo tienen en español creo
+[05Jul2025 20:30:49.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> el cuervo de mier
+[05Jul2025 20:31:14.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> tini traslado todo?
+[05Jul2025 20:31:22.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> tini
+[05Jul2025 20:31:31.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> traslado todo?
+[05Jul2025 20:31:58.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Alex's Mobs]
+[05Jul2025 20:32:15.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> o se reproducen
+[05Jul2025 20:32:46.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> tengo un lugar con aldeanos pero es arriesgado por que hay un dragon pequeño
+[05Jul2025 20:34:11.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> adopto un cuervo?
+[05Jul2025 20:34:15.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> para que ordene los cultivos
+[05Jul2025 20:34:48.614] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tin1G lost connection: Disconnected
+[05Jul2025 20:34:48.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G left the game
+[05Jul2025 20:37:26.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> duerme proden
+[05Jul2025 20:37:41.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> asi no estan jodiendo los mobs
+[05Jul2025 20:39:23.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> proden
+[05Jul2025 20:39:32.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> te puedes domesticar un elefante
+[05Jul2025 20:39:59.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> luz y agua
+[05Jul2025 20:40:18.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> ven planta aca
+[05Jul2025 20:40:20.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> mejor
+[05Jul2025 20:41:56.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> proden planta cobre
