@@ -597,77 +597,57 @@
     },
     "done": false
   },
-  "incendium:technical/sentrys_wrath": {
+  "biomeswevegone:biomeswevegone/husbandry/root": {
     "criteria": {
-      "log_spam_fixer": "2025-07-05 17:55:17 +0000"
+      "consumed_item": "2025-07-05 18:13:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-07-05 18:13:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-07-05 18:18:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "onion": "2025-07-05 18:21:20 +0000",
+      "tomato": "2025-07-05 18:21:39 +0000",
+      "potato": "2025-07-05 18:22:34 +0000",
+      "wheat": "2025-07-05 18:18:48 +0000",
+      "carrot": "2025-07-05 18:22:30 +0000"
     },
     "done": false
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "farmersdelight:main/craft_knife": {
     "criteria": {
-      "log_spam_fixer": "2025-07-05 17:55:17 +0000"
+      "iron_knife": "2025-07-05 18:26:08 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "farmersdelight:main/harvest_straw": {
     "criteria": {
-      "log_spam_fixer": "2025-07-05 17:55:17 +0000"
+      "harvest_straw": "2025-07-05 18:26:12 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "born_in_chaos_v1:explosive_temper": {
     "criteria": {
-      "log_spam_fixer": "2025-07-05 17:55:17 +0000"
+      "explosive_temper_0": "2025-07-05 18:30:04 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "born_in_chaos_v1:exorcism": {
     "criteria": {
-      "log_spam_fixer": "2025-07-05 17:55:17 +0000"
+      "exorcism_0": "2025-07-05 18:44:55 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-05 17:55:17 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-05 17:55:17 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-05 17:55:17 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-05 17:55:17 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-05 17:55:17 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-05 17:55:17 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-05 17:55:17 +0000"
-    },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }
