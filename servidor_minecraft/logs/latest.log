@@ -1421,3 +1421,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Jul2025 22:06:35.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 joined the game
 [05Jul2025 22:13:01.051] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 lost connection: Disconnected
 [05Jul2025 22:13:01.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 left the game
+[05Jul2025 22:23:32.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge has reached the goal [Quaint Scribe]
