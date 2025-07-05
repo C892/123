@@ -451,9 +451,11 @@
     "criteria": {
       "minecraft:pillager": "2025-07-03 15:09:48 +0000",
       "minecraft:skeleton": "2025-07-02 22:29:17 +0000",
+      "minecraft:hoglin": "2025-07-05 23:13:38 +0000",
       "minecraft:spider": "2025-07-03 15:10:47 +0000",
       "minecraft:witch": "2025-07-03 15:30:30 +0000",
       "minecraft:cave_spider": "2025-07-03 14:12:22 +0000",
+      "minecraft:piglin": "2025-07-05 23:17:22 +0000",
       "minecraft:zombie": "2025-07-02 22:30:06 +0000"
     },
     "done": false
@@ -816,6 +818,12 @@
   "nethers_exorcism_reborn:encounterhellstinger": {
     "criteria": {
       "encounterhellstinger_0": "2025-07-05 23:06:12 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-07-05 23:14:40 +0000"
     },
     "done": true
   },
