@@ -8335,3 +8335,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Jul2025 16:55:07.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 left the game
 [05Jul2025 16:55:07.202] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [05Jul2025 16:56:05.807] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@17e87822[id=<null>,name=Calamar892,properties={},legacy=false] (/127.16.152.39:47723) lost connection: Disconnected
+[05Jul2025 16:58:19.846] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Calamar892[/127.16.152.39:48589] logged in with entity id 7000 at (124.30000001192093, 70.0, 569.1889438348269)
+[05Jul2025 16:58:19.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 joined the game
