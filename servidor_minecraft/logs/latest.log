@@ -1132,3 +1132,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [06Jul2025 16:46:03.780] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=590, y=4, z=253} BlockPos{x=590, y=3, z=252}
 [06Jul2025 16:46:05.879] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=592, y=5, z=252} BlockPos{x=592, y=6, z=252}
 [06Jul2025 16:46:14.277] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=596, y=1, z=251} BlockPos{x=597, y=0, z=251}
+[06Jul2025 16:49:23.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to PrincessAuge: when jijijija
+[06Jul2025 16:49:23.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Tin1G: when jijijija
+[06Jul2025 16:53:42.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge was impaled on a stalagmite
+[06Jul2025 16:54:18.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[06Jul2025 16:54:35.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[06Jul2025 16:54:59.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported PrincessAuge to Tin1G
