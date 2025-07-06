@@ -454,6 +454,7 @@
       "minecraft:hoglin": "2025-07-05 23:13:38 +0000",
       "minecraft:vindicator": "2025-07-06 00:00:20 +0000",
       "minecraft:spider": "2025-07-03 15:10:47 +0000",
+      "minecraft:evoker": "2025-07-06 00:06:55 +0000",
       "minecraft:zombified_piglin": "2025-07-05 23:27:48 +0000",
       "minecraft:witch": "2025-07-03 15:30:30 +0000",
       "minecraft:cave_spider": "2025-07-03 14:12:22 +0000",
@@ -525,6 +526,7 @@
       "maple_woods": "2025-07-03 17:20:57 +0000",
       "lavender_forest": "2025-07-03 14:14:30 +0000",
       "spider_nest": "2025-07-03 13:37:18 +0000",
+      "redwood_forest": "2025-07-06 00:40:53 +0000",
       "seasonal_orchard": "2025-07-03 17:16:18 +0000",
       "seasonal_forest": "2025-07-03 17:16:30 +0000",
       "lavender_field": "2025-07-03 14:57:20 +0000",
@@ -824,6 +826,13 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_0": "2025-07-06 00:08:21 +0000",
+      "charm_collector_2": "2025-07-06 00:08:20 +0000"
+    },
+    "done": false
+  },
   "minecraft_121_update:trial_chambers_start_advancement": {
     "criteria": {
       "trial_chambers_start_advancement": "2025-07-05 23:42:33 +0000"
@@ -836,15 +845,33 @@
     },
     "done": true
   },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-07-06 00:41:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-07-05 23:51:55 +0000"
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-07-06 00:08:42 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/spell_book_gold": {
     "criteria": {
       "requirement": "2025-07-05 23:42:52 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2025-07-06 00:36:48 +0000"
     },
     "done": true
   },

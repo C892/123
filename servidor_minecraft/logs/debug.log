@@ -15066,3 +15066,147 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [06Jul2025 00:04:22.062] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blessing_of_life 1: [2b9b8375-2af1-4662-acf8-3ad39ea83da5]
 [06Jul2025 00:04:34.144] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blessing_of_life 1: [b48dd7c9-7c9c-36a2-851c-6d210d133d2a]
 [06Jul2025 00:04:58.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> lo peor es que esta lloviendo por culpa ed nosotros
+[06Jul2025 00:05:16.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> si
+[06Jul2025 00:05:19.723] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blessing_of_life 1: [b48dd7c9-7c9c-36a2-851c-6d210d133d2a]
+[06Jul2025 00:05:56.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 was shot by Missionary
+[06Jul2025 00:05:58.110] [Server thread/DEBUG] [twilightforest/]: Player Calamar892 (3db267cc-5653-38a8-90fd-bbcdac507f0a) respawned and received items held in storage
+[06Jul2025 00:06:04.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> me dio un guau guau
+[06Jul2025 00:06:55.893] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_evoker_loot
+[06Jul2025 00:07:51.983] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 00:07:52.024] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 00:08:02.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> josue ven
+[06Jul2025 00:08:04.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> o te violan
+[06Jul2025 00:08:22.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> bueno vamos a ver que tan chill va a estar proden
+[06Jul2025 00:08:42.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge has completed the challenge [Hero of the Village]
+[06Jul2025 00:08:42.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has completed the challenge [Hero of the Village]
+[06Jul2025 00:08:56.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> dame a ver
+[06Jul2025 00:09:06.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Josue3234YT has made the advancement [Monster Hunter]
+[06Jul2025 00:09:33.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> mira
+[06Jul2025 00:09:35.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> proden
+[06Jul2025 00:09:37.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> no
+[06Jul2025 00:09:39.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> proden
+[06Jul2025 00:09:43.797] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in mofus_better_end_:broken_constellation
+[06Jul2025 00:09:55.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> creo que se que es proden
+[06Jul2025 00:10:05.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> ya sabes no?
+[06Jul2025 00:10:19.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> son las runas de antes proden
+[06Jul2025 00:10:23.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> pero te dio otra aparte
+[06Jul2025 00:10:26.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> una es la de fuerza
+[06Jul2025 00:10:31.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> la otra de velocidad creo
+[06Jul2025 00:10:42.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> las puedes usar para darte esos bufos
+[06Jul2025 00:11:03.107] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_0
+[06Jul2025 00:11:03.147] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_7
+[06Jul2025 00:11:03.148] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_14
+[06Jul2025 00:11:03.150] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_stairs_2
+[06Jul2025 00:11:03.151] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_9
+[06Jul2025 00:11:03.152] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_6
+[06Jul2025 00:11:03.152] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_10
+[06Jul2025 00:11:03.152] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_4
+[06Jul2025 00:11:03.153] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_5
+[06Jul2025 00:11:03.153] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_4
+[06Jul2025 00:11:03.154] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_2
+[06Jul2025 00:11:03.154] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_13
+[06Jul2025 00:11:03.155] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_3
+[06Jul2025 00:11:03.156] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_6
+[06Jul2025 00:11:03.156] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_0
+[06Jul2025 00:11:03.157] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_2
+[06Jul2025 00:11:03.157] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_spawner_0
+[06Jul2025 00:11:03.157] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_stairs_0
+[06Jul2025 00:11:03.158] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_16
+[06Jul2025 00:11:03.158] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_terminator_0
+[06Jul2025 00:11:03.159] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_2
+[06Jul2025 00:11:03.159] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_5
+[06Jul2025 00:11:03.160] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_stairs_1
+[06Jul2025 00:11:03.160] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_8
+[06Jul2025 00:11:03.160] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_3
+[06Jul2025 00:11:03.161] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_15
+[06Jul2025 00:11:03.161] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_3
+[06Jul2025 00:11:03.161] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_0
+[06Jul2025 00:11:03.162] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_0
+[06Jul2025 00:11:03.163] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_4
+[06Jul2025 00:11:03.164] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_12
+[06Jul2025 00:11:03.164] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_spawner_1
+[06Jul2025 00:11:03.164] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_11
+[06Jul2025 00:11:28.619] [Worker-Main-195/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/orchard/orchard_canopy3
+[06Jul2025 00:11:54.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Josue3234YT was shot by Bonescaller
+[06Jul2025 00:11:59.002] [Server thread/DEBUG] [twilightforest/]: Player Josue3234YT (b0a22a55-37ca-3398-8d2c-bfcb028801da) respawned and received items held in storage
+[06Jul2025 00:12:52.060] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 00:12:52.100] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 00:13:35.800] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in mofus_better_end_:broken_constellation
+[06Jul2025 00:14:30.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Junior Summoner]
+[06Jul2025 00:14:48.193] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blessing_of_life 1: [b48dd7c9-7c9c-36a2-851c-6d210d133d2a]
+[06Jul2025 00:15:02.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Josue3234YT was slain by Crocodile
+[06Jul2025 00:15:05.217] [Server thread/DEBUG] [twilightforest/]: Player Josue3234YT (b0a22a55-37ca-3398-8d2c-bfcb028801da) respawned and received items held in storage
+[06Jul2025 00:16:37.825] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in the_bumblezone:the_bumblezone
+[06Jul2025 00:17:52.008] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 00:17:52.049] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 00:19:01.600] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/90761, l='ServerLevel[world]', x=-784.75, y=76.00, z=-27.62] died, message: 'Villager was incinerated by Fire Dragon'
+[06Jul2025 00:19:06.443] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/90683, l='ServerLevel[world]', x=-799.48, y=79.00, z=-44.90] died, message: 'Villager was slain by Fire Dragon'
+[06Jul2025 00:19:31.299] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/91265, l='ServerLevel[world]', x=-898.30, y=80.00, z=42.50] died, message: 'Fisherman went up in flames'
+[06Jul2025 00:21:57.738] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/staircase
+[06Jul2025 00:21:57.745] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/basement
+[06Jul2025 00:21:57.746] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/stairway
+[06Jul2025 00:21:57.747] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/junction
+[06Jul2025 00:21:57.747] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/dual_storage_secret
+[06Jul2025 00:21:57.748] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/rubble_dead_end
+[06Jul2025 00:21:57.749] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/cask_rack
+[06Jul2025 00:22:52.016] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 00:22:52.056] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 00:23:37.799] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in the_bumblezone:the_bumblezone
+[06Jul2025 00:24:31.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Josue3234YT> [x:-287, y:83, z:341, dim:minecraft:overworld]
+[06Jul2025 00:25:25.803] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_end
+[06Jul2025 00:26:26.062] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:priest_house_taiga
+[06Jul2025 00:26:26.084] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/taiga_scriber_1
+[06Jul2025 00:26:26.271] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_1
+[06Jul2025 00:26:26.301] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_3
+[06Jul2025 00:26:26.308] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[06Jul2025 00:26:26.309] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[06Jul2025 00:26:26.311] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_2
+[06Jul2025 00:26:26.327] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_3
+[06Jul2025 00:26:27.931] [Worker-Main-212/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/zelkova/zelkova_tree_trunk1
+[06Jul2025 00:26:27.934] [Worker-Main-212/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/zelkova/zelkova_tree_canopy1
+[06Jul2025 00:26:30.031] [Worker-Main-198/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/zelkova/zelkova_tree_canopy3
+[06Jul2025 00:26:31.978] [Worker-Main-195/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/zelkova/zelkova_tree_canopy2
+[06Jul2025 00:26:41.728] [Worker-Main-207/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/holly/holly_canopy1
+[06Jul2025 00:26:41.755] [Worker-Main-214/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_medium_trunk2
+[06Jul2025 00:26:41.760] [Worker-Main-214/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_medium_canopy2
+[06Jul2025 00:26:41.763] [Worker-Main-214/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/holly/holly_canopy2
+[06Jul2025 00:26:41.765] [Worker-Main-214/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/holly/holly_trunk3
+[06Jul2025 00:26:41.770] [Worker-Main-214/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/holly/holly_canopy3
+[06Jul2025 00:26:41.772] [Worker-Main-214/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/maple/maple_trunk4
+[06Jul2025 00:26:41.778] [Worker-Main-214/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/maple/maple_canopy5
+[06Jul2025 00:26:41.781] [Worker-Main-214/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/maple/maple_trunk1
+[06Jul2025 00:26:41.784] [Worker-Main-214/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/maple/maple_canopy1
+[06Jul2025 00:26:46.013] [Worker-Main-204/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_canopy2
+[06Jul2025 00:26:46.016] [Worker-Main-204/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/maple/maple_canopy4
+[06Jul2025 00:26:46.023] [Worker-Main-207/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/holly/holly_canopy4
+[06Jul2025 00:26:46.026] [Worker-Main-207/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_trunk1
+[06Jul2025 00:26:46.028] [Worker-Main-207/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_canopy1
+[06Jul2025 00:26:46.029] [Worker-Main-207/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen-shrub/aspen_shrub_trunk1
+[06Jul2025 00:26:46.030] [Worker-Main-207/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen-shrub/aspen_shrub_canopy1
+[06Jul2025 00:26:47.911] [Worker-Main-173/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_medium_canopy1
+[06Jul2025 00:26:47.919] [Worker-Main-203/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_trunk4
+[06Jul2025 00:26:47.919] [Worker-Main-203/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_canopy4
+[06Jul2025 00:27:51.983] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 00:27:52.026] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 00:28:20.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Josue3234YT has made the advancement [Crops of the Wild]
+[06Jul2025 00:28:24.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Josue3234YT has made the advancement [Sweet Dreams]
+[06Jul2025 00:31:23.800] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_nether
+[06Jul2025 00:32:51.991] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 00:32:52.032] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 00:33:08.773] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:overworld
+[06Jul2025 00:33:29.799] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in twilightforest:twilight_forest
+[06Jul2025 00:34:25.794] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_end
+[06Jul2025 00:34:38.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Josue3234YT has made the advancement [Acquire Hardware]
+[06Jul2025 00:36:28.797] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in twilightforest:twilight_forest
+[06Jul2025 00:36:48.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge has made the advancement [The Journey Begins]
+[06Jul2025 00:36:53.041] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:forlorn_hollows at -3899 -56 5227 in 1s
+[06Jul2025 00:37:47.775] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:overworld
+[06Jul2025 00:37:51.978] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 00:37:52.019] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 00:37:56.794] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_nether
+[06Jul2025 00:39:27.582] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_ladders_0
+[06Jul2025 00:41:28.747] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blessing_of_life 1: [b48dd7c9-7c9c-36a2-851c-6d210d133d2a]
+[06Jul2025 00:42:51.990] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 00:42:52.031] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 00:44:51.878] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/105326, l='ServerLevel[world]', x=-1031.50, y=42.00, z=1168.50]
+[06Jul2025 00:45:21.616] [Worker-Main-204/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut

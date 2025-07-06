@@ -409,6 +409,7 @@
       "minecraft:spider": "2025-07-02 22:18:26 +0000",
       "minecraft:creeper": "2025-07-02 21:52:18 +0000",
       "quark:forgotten": "2025-07-02 21:45:32 +0000",
+      "minecraft:witch": "2025-07-06 00:03:06 +0000",
       "minecraft:cave_spider": "2025-07-03 13:50:11 +0000",
       "minecraft:piglin": "2025-07-05 22:51:58 +0000",
       "minecraft:zombie": "2025-07-02 21:33:55 +0000",
@@ -507,6 +508,7 @@
       "lavender_forest": "2025-07-02 22:39:14 +0000",
       "spider_nest": "2025-07-03 13:50:06 +0000",
       "forested_field": "2025-07-05 19:33:01 +0000",
+      "redwood_forest": "2025-07-06 00:40:48 +0000",
       "seasonal_orchard": "2025-07-02 22:39:18 +0000",
       "seasonal_forest": "2025-07-03 13:31:18 +0000",
       "lavender_field": "2025-07-03 14:11:02 +0000",
@@ -767,7 +769,8 @@
   },
   "born_in_chaos_v1:charm_collector": {
     "criteria": {
-      "charm_collector_0": "2025-07-05 23:56:03 +0000"
+      "charm_collector_0": "2025-07-05 23:56:03 +0000",
+      "charm_collector_2": "2025-07-06 00:09:00 +0000"
     },
     "done": false
   },
@@ -851,6 +854,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-07-06 00:41:56 +0000"
+    },
+    "done": true
+  },
   "nethers_exorcism_reborn:bi_ohazardou_sd_eltas": {
     "criteria": {
       "bi_ohazardou_sd_eltas_0": "2025-07-05 23:03:06 +0000"
@@ -863,6 +872,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-07-06 00:08:42 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:dark_creator": {
     "criteria": {
       "dark_creator_0": "2025-07-05 23:56:00 +0000"
@@ -872,6 +887,12 @@
   "irons_spellbooks:irons_spellbooks/spell_book_gold": {
     "criteria": {
       "requirement": "2025-07-05 23:47:05 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2025-07-06 00:14:30 +0000"
     },
     "done": true
   },
