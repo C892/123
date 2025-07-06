@@ -693,5 +693,29 @@
     },
     "done": true
   },
+  "biomeswevegone:biomeswevegone/husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-07-06 15:14:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "enchanted_golden_apple": "2025-07-06 15:14:48 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-07-06 15:14:48 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-07-06 15:14:52 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
