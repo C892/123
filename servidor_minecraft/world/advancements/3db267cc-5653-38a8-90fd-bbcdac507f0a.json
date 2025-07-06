@@ -962,5 +962,11 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_corrodent": {
+    "criteria": {
+      "killed": "2025-07-06 02:24:58 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
