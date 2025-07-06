@@ -15389,3 +15389,401 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [06Jul2025 01:06:21.727] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Gravel'/119961, l='ServerLevel[world]', x=-2280.50, y=38.00, z=2476.50]
 [06Jul2025 01:06:24.088] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Gravel'/119986, l='ServerLevel[world]', x=-2283.50, y=38.00, z=2469.50]
 [06Jul2025 01:06:24.885] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Gravel'/119987, l='ServerLevel[world]', x=-2285.50, y=38.00, z=2465.50]
+[06Jul2025 01:06:38.178] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Gravel'/120047, l='ServerLevel[world]', x=-2282.50, y=38.00, z=2473.50]
+[06Jul2025 01:06:43.027] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Gravel'/120051, l='ServerLevel[world]', x=-2279.50, y=38.00, z=2467.50]
+[06Jul2025 01:06:52.778] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Gravel'/120070, l='ServerLevel[world]', x=-2275.50, y=38.00, z=2472.50]
+[06Jul2025 01:06:54.344] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_nether
+[06Jul2025 01:06:59.978] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Gravel'/120097, l='ServerLevel[world]', x=-2279.50, y=38.00, z=2470.50]
+[06Jul2025 01:07:14.677] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Gravel'/120199, l='ServerLevel[world]', x=-2276.50, y=38.00, z=2473.50]
+[06Jul2025 01:07:25.228] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Gravel'/120245, l='ServerLevel[world]', x=-2283.50, y=38.00, z=2474.50]
+[06Jul2025 01:07:25.350] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_end
+[06Jul2025 01:07:40.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> si
+[06Jul2025 01:07:42.339] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in the_bumblezone:the_bumblezone
+[06Jul2025 01:07:48.875] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Gravel'/120321, l='ServerLevel[world]', x=-2283.50, y=38.00, z=2475.50]
+[06Jul2025 01:08:10.487] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 01:08:10.529] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 01:08:20.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> tu amuleto me pega?
+[06Jul2025 01:08:23.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> ya lootee
+[06Jul2025 01:08:38.323] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:overworld
+[06Jul2025 01:08:46.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> si
+[06Jul2025 01:08:47.858] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of PrincessAuge) moved wrongly! 0.6002930509671387
+[06Jul2025 01:08:47.893] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of PrincessAuge) moved wrongly! 1.0841872702453657
+[06Jul2025 01:08:48.011] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of PrincessAuge) moved wrongly! 1.52770235858452
+[06Jul2025 01:08:48.012] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of PrincessAuge) moved wrongly! 0.3796414614312198
+[06Jul2025 01:08:48.049] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of PrincessAuge) moved wrongly! 0.37885267751198626
+[06Jul2025 01:08:48.104] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of PrincessAuge) moved wrongly! 0.36269943043043895
+[06Jul2025 01:08:48.163] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of PrincessAuge) moved wrongly! 0.38999121466122233
+[06Jul2025 01:08:56.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> perate
+[06Jul2025 01:08:59.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> mira
+[06Jul2025 01:09:00.556] [Worker-Main-207/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[06Jul2025 01:09:03.326] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/120994, l='ServerLevel[world]', x=-2462.50, y=39.00, z=2458.50]
+[06Jul2025 01:09:17.875] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Gravel'/121039, l='ServerLevel[world]', x=-2278.50, y=38.00, z=2469.50]
+[06Jul2025 01:09:24.825] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Gravel'/121052, l='ServerLevel[world]', x=-2279.50, y=38.00, z=2474.50]
+[06Jul2025 01:09:26.676] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Gravel'/121055, l='ServerLevel[world]', x=-2287.50, y=38.00, z=2469.50]
+[06Jul2025 01:09:27.975] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/121060, l='ServerLevel[world]', x=-2455.50, y=43.00, z=2456.50]
+[06Jul2025 01:09:39.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> a veces pega
+[06Jul2025 01:09:54.337] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in twilightforest:twilight_forest
+[06Jul2025 01:09:59.426] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/121160, l='ServerLevel[world]', x=-2463.50, y=39.00, z=2457.50]
+[06Jul2025 01:09:59.657] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/121168, l='ServerLevel[world]', x=-2489.50, y=46.00, z=2449.50]
+[06Jul2025 01:10:04.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> a lo mejor
+[06Jul2025 01:10:08.288] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/121266, l='ServerLevel[world]', x=-2490.50, y=46.00, z=2449.50]
+[06Jul2025 01:10:10.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> no se si por ser otra entidad deja
+[06Jul2025 01:10:17.875] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/121446, l='ServerLevel[world]', x=-2473.50, y=42.00, z=2493.50]
+[06Jul2025 01:10:17.927] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/121447, l='ServerLevel[world]', x=-2545.50, y=40.00, z=2534.50]
+[06Jul2025 01:10:18.375] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/121458, l='ServerLevel[world]', x=-2545.50, y=40.00, z=2534.50]
+[06Jul2025 01:10:18.876] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/121481, l='ServerLevel[world]', x=-2601.50, y=33.00, z=2596.50]
+[06Jul2025 01:10:21.429] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/121542, l='ServerLevel[world]', x=-2557.50, y=40.00, z=2706.50]
+[06Jul2025 01:10:27.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> hoy se come azado
+[06Jul2025 01:10:35.976] [Worker-Main-201/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:ceryneian_hind/ceryneian_hind_part_1
+[06Jul2025 01:10:36.039] [Worker-Main-201/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_rider/heavenly_rider_part_2 is being run through DFU (hash 3b98e8aeaf403e69a3fad7de7f17c48bf822826c5e01fcfd693001b357c0af8a), this will cause launch time delays
+[06Jul2025 01:10:36.194] [Worker-Main-201/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_village/mushroom_village_house_big_0 is being run through DFU (hash 97ca3567cbb388be84c580456221b46df3e4f79b04df1743a0683c68768051ba), this will cause launch time delays
+[06Jul2025 01:10:36.503] [Worker-Main-201/DEBUG] [ModernFix/]: Structure dungeons_arise:mining_system/mining_system_straight_0 is being run through DFU (hash 0255d0be940bbb3d61ac3137a7ed12e4ed750cc899abd459ea6da5737f2fc3ee), this will cause launch time delays
+[06Jul2025 01:10:36.558] [Worker-Main-201/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_bottom_2 is being run through DFU (hash 6d894f474be7edd88ed8bab9ce59099e96d3a95e4988125d46800acbd96a176f), this will cause launch time delays
+[06Jul2025 01:10:36.571] [Worker-Main-201/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_well_0
+[06Jul2025 01:10:36.590] [Worker-Main-201/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_corridor_4_crossing_pit
+[06Jul2025 01:10:36.593] [Worker-Main-201/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_1
+[06Jul2025 01:10:36.617] [Worker-Main-201/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_2 is being run through DFU (hash 40b15fe9c80a15adfc4f38946177cfa77d41454b5c5095aa4b33741140c3987c), this will cause launch time delays
+[06Jul2025 01:10:36.743] [Worker-Main-201/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_part_3 is being run through DFU (hash eb477c83a67458fa25c049fb25fe6e0088abaa3c98fdce3fb8a28b95553e5224), this will cause launch time delays
+[06Jul2025 01:10:36.916] [Worker-Main-201/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_13 is being run through DFU (hash 33537b62427ed79a11fdfbd7bd7e834741242df13ed02a10fc9fa58b6e060bbf), this will cause launch time delays
+[06Jul2025 01:10:37.545] [Worker-Main-201/DEBUG] [ModernFix/]: Structure dungeons_arise:keep_kayra/keep_kayra_main_0 is being run through DFU (hash adaf93d65bc438dd5ad962fbe791a1e44f4e54fa8279dfc9b8fcae02d6813256), this will cause launch time delays
+[06Jul2025 01:10:37.877] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/121963, l='ServerLevel[world]', x=-2557.50, y=40.00, z=2707.50]
+[06Jul2025 01:10:41.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> aca es improbable una serpiente en este bioma
+[06Jul2025 01:10:41.824] [Worker-Main-201/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_2
+[06Jul2025 01:10:41.869] [Worker-Main-201/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_part_13 is being run through DFU (hash 0d47188f34bbe000059890b534c886c94745009000c4bf5bce68ca12facfb932), this will cause launch time delays
+[06Jul2025 01:10:42.267] [Worker-Main-201/DEBUG] [ModernFix/]: Structure dungeons_arise:infested_temple/infested_temple_layout_part_1_middle is being run through DFU (hash e4b60f0c9f9a13df5b86ff0f89d3c3d837c06fb6f865b22ecf738864b7d042df), this will cause launch time delays
+[06Jul2025 01:10:42.291] [Worker-Main-201/DEBUG] [ModernFix/]: Structure dungeons_arise:typhon/typhon_part_1 is being run through DFU (hash b7db42b3373133cc4ecbb0b1e74c85081a95b5502212dbcd1aca0d405e0dfed7), this will cause launch time delays
+[06Jul2025 01:10:42.307] [Worker-Main-201/DEBUG] [ModernFix/]: Structure dungeons_arise:coliseum/coliseum_part_2 is being run through DFU (hash f3d5e864513064cb00980606061c16d685b14e604b542bbd094be281a9ad5b13), this will cause launch time delays
+[06Jul2025 01:10:42.327] [Worker-Main-201/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_fort/illager_fort_part_2 is being run through DFU (hash 674404d5ca3ef8cef61cda2ad120a98b31f3e67d6db899b5f9064d011d9ae5d8), this will cause launch time delays
+[06Jul2025 01:10:47.340] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_nether
+[06Jul2025 01:10:51.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> no
+[06Jul2025 01:10:52.085] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/122328, l='ServerLevel[world]', x=-2616.50, y=20.00, z=2704.50]
+[06Jul2025 01:10:53.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> vete
+[06Jul2025 01:10:54.528] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/122384, l='ServerLevel[world]', x=-2752.50, y=42.00, z=2791.50]
+[06Jul2025 01:10:55.189] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[06Jul2025 01:10:55.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> vete
+[06Jul2025 01:10:56.926] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/122459, l='ServerLevel[world]', x=-2614.50, y=20.00, z=2709.50]
+[06Jul2025 01:10:57.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> el barco
+[06Jul2025 01:11:00.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> rodeeemos
+[06Jul2025 01:11:07.838] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/122644, l='ServerLevel[world]', x=-2754.50, y=37.00, z=2791.50]
+[06Jul2025 01:11:08.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> vete
+[06Jul2025 01:11:08.828] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/122667, l='ServerLevel[world]', x=-2826.50, y=41.00, z=2768.50]
+[06Jul2025 01:11:10.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> del agua
+[06Jul2025 01:11:19.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> un dragon
+[06Jul2025 01:11:23.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> y una serpiente
+[06Jul2025 01:11:26.577] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/122930, l='ServerLevel[world]', x=-2765.50, y=40.00, z=2775.50]
+[06Jul2025 01:11:30.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> no
+[06Jul2025 01:11:36.949] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/123102, l='ServerLevel[world]', x=-2838.50, y=41.00, z=2770.50]
+[06Jul2025 01:11:37.131] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/123113, l='ServerLevel[world]', x=-2752.50, y=42.00, z=2790.50]
+[06Jul2025 01:11:39.675] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/123183, l='ServerLevel[world]', x=-2825.50, y=38.00, z=2769.50]
+[06Jul2025 01:11:44.480] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:11:44.584] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:11:44.587] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:11:44.680] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:11:44.680] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:11:44.778] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:11:44.781] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:11:44.880] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:11:44.979] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:11:45.080] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:11:45.179] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:11:45.280] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:11:45.479] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:11:45.780] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:11:45.981] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:11:46.081] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:11:46.381] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:11:48.388] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:11:48.687] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:11:48.782] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:11:48.879] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:11:48.982] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:11:49.081] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:11:49.180] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:11:49.284] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:11:49.378] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/123335, l='ServerLevel[world]', x=-2824.50, y=40.00, z=2768.50]
+[06Jul2025 01:11:49.383] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:11:49.979] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:11:50.080] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:11:50.184] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:11:53.082] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:11:53.204] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:11:53.280] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:11:53.381] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:11:53.480] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:11:53.585] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:11:53.628] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/123373, l='ServerLevel[world]', x=-2797.50, y=48.00, z=2839.50]
+[06Jul2025 01:11:53.690] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:11:53.797] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:11:53.883] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:11:53.979] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:11:54.079] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:11:54.180] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:11:54.287] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:11:54.382] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:11:56.482] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:11:56.578] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:11:56.681] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:11:56.781] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:11:56.896] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:11:56.980] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:11:57.079] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:11:57.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> ven
+[06Jul2025 01:11:57.179] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:11:57.378] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:11:57.481] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:11:57.580] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:04.181] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:04.281] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:04.382] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:04.553] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:04.623] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:04.695] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:04.783] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:04.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> no
+[06Jul2025 01:12:05.382] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:05.481] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:05.482] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:05.600] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:05.711] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:05.715] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:05.779] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:05.782] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:05.879] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:05.880] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:05.982] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:05.983] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:06.182] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:06.281] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:06.386] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:06.527] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:06.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> es mi tio
+[06Jul2025 01:12:06.680] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:06.979] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:07.280] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:07.384] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:07.696] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:07.697] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:07.782] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:07.882] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:08.060] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:08.145] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:08.146] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:08.182] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:08.410] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:08.487] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:08.683] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:08.781] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:08.782] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:08.879] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:09.180] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:09.281] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:09.384] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:09.492] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:09.583] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:09.784] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:09.879] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:09.880] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:10.293] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:10.295] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:10.589] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:10.743] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:10.744] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:10.812] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:10.979] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:11.084] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:11.180] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:11.382] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:11.485] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:11.679] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:11.791] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:11.881] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:12.084] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:12.281] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:12.385] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:12.491] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:12.597] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:12.783] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:13.199] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:13.480] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:13.582] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:14.188] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:14.283] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:14.389] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:14.485] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:14.581] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:14.682] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:14.812] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:14.886] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:14.979] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:15.083] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:15.179] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:15.293] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:15.381] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 01:12:16.880] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/123856, l='ServerLevel[world]', x=-2928.50, y=46.00, z=2855.50]
+[06Jul2025 01:12:50.818] [Worker-Main-194/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/palo-verde/palo_verde_tree_canopy2 is being run through DFU (hash c6e29ee5e7b5aa3e148af3b8b674f836c35906d6cc8888f3cfcfd3dc4dd61a00), this will cause launch time delays
+[06Jul2025 01:12:53.052] [Worker-Main-193/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/palo-verde/palo_verde_tree_canopy1 is being run through DFU (hash 83b20d41e918de35c7c109a00c7f99b2931930af16ecb1f2acca330ef72e7b89), this will cause launch time delays
+[06Jul2025 01:13:10.545] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 01:13:10.602] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 01:13:16.029] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/124581, l='ServerLevel[world]', x=-3011.50, y=48.00, z=3151.50]
+[06Jul2025 01:13:17.578] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/124619, l='ServerLevel[world]', x=-2936.50, y=58.00, z=3115.50]
+[06Jul2025 01:13:23.746] [Worker-Main-203/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/hallway/hallway_tee_1 is being run through DFU (hash ccccdc9810bb4cd107d9052713a6d4018868fbfaff45dae73f8fb221785f4413), this will cause launch time delays
+[06Jul2025 01:13:23.751] [Worker-Main-203/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/hallway/hallway_straight_trapped is being run through DFU (hash c8e522d30416da104ebee9cd57875519cb3d466708e2f6b152b018f1eac4f12d), this will cause launch time delays
+[06Jul2025 01:13:23.758] [Worker-Main-203/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room_origin_2 is being run through DFU (hash 9453f28bdd6b745cb38f92c708e152e1910c403ab4fcec53cb18024fae6e1c7e), this will cause launch time delays
+[06Jul2025 01:13:23.761] [Worker-Main-203/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room_origin_arch is being run through DFU (hash 1ba8425d8e64a74e58c0d95b0ca9903bb329c6ef4934ae834d3d46e8b14901cd), this will cause launch time delays
+[06Jul2025 01:13:23.765] [Worker-Main-203/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/hallway/hallway_turn_1 is being run through DFU (hash 55c1ab3858ca328b01d618ab63090048bf809f4f8a78644c2bf3a95e43d68f6c), this will cause launch time delays
+[06Jul2025 01:13:23.768] [Worker-Main-203/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/hallway/hallway_spiral_stairs is being run through DFU (hash 9d2a4ef561c42e7a62ab0b1b9eba12fe41be64dc2180eb25802b92706a7985c6), this will cause launch time delays
+[06Jul2025 01:13:23.771] [Worker-Main-203/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/hallway_connector is being run through DFU (hash 0903bbcbe2eb4344a3458800358fd77dd87acc5748b8c529f6abf3c0e14146ff), this will cause launch time delays
+[06Jul2025 01:13:23.774] [Worker-Main-203/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/dropdown_hallway is being run through DFU (hash 04e33d7337431cb18c063bffc7b63fa98053b31a9ed5f59494927858847e57e6), this will cause launch time delays
+[06Jul2025 01:13:23.782] [Worker-Main-203/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room_origin_1 is being run through DFU (hash a7d1737f84746d593892bfd10a077e78cd8646a61f67511f4b7519173d527f9d), this will cause launch time delays
+[06Jul2025 01:13:23.785] [Worker-Main-203/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room_origin_zigzag is being run through DFU (hash e4aa2324c4f5665c93a3f3f1035544b00815c7cadde1dda9322cf7ac9325f5dc), this will cause launch time delays
+[06Jul2025 01:13:23.790] [Worker-Main-203/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/balcony is being run through DFU (hash bd6b73833ee18760771079d0577d7ce4114d78a30bde7faf326c4cad75e06be8), this will cause launch time delays
+[06Jul2025 01:13:23.801] [Worker-Main-203/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/end_hallway_wall is being run through DFU (hash efeecb970d335903aab58981d98241a14ad0c9551e4d8209d45669a29588287e), this will cause launch time delays
+[06Jul2025 01:13:23.802] [Worker-Main-203/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/end_room_wall is being run through DFU (hash fa6752c910b6419f7e91fb9ac6d0b60e7eac0bf7151df2da07b76d11d01b41ff), this will cause launch time delays
+[06Jul2025 01:13:23.804] [Worker-Main-203/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/small_storage_1 is being run through DFU (hash 3776e200c1ea6c0e7a520c2cd43b3872ac017b1a9f0856eb6a42c47144855cad), this will cause launch time delays
+[06Jul2025 01:13:23.807] [Worker-Main-203/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/dormitories_1 is being run through DFU (hash c6f77167dc5ad017f105d8d648e3d901f817e0a407f7684700be61accc774a88), this will cause launch time delays
+[06Jul2025 01:13:23.816] [Worker-Main-203/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/trap_pitfall is being run through DFU (hash d5ba426cfcd818119f431d16cd3909b73fb128dd7f7bbb873e063abef0a334b9), this will cause launch time delays
+[06Jul2025 01:13:23.821] [Worker-Main-203/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/crypt_1 is being run through DFU (hash 8d1b3133f1e2b8a666a70f531084e6d286ca652cdd13792224374263dcbfbadd), this will cause launch time delays
+[06Jul2025 01:13:23.827] [Worker-Main-203/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/trap_jail is being run through DFU (hash c9dcecb3c3096be04f646a5d1b91d104866647e7a1298a025818aa98b766ecb7), this will cause launch time delays
+[06Jul2025 01:13:23.831] [Worker-Main-203/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/crypt_2 is being run through DFU (hash cd2c82202236fa12a230a3e1ea4e23bb934b80cdafb27c699483921ca2acf980), this will cause launch time delays
+[06Jul2025 01:13:23.835] [Worker-Main-203/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/small_storage_2 is being run through DFU (hash a7d2850225274e7f12b3054eb652de8437f945162d32fe4507a3cfa03eb4235e), this will cause launch time delays
+[06Jul2025 01:13:23.838] [Worker-Main-203/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/boiler is being run through DFU (hash c10eb28f7ca575fda9e31f21e8a24942fc3d99c04e86cee1f70f42c0af38320c), this will cause launch time delays
+[06Jul2025 01:13:23.840] [Worker-Main-203/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/armorstand is being run through DFU (hash 80daf3838bde3ca4d4b922380caee4a9ed02a98623b6c507d83bf9aac282ec8e), this will cause launch time delays
+[06Jul2025 01:13:23.846] [Worker-Main-203/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/dormitories_2 is being run through DFU (hash 3c9ef6a50d571cbbf2236fe8328b67270fcf28177a0c23535170ac434a07bb63), this will cause launch time delays
+[06Jul2025 01:13:23.854] [Worker-Main-203/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/wall_crypt is being run through DFU (hash 55f20006c0a0d7b8268eeac4cd0d3377c004d30ccc14cf90a3034ba822241120), this will cause launch time delays
+[06Jul2025 01:13:23.857] [Worker-Main-203/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/small_storage_3 is being run through DFU (hash b439678c2cca2aa6b2d834eacbae61c1bdddd129cf9b6a939dddb8ec8533faf8), this will cause launch time delays
+[06Jul2025 01:13:23.861] [Worker-Main-203/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/reception is being run through DFU (hash 7885390e71976407b6213da21e05bf0bcbd22cdedfb722ed2b2166612317ac33), this will cause launch time delays
+[06Jul2025 01:13:23.864] [Worker-Main-203/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/study_platform is being run through DFU (hash 39e786522610a2899515c54b553ad606a6fd10d30330f705c7949c69bb862ced), this will cause launch time delays
+[06Jul2025 01:13:23.867] [Worker-Main-203/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/ravager_prison is being run through DFU (hash 8beed8211af18c58fa3143832d111e7f4d2cb8fd28c6046dbd93078640bcd0e4), this will cause launch time delays
+[06Jul2025 01:13:23.879] [Worker-Main-203/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/small_spawner_1 is being run through DFU (hash 50e33a4b9356a0698f4cb9cf6a75e2eb81fe38aca765c982e2d1afb9adfc75f3), this will cause launch time delays
+[06Jul2025 01:13:23.882] [Worker-Main-203/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/double_storage is being run through DFU (hash f7e8db79a930a748736e118e2ca1cca0e4f7901e6f526a4c2a2673611486fc01), this will cause launch time delays
+[06Jul2025 01:13:33.576] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/124894, l='ServerLevel[world]', x=-2936.50, y=56.00, z=3116.50]
+[06Jul2025 01:13:36.906] [Worker-Main-207/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3157, y=-7, z=3373}
+[06Jul2025 01:13:40.506] [Worker-Main-207/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3156, y=-7, z=3362}
+[06Jul2025 01:13:40.516] [Worker-Main-207/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3174, y=0, z=3374}
+[06Jul2025 01:13:40.516] [Worker-Main-207/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3157, y=-7, z=3373}
+[06Jul2025 01:13:40.519] [Worker-Main-207/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3156, y=-7, z=3362}
+[06Jul2025 01:13:43.184] [Worker-Main-200/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3143, y=6, z=3406}
+[06Jul2025 01:13:43.969] [Worker-Main-203/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3168, y=0, z=3406}
+[06Jul2025 01:13:43.969] [Worker-Main-203/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3143, y=6, z=3406}
+[06Jul2025 01:13:43.970] [Worker-Main-203/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3167, y=0, z=3389}
+[06Jul2025 01:13:43.970] [Worker-Main-203/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3174, y=0, z=3374}
+[06Jul2025 01:13:43.970] [Worker-Main-203/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3165, y=0, z=3377}
+[06Jul2025 01:13:45.586] [Worker-Main-180/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3142, y=6, z=3396}
+[06Jul2025 01:13:45.850] [Worker-Main-198/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3146, y=13, z=3427}
+[06Jul2025 01:13:45.851] [Worker-Main-198/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3143, y=6, z=3406}
+[06Jul2025 01:13:45.852] [Worker-Main-198/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3142, y=6, z=3396}
+[06Jul2025 01:13:48.077] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/125065, l='ServerLevel[world]', x=-2936.50, y=54.00, z=3117.50]
+[06Jul2025 01:13:48.153] [Worker-Main-194/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3180, y=0, z=3407}
+[06Jul2025 01:13:48.153] [Worker-Main-194/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3146, y=13, z=3427}
+[06Jul2025 01:13:48.153] [Worker-Main-194/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3168, y=0, z=3406}
+[06Jul2025 01:13:48.154] [Worker-Main-194/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3143, y=6, z=3406}
+[06Jul2025 01:13:48.156] [Worker-Main-194/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3167, y=0, z=3389}
+[06Jul2025 01:13:49.075] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/125068, l='ServerLevel[world]', x=-2919.50, y=59.00, z=3278.50]
+[06Jul2025 01:13:50.013] [Worker-Main-173/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3132, y=0, z=3431}
+[06Jul2025 01:13:50.013] [Worker-Main-173/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3131, y=7, z=3420}
+[06Jul2025 01:13:51.040] [Worker-Main-194/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3180, y=0, z=3407}
+[06Jul2025 01:13:51.041] [Worker-Main-194/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3146, y=13, z=3427}
+[06Jul2025 01:13:51.051] [Worker-Main-194/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3146, y=13, z=3427}
+[06Jul2025 01:13:51.051] [Worker-Main-194/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3132, y=0, z=3431}
+[06Jul2025 01:13:51.052] [Worker-Main-194/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3145, y=13, z=3412}
+[06Jul2025 01:13:54.425] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/125133, l='ServerLevel[world]', x=-2918.50, y=59.00, z=3279.50]
+[06Jul2025 01:13:59.224] [Worker-Main-195/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3151, y=0, z=3432}
+[06Jul2025 01:13:59.224] [Worker-Main-195/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3132, y=0, z=3431}
+[06Jul2025 01:13:59.225] [Worker-Main-195/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3131, y=7, z=3420}
+[06Jul2025 01:13:59.258] [Worker-Main-212/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3152, y=0, z=3456}
+[06Jul2025 01:13:59.262] [Worker-Main-212/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3151, y=0, z=3432}
+[06Jul2025 01:13:59.263] [Worker-Main-212/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3146, y=13, z=3427}
+[06Jul2025 01:13:59.263] [Worker-Main-212/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3132, y=0, z=3431}
+[06Jul2025 01:13:59.274] [Worker-Main-195/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3152, y=0, z=3456}
+[06Jul2025 01:13:59.278] [Worker-Main-195/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3180, y=0, z=3407}
+[06Jul2025 01:13:59.279] [Worker-Main-195/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3146, y=13, z=3427}
+[06Jul2025 01:14:03.803] [Worker-Main-198/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3144, y=0, z=3459}
+[06Jul2025 01:14:03.863] [Worker-Main-199/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3152, y=0, z=3456}
+[06Jul2025 01:14:03.866] [Worker-Main-199/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3151, y=0, z=3432}
+[06Jul2025 01:14:03.867] [Worker-Main-199/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3144, y=0, z=3459}
+[06Jul2025 01:14:03.873] [Worker-Main-211/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3152, y=0, z=3456}
+[06Jul2025 01:14:03.884] [Worker-Main-211/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3151, y=0, z=3432}
+[06Jul2025 01:14:03.884] [Worker-Main-211/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3144, y=0, z=3459}
+[06Jul2025 01:14:05.435] [Worker-Main-200/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3088, y=-13, z=3466}
+[06Jul2025 01:14:06.228] [Worker-Main-194/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3114, y=0, z=3472}
+[06Jul2025 01:14:06.229] [Worker-Main-194/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3089, y=-13, z=3468}
+[06Jul2025 01:14:06.229] [Worker-Main-194/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3108, y=0, z=3467}
+[06Jul2025 01:14:08.382] [Worker-Main-207/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3144, y=0, z=3459}
+[06Jul2025 01:14:08.382] [Worker-Main-207/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3120, y=0, z=3467}
+[06Jul2025 01:14:08.382] [Worker-Main-207/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3114, y=0, z=3472}
+[06Jul2025 01:14:08.383] [Worker-Main-207/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3108, y=0, z=3467}
+[06Jul2025 01:14:08.476] [Worker-Main-195/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3144, y=0, z=3459}
+[06Jul2025 01:14:08.477] [Worker-Main-195/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3121, y=0, z=3477}
+[06Jul2025 01:14:08.477] [Worker-Main-195/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3128, y=0, z=3460}
+[06Jul2025 01:14:08.478] [Worker-Main-195/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3126, y=0, z=3477}
+[06Jul2025 01:14:08.485] [Worker-Main-200/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3152, y=0, z=3456}
+[06Jul2025 01:14:08.488] [Worker-Main-200/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3144, y=0, z=3459}
+[06Jul2025 01:14:08.488] [Worker-Main-200/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3128, y=0, z=3460}
+[06Jul2025 01:14:09.119] [Worker-Main-195/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3152, y=0, z=3456}
+[06Jul2025 01:14:09.124] [Worker-Main-195/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3166, y=-2, z=3457}
+[06Jul2025 01:14:09.125] [Worker-Main-195/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3179, y=0, z=3470}
+[06Jul2025 01:14:12.332] [Worker-Main-212/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3088, y=-13, z=3466}
+[06Jul2025 01:14:12.421] [Worker-Main-198/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3120, y=0, z=3467}
+[06Jul2025 01:14:12.421] [Worker-Main-198/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3114, y=0, z=3472}
+[06Jul2025 01:14:12.422] [Worker-Main-198/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3097, y=0, z=3473}
+[06Jul2025 01:14:12.432] [Worker-Main-198/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3121, y=0, z=3477}
+[06Jul2025 01:14:12.432] [Worker-Main-198/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3128, y=0, z=3460}
+[06Jul2025 01:14:12.433] [Worker-Main-198/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3126, y=0, z=3477}
+[06Jul2025 01:14:12.480] [Worker-Main-198/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3114, y=0, z=3472}
+[06Jul2025 01:14:12.480] [Worker-Main-198/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3097, y=0, z=3473}
+[06Jul2025 01:14:12.480] [Worker-Main-198/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3089, y=-13, z=3468}
+[06Jul2025 01:14:12.481] [Worker-Main-198/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3102, y=0, z=3479}
+[06Jul2025 01:14:12.481] [Worker-Main-198/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3097, y=0, z=3486}
+[06Jul2025 01:14:12.481] [Worker-Main-198/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3103, y=0, z=3496}
+[06Jul2025 01:14:12.769] [Worker-Main-204/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3128, y=0, z=3460}
+[06Jul2025 01:14:13.389] [Worker-Main-194/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3179, y=0, z=3470}
+[06Jul2025 01:14:17.249] [Worker-Main-206/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3102, y=0, z=3479}
+[06Jul2025 01:14:17.249] [Worker-Main-206/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3095, y=0, z=3497}
+[06Jul2025 01:14:17.249] [Worker-Main-206/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3097, y=0, z=3486}
+[06Jul2025 01:14:17.249] [Worker-Main-206/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3103, y=0, z=3496}
+[06Jul2025 01:14:17.281] [Worker-Main-206/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3095, y=0, z=3497}
+[06Jul2025 01:14:18.023] [Worker-Main-211/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3180, y=0, z=3407}
+[06Jul2025 01:14:18.023] [Worker-Main-211/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3168, y=0, z=3406}
+[06Jul2025 01:14:18.023] [Worker-Main-211/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3173, y=0, z=3399}
+[06Jul2025 01:14:18.031] [Worker-Main-211/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3168, y=0, z=3406}
+[06Jul2025 01:14:18.031] [Worker-Main-211/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3174, y=0, z=3374}
+[06Jul2025 01:14:18.032] [Worker-Main-211/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3173, y=0, z=3399}
+[06Jul2025 01:14:18.032] [Worker-Main-211/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3175, y=0, z=3387}
+[06Jul2025 01:14:18.125] [Worker-Main-200/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3180, y=0, z=3407}
+[06Jul2025 01:14:18.126] [Worker-Main-200/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3198, y=0, z=3419}
+[06Jul2025 01:14:18.131] [Worker-Main-200/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3152, y=0, z=3456}
+[06Jul2025 01:14:18.135] [Worker-Main-200/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3180, y=0, z=3407}
+[06Jul2025 01:14:18.146] [Worker-Main-206/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3174, y=0, z=3374}
+[06Jul2025 01:14:18.146] [Worker-Main-206/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3157, y=-7, z=3373}
+[06Jul2025 01:14:18.148] [Worker-Main-206/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3175, y=0, z=3387}
+[06Jul2025 01:14:18.158] [Worker-Main-206/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3157, y=-7, z=3373}
+[06Jul2025 01:14:18.550] [Worker-Main-211/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3152, y=0, z=3456}
+[06Jul2025 01:14:18.900] [Worker-Main-200/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3152, y=0, z=3456}
+[06Jul2025 01:14:18.903] [Worker-Main-200/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3166, y=-2, z=3457}
+[06Jul2025 01:14:18.904] [Worker-Main-200/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3179, y=0, z=3470}
+[06Jul2025 01:14:18.904] [Worker-Main-200/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3180, y=7, z=3480}
+[06Jul2025 01:14:19.091] [Worker-Main-203/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3179, y=0, z=3470}
+[06Jul2025 01:14:19.093] [Worker-Main-203/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3180, y=7, z=3480}
+[06Jul2025 01:14:23.177] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/125474, l='ServerLevel[world]', x=-3087.50, y=52.00, z=3326.50]
+[06Jul2025 01:14:25.589] [Worker-Main-189/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3175, y=0, z=3387}
+[06Jul2025 01:14:25.628] [Worker-Main-206/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3175, y=0, z=3387}
+[06Jul2025 01:14:25.686] [Worker-Main-193/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3201, y=0, z=3414}
+[06Jul2025 01:14:25.981] [Worker-Main-198/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3198, y=0, z=3419}
+[06Jul2025 01:14:25.981] [Worker-Main-198/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3187, y=0, z=3420}
+[06Jul2025 01:14:25.982] [Worker-Main-198/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3201, y=0, z=3414}
+[06Jul2025 01:14:26.270] [Worker-Main-212/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3152, y=0, z=3456}
+[06Jul2025 01:14:26.275] [Worker-Main-212/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3187, y=0, z=3420}
+[06Jul2025 01:14:26.339] [Worker-Main-195/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3152, y=0, z=3456}
+[06Jul2025 01:14:26.549] [Worker-Main-201/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3152, y=0, z=3456}
+[06Jul2025 01:14:26.552] [Worker-Main-201/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3180, y=7, z=3480}
+[06Jul2025 01:14:26.791] [Worker-Main-203/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3180, y=7, z=3480}
+[06Jul2025 01:14:34.426] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/125531, l='ServerLevel[world]', x=-3086.50, y=53.00, z=3328.50]
+[06Jul2025 01:14:53.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> locura no?
+[06Jul2025 01:15:17.102] [Worker-Main-211/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3201, y=0, z=3414}
+[06Jul2025 01:15:17.148] [Worker-Main-212/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3201, y=0, z=3414}
+[06Jul2025 01:15:17.873] [Worker-Main-180/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3152, y=0, z=3456}
+[06Jul2025 01:15:17.909] [Worker-Main-180/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3152, y=0, z=3456}
+[06Jul2025 01:15:18.200] [Worker-Main-193/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3152, y=0, z=3456}
+[06Jul2025 01:15:59.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> son dos picos sin mas creo
+[06Jul2025 01:15:59.624] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/126133, l='ServerLevel[world]', x=-3086.50, y=52.00, z=3326.50]
+[06Jul2025 01:16:27.331] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in twilightforest:twilight_forest
