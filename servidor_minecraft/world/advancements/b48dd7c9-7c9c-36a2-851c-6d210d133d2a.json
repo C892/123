@@ -316,6 +316,7 @@
       "minecraft:mangrove_swamp": "2025-07-06 00:49:26 +0000",
       "minecraft:river": "2025-07-02 21:01:10 +0000",
       "minecraft:lukewarm_ocean": "2025-07-06 00:50:11 +0000",
+      "minecraft:stony_shore": "2025-07-06 02:04:59 +0000",
       "minecraft:dripstone_caves": "2025-07-02 22:25:26 +0000",
       "minecraft:forest": "2025-07-02 20:54:47 +0000",
       "minecraft:lush_caves": "2025-07-03 17:29:57 +0000",
@@ -680,7 +681,9 @@
   "twilightforest:arborist": {
     "criteria": {
       "twilight_oak_planks": "2025-07-04 21:17:15 +0000",
-      "twilight_oak_log": "2025-07-04 21:17:13 +0000"
+      "canopy_planks": "2025-07-06 01:45:45 +0000",
+      "twilight_oak_log": "2025-07-04 21:17:13 +0000",
+      "canopy_log": "2025-07-06 01:45:40 +0000"
     },
     "done": false
   },
@@ -848,9 +851,27 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_crying_obsidian": {
+  "alexsmobs:alexsmobs/crimson_mosquito": {
     "criteria": {
-      "crying_obsidian": "2025-07-06 00:55:14 +0000"
+      "killed_by": "2025-07-05 23:14:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft_121_update:trial_chambers_start_advancement": {
+    "criteria": {
+      "trial_chambers_start_advancement": "2025-07-05 23:42:33 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_gold": {
+    "criteria": {
+      "requirement": "2025-07-05 23:42:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-07-05 23:51:55 +0000"
     },
     "done": true
   },
@@ -861,21 +882,15 @@
     },
     "done": false
   },
-  "minecraft_121_update:trial_chambers_start_advancement": {
+  "minecraft:adventure/hero_of_the_village": {
     "criteria": {
-      "trial_chambers_start_advancement": "2025-07-05 23:42:33 +0000"
+      "hero_of_the_village": "2025-07-06 00:08:42 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/crimson_mosquito": {
+  "alexscaves:alexscaves/cave_map": {
     "criteria": {
-      "killed_by": "2025-07-05 23:14:40 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_lighthouse": {
-    "criteria": {
-      "location0": "2025-07-06 01:37:33 +0000"
+      "cave_map": "2025-07-06 00:36:48 +0000"
     },
     "done": true
   },
@@ -885,33 +900,27 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-07-06 00:55:14 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/ink_root": {
     "criteria": {
       "requirement": "2025-07-06 01:24:48 +0000"
     },
     "done": true
   },
-  "minecraft:story/enchant_item": {
+  "dungeons_arise:find_lighthouse": {
     "criteria": {
-      "enchanted_item": "2025-07-05 23:51:55 +0000"
+      "location0": "2025-07-06 01:37:33 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/hero_of_the_village": {
+  "alexscaves:alexscaves/discover_forlorn_hollows": {
     "criteria": {
-      "hero_of_the_village": "2025-07-06 00:08:42 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/spell_book_gold": {
-    "criteria": {
-      "requirement": "2025-07-05 23:42:52 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_map": {
-    "criteria": {
-      "cave_map": "2025-07-06 00:36:48 +0000"
+      "discover": "2025-07-06 02:07:44 +0000"
     },
     "done": true
   },
