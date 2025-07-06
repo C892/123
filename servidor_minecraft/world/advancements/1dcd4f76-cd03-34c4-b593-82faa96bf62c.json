@@ -326,7 +326,8 @@
   },
   "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
     "criteria": {
-      "apple": "2025-07-02 21:51:03 +0000"
+      "apple": "2025-07-02 21:51:03 +0000",
+      "golden_apple": "2025-07-06 17:06:02 +0000"
     },
     "done": false
   },
@@ -741,6 +742,12 @@
   "alexsmobs:alexsmobs/rocky_shell": {
     "criteria": {
       "soul_heart": "2025-07-06 16:32:34 +0000"
+    },
+    "done": true
+  },
+  "artifacts:adventurous_eater": {
+    "criteria": {
+      "eat_artifact": "2025-07-06 17:15:19 +0000"
     },
     "done": true
   },

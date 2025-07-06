@@ -1138,3 +1138,20 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [06Jul2025 16:54:18.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
 [06Jul2025 16:54:35.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
 [06Jul2025 16:54:59.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported PrincessAuge to Tin1G
+[06Jul2025 17:06:11.663] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: gibro[/127.165.156.218:47267] logged in with entity id 27828 at (-179.9470418576396, 66.0, 437.49462946308125)
+[06Jul2025 17:06:11.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gibro joined the game
+[06Jul2025 17:08:33.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <gibro> a
+[06Jul2025 17:11:05.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gibro has made the advancement [Stone Age]
+[06Jul2025 17:11:22.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gibro has made the advancement [Getting an Upgrade]
+[06Jul2025 17:15:19.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G has made the advancement [Adventurous Eater]
+[06Jul2025 17:18:11.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gibro was killed by Witch using magic
+[06Jul2025 17:20:43.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <gibro> zzzzzzzzzzzzzzzzzz
+[06Jul2025 17:20:54.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <gibro> zzz
+[06Jul2025 17:22:22.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gibro has made the advancement [Isn't It Iron Pick]
+[06Jul2025 17:26:24.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gibro was slain by Lifestealer
+[06Jul2025 17:26:30.663] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gibro lost connection: Disconnected
+[06Jul2025 17:26:30.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gibro left the game
+[06Jul2025 17:26:39.257] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: gibro[/127.165.156.218:37291] logged in with entity id 36145 at (-177.5, 64.0, 437.5)
+[06Jul2025 17:26:39.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gibro joined the game
+[06Jul2025 17:28:07.870] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Calamar892[/127.16.152.39:44531] logged in with entity id 36903 at (-287.69999998807907, 76.0, 336.30000001192093)
+[06Jul2025 17:28:07.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 joined the game
