@@ -1500,3 +1500,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [06Jul2025 03:52:17.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 joined the game
 [06Jul2025 04:00:52.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> proden
 [06Jul2025 04:00:58.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> voy para allá
+[06Jul2025 04:03:35.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> no se
+[06Jul2025 04:03:47.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> dale un stack
+[06Jul2025 04:05:32.128] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/56399, l='ServerLevel[world]', x=241.54, y=54.00, z=611.31] died, message: 'Villager hit the ground too hard whilst trying to escape Swarmer'
+[06Jul2025 04:06:38.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> voy ahora
+[06Jul2025 04:07:49.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> voy a comer y vuelvo
+[06Jul2025 04:08:16.873] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:primordial_caves at -1087 -8 -880 in 1s
+[06Jul2025 04:08:22.291] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 lost connection: Disconnected
+[06Jul2025 04:08:22.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 left the game
