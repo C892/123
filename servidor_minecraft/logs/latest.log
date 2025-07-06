@@ -1101,3 +1101,27 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [06Jul2025 16:06:22.748] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/11517, l='ServerLevel[world]', x=167.60, y=91.00, z=639.56] died, message: 'Scribe was slain by Zombie'
 [06Jul2025 16:06:34.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge has made the advancement [Double Trouble]
 [06Jul2025 16:07:44.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to PrincessAuge: double pou
+[06Jul2025 16:19:18.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[06Jul2025 16:19:18.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pou<--[HERE]
+[06Jul2025 16:19:35.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to PrincessAuge: chavales chavales
+[06Jul2025 16:19:35.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Tin1G: chavales chavales
+[06Jul2025 16:19:50.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to PrincessAuge: good luck que no se les apague
+[06Jul2025 16:19:50.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Tin1G: good luck que no se les apague
+[06Jul2025 16:20:14.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * Server a sido asesinado por pou
+[06Jul2025 16:20:32.121] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/16131, l='ServerLevel[world]', x=389.50, y=-29.00, z=474.50]
+[06Jul2025 16:20:32.121] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/16132, l='ServerLevel[world]', x=389.50, y=-30.00, z=474.50]
+[06Jul2025 16:20:32.122] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/16133, l='ServerLevel[world]', x=390.50, y=-30.00, z=475.50]
+[06Jul2025 16:20:37.020] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/16147, l='ServerLevel[world]', x=387.50, y=-27.00, z=474.50]
+[06Jul2025 16:20:37.021] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/16148, l='ServerLevel[world]', x=387.50, y=-28.00, z=478.50]
+[06Jul2025 16:20:37.021] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/16149, l='ServerLevel[world]', x=386.50, y=-28.00, z=478.50]
+[06Jul2025 16:20:37.022] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/16150, l='ServerLevel[world]', x=386.50, y=-28.00, z=479.50]
+[06Jul2025 16:22:24.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge has made the advancement [Life turned out to be a comedy]
+[06Jul2025 16:32:23.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G has made the advancement [KEEP ROLLIN' ROLLIN' ROLLIN']
+[06Jul2025 16:32:34.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G has made the advancement [Rocks Off!]
+[06Jul2025 16:35:41.470] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/19236, l='ServerLevel[world]', x=360.50, y=-17.00, z=486.50]
+[06Jul2025 16:35:41.471] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/19237, l='ServerLevel[world]', x=361.50, y=-17.00, z=487.50]
+[06Jul2025 16:35:44.219] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/19257, l='ServerLevel[world]', x=364.50, y=-17.00, z=480.50]
+[06Jul2025 16:35:44.219] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/19258, l='ServerLevel[world]', x=362.50, y=-17.00, z=481.50]
+[06Jul2025 16:35:44.219] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/19259, l='ServerLevel[world]', x=364.50, y=-17.00, z=481.50]
+[06Jul2025 16:35:47.820] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/19281, l='ServerLevel[world]', x=364.50, y=-17.00, z=480.50]
+[06Jul2025 16:35:47.821] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/19282, l='ServerLevel[world]', x=362.50, y=-17.00, z=481.50]

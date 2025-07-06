@@ -997,6 +997,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2025-07-06 16:22:24 +0000"
+    },
+    "done": true
+  },
   "quark:get_all_corundum": {
     "criteria": {
       "black": "2025-07-06 16:05:59 +0000",

@@ -723,12 +723,24 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/rocky_roller": {
+    "criteria": {
+      "killed_by": "2025-07-06 16:32:23 +0000"
+    },
+    "done": true
+  },
   "quark:get_all_corundum": {
     "criteria": {
       "black": "2025-07-06 16:06:07 +0000",
       "indigo": "2025-07-06 16:05:23 +0000"
     },
     "done": false
+  },
+  "alexsmobs:alexsmobs/rocky_shell": {
+    "criteria": {
+      "soul_heart": "2025-07-06 16:32:34 +0000"
+    },
+    "done": true
   },
   "born_in_chaos_v1:dark_creator": {
     "criteria": {
