@@ -319,8 +319,10 @@
       "minecraft:dripstone_caves": "2025-07-02 22:25:26 +0000",
       "minecraft:forest": "2025-07-02 20:54:47 +0000",
       "minecraft:lush_caves": "2025-07-03 17:29:57 +0000",
+      "minecraft:desert": "2025-07-06 00:56:26 +0000",
       "minecraft:ocean": "2025-07-03 17:23:53 +0000",
       "minecraft:windswept_savanna": "2025-07-06 00:44:16 +0000",
+      "minecraft:warm_ocean": "2025-07-06 00:57:06 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-07-06 00:50:26 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-02 21:01:50 +0000",
       "minecraft:meadow": "2025-07-02 21:14:44 +0000",
@@ -397,6 +399,7 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:mojave_desert": "2025-07-06 00:59:17 +0000",
       "biomeswevegone:sakura_grove": "2025-07-02 21:17:22 +0000",
       "biomeswevegone:forgotten_forest": "2025-07-03 17:13:35 +0000",
       "biomeswevegone:coconino_meadow": "2025-07-03 17:14:52 +0000",
@@ -405,6 +408,7 @@
       "biomeswevegone:weeping_witch_forest": "2025-07-03 17:39:38 +0000",
       "biomeswevegone:prairie": "2025-07-03 17:14:32 +0000",
       "biomeswevegone:aspen_boreal": "2025-07-03 17:39:19 +0000",
+      "biomeswevegone:dead_sea": "2025-07-06 00:57:09 +0000",
       "biomeswevegone:allium_shrubland": "2025-07-03 14:15:32 +0000",
       "biomeswevegone:pumpkin_valley": "2025-07-03 17:14:37 +0000"
     },
@@ -525,6 +529,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "bayou": "2025-07-06 00:53:57 +0000",
       "highland": "2025-07-03 17:25:20 +0000",
       "clover_patch": "2025-07-03 17:21:55 +0000",
       "mystic_grove": "2025-07-03 17:22:14 +0000",
@@ -532,6 +537,7 @@
       "lavender_forest": "2025-07-03 14:14:30 +0000",
       "mediterranean_forest": "2025-07-06 00:52:05 +0000",
       "spider_nest": "2025-07-03 13:37:18 +0000",
+      "wasteland": "2025-07-06 00:54:24 +0000",
       "redwood_forest": "2025-07-06 00:40:53 +0000",
       "seasonal_orchard": "2025-07-03 17:16:18 +0000",
       "seasonal_forest": "2025-07-03 17:16:30 +0000",
@@ -829,6 +835,12 @@
   "nethers_exorcism_reborn:encounterhellstinger": {
     "criteria": {
       "encounterhellstinger_0": "2025-07-05 23:06:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-07-06 00:55:14 +0000"
     },
     "done": true
   },
