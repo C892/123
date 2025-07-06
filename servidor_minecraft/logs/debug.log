@@ -12655,3 +12655,18 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [06Jul2025 16:06:57.551] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
 [06Jul2025 16:06:58.767] [Worker-Main-28/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/oak/large_oak_trunk1
 [06Jul2025 16:06:58.772] [Worker-Main-28/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/oak/large_oak_canopy1
+[06Jul2025 16:07:30.763] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:overworld
+[06Jul2025 16:07:44.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to PrincessAuge: double pou
+[06Jul2025 16:08:42.841] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 16:08:42.883] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 16:08:56.879] [Worker-Main-45/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[06Jul2025 16:08:56.886] [Worker-Main-45/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[06Jul2025 16:08:57.940] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/sakura/sakura_trunk7
+[06Jul2025 16:08:57.943] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/sakura/sakura_canopy7
+[06Jul2025 16:09:04.108] [Worker-Main-28/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/pumpkin_patch/town_centers/pumpkin_patch_meeting_point_3
+[06Jul2025 16:09:05.211] [Worker-Main-28/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/sakura/sakura_trunk6
+[06Jul2025 16:09:05.213] [Worker-Main-28/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/sakura/sakura_canopy6
+[06Jul2025 16:11:11.763] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:overworld
+[06Jul2025 16:11:42.776] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in twilightforest:twilight_forest
+[06Jul2025 16:13:42.837] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 16:13:42.879] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -997,5 +997,18 @@
     },
     "done": true
   },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "black": "2025-07-06 16:05:59 +0000",
+      "indigo": "2025-07-06 16:03:49 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2025-07-06 16:06:34 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -723,6 +723,13 @@
     },
     "done": true
   },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "black": "2025-07-06 16:06:07 +0000",
+      "indigo": "2025-07-06 16:05:23 +0000"
+    },
+    "done": false
+  },
   "born_in_chaos_v1:dark_creator": {
     "criteria": {
       "dark_creator_0": "2025-07-06 15:46:02 +0000"

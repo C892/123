@@ -1100,3 +1100,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [06Jul2025 16:06:12.573] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/11524, l='ServerLevel[world]', x=165.05, y=91.00, z=637.62] died, message: 'Villager was slain by Zombie'
 [06Jul2025 16:06:22.748] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/11517, l='ServerLevel[world]', x=167.60, y=91.00, z=639.56] died, message: 'Scribe was slain by Zombie'
 [06Jul2025 16:06:34.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge has made the advancement [Double Trouble]
+[06Jul2025 16:07:44.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to PrincessAuge: double pou
