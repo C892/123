@@ -39,3 +39,19 @@
 [06Jul2025 00:36:48.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge has made the advancement [The Journey Begins]
 [06Jul2025 00:36:53.041] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:forlorn_hollows at -3899 -56 5227 in 1s
 [06Jul2025 00:44:51.878] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/105326, l='ServerLevel[world]', x=-1031.50, y=42.00, z=1168.50]
+[06Jul2025 00:45:38.224] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[06Jul2025 00:46:04.612] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11389ms or 227 ticks behind
+[06Jul2025 00:46:22.419] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2845ms or 56 ticks behind
+[06Jul2025 00:46:39.783] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2410ms or 48 ticks behind
+[06Jul2025 00:46:41.715] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Josue3234YT lost connection: Disconnected
+[06Jul2025 00:46:41.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Josue3234YT left the game
+[06Jul2025 00:50:06.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> gogo
+[06Jul2025 00:50:39.017] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 00:50:52.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge was slain by Sea Serpent
+[06Jul2025 00:51:45.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[06Jul2025 00:51:45.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ... princess auge calamar892<--[HERE]
+[06Jul2025 00:52:05.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported PrincessAuge to Calamar892
+[06Jul2025 00:55:14.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge has made the advancement [Who is Cutting Onions?]
+[06Jul2025 00:55:15.076] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/114897, l='ServerLevel[world]', x=-1881.50, y=37.00, z=2262.50]
+[06Jul2025 00:55:25.377] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/114935, l='ServerLevel[world]', x=-1894.50, y=43.00, z=2295.50]
+[06Jul2025 00:55:34.476] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/114965, l='ServerLevel[world]', x=-1912.50, y=43.00, z=2295.50]

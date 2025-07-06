@@ -15210,3 +15210,121 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [06Jul2025 00:42:52.031] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [06Jul2025 00:44:51.878] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/105326, l='ServerLevel[world]', x=-1031.50, y=42.00, z=1168.50]
 [06Jul2025 00:45:21.616] [Worker-Main-204/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[06Jul2025 00:45:34.131] [Worker-Main-206/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_4
+[06Jul2025 00:45:38.224] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[06Jul2025 00:45:46.989] [Worker-Main-206/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[06Jul2025 00:46:04.612] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11389ms or 227 ticks behind
+[06Jul2025 00:46:16.110] [Worker-Main-206/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/shelter/tunnel_top
+[06Jul2025 00:46:17.872] [Worker-Main-206/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/savanna_scriber_1
+[06Jul2025 00:46:22.419] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2845ms or 56 ticks behind
+[06Jul2025 00:46:36.571] [Worker-Main-173/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:lookout_tower
+[06Jul2025 00:46:39.783] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2410ms or 48 ticks behind
+[06Jul2025 00:46:41.715] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Josue3234YT lost connection: Disconnected
+[06Jul2025 00:46:41.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Josue3234YT left the game
+[06Jul2025 00:46:58.305] [Worker-Main-202/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_4_0
+[06Jul2025 00:47:07.858] [Worker-Main-211/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/tower
+[06Jul2025 00:47:12.438] [Worker-Main-193/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mountain_tower
+[06Jul2025 00:47:30.254] [Worker-Main-211/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_6
+[06Jul2025 00:47:34.466] [Worker-Main-204/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_1
+[06Jul2025 00:47:43.865] [Worker-Main-207/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[06Jul2025 00:47:43.967] [Worker-Main-207/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[06Jul2025 00:47:44.015] [Worker-Main-207/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[06Jul2025 00:47:44.104] [Worker-Main-207/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_4
+[06Jul2025 00:47:58.084] [Worker-Main-198/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[06Jul2025 00:48:00.912] [Worker-Main-212/DEBUG] [ModernFix/]: Structure iceandfire:gorgon_temple/building is being run through DFU (hash bfe7777c872d0a661fb3a707949dad660d6645d311cbc093100149bfa0745998), this will cause launch time delays
+[06Jul2025 00:48:01.180] [Worker-Main-212/DEBUG] [ModernFix/]: Structure iceandfire:gorgon_temple/basement is being run through DFU (hash 345e3da793356688449424b08af8595766f04c7237ab62d2e3f86f6b4f7a324f), this will cause launch time delays
+[06Jul2025 00:48:01.272] [Worker-Main-212/DEBUG] [ModernFix/]: Structure iceandfire:gorgon_temple/gorgon is being run through DFU (hash c50421b376c509e5dbf6b684c09a3de7a2e32e3a96b4f2dfca32fe843f7c5e68), this will cause launch time delays
+[06Jul2025 00:48:01.382] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in mofus_better_end_:broken_constellation
+[06Jul2025 00:48:10.637] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 00:48:10.736] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 00:48:46.770] [Worker-Main-207/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_2
+[06Jul2025 00:49:14.489] [Worker-Main-212/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/start_castle
+[06Jul2025 00:49:18.039] [Worker-Main-207/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/catacombs_origin
+[06Jul2025 00:49:24.175] [Worker-Main-199/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior2
+[06Jul2025 00:49:26.025] [Worker-Main-198/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior216
+[06Jul2025 00:49:47.328] [Worker-Main-180/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/pumpkin_patch/town_centers/pumpkin_patch_meeting_point_2
+[06Jul2025 00:49:49.215] [Worker-Main-214/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_part_0_main is being run through DFU (hash bd7c55b1bb12e5a2d02b6a73a0b73a37eeb9cb470d83c70382af9be9b4541214), this will cause launch time delays
+[06Jul2025 00:49:49.240] [Worker-Main-214/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[06Jul2025 00:49:49.294] [Worker-Main-214/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_start_0
+[06Jul2025 00:49:49.351] [Worker-Main-214/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_crossing_start_0
+[06Jul2025 00:49:49.455] [Worker-Main-214/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_2
+[06Jul2025 00:49:49.478] [Worker-Main-214/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_1 is being run through DFU (hash b8b12295d93b5da172231e437ecb527d00901657537eae5a5a30d6f971865780), this will cause launch time delays
+[06Jul2025 00:49:49.594] [Worker-Main-214/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_towers/bandit_towers_crossing_0 is being run through DFU (hash 682a9ab05e08fa7de0d130f2ce2efe446e2349880c4af076fd6477f2c4c874e7), this will cause launch time delays
+[06Jul2025 00:49:49.645] [Worker-Main-214/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[06Jul2025 00:49:49.657] [Worker-Main-214/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_start
+[06Jul2025 00:49:49.674] [Worker-Main-214/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_street_2 is being run through DFU (hash a022039109e0754e712826ad7f35f6d19a5ffb34cb66ac5a3bee2174a89b9f5c), this will cause launch time delays
+[06Jul2025 00:49:49.689] [Worker-Main-214/DEBUG] [ModernFix/]: Structure dungeons_arise:undead_pirate_ship/undead_pirate_ship_part_0 is being run through DFU (hash ba25d48fb64bb6f5a4173a32e12e7773d75c432e796bbb5ae067c0d8c67fc7f8), this will cause launch time delays
+[06Jul2025 00:49:49.724] [Worker-Main-214/DEBUG] [ModernFix/]: Structure dungeons_arise:undead_pirate_ship/undead_pirate_ship_dolphin_rider_0 is being run through DFU (hash 1f9b876cb636d613be0e47da963f52244d3223d6db1ab032fe8efbe5e26e5d7c), this will cause launch time delays
+[06Jul2025 00:49:49.949] [Worker-Main-214/DEBUG] [ModernFix/]: Structure dungeons_arise:undead_pirate_ship/undead_pirate_ship_captain_0 is being run through DFU (hash c7f790a5d8bf7e5b0a7c913e354345227e83176db166f9633a906fa71b6c29cf), this will cause launch time delays
+[06Jul2025 00:49:49.953] [Worker-Main-214/DEBUG] [ModernFix/]: Structure dungeons_arise:undead_pirate_ship/undead_pirate_ship_ranged_skeleton_0 is being run through DFU (hash 61d29d193d1139b67226abf029f5b776a5efae41eb5aceaf490bcc9e2a907837), this will cause launch time delays
+[06Jul2025 00:49:49.956] [Worker-Main-214/DEBUG] [ModernFix/]: Structure dungeons_arise:undead_pirate_ship/undead_pirate_ship_skeleton_juggernaut_1 is being run through DFU (hash 7c7633cb61709997f1b3b280ac0b87da6fce4c7cb1a7b7fbcd21ccc3d0376469), this will cause launch time delays
+[06Jul2025 00:49:49.965] [Worker-Main-214/DEBUG] [ModernFix/]: Structure dungeons_arise:undead_pirate_ship/undead_pirate_ship_skeleton_juggernaut_0 is being run through DFU (hash 8c2947b654d62d07451c5c64374cca3d8feb055d215ee4be279641cb0c09731f), this will cause launch time delays
+[06Jul2025 00:49:49.973] [Worker-Main-214/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_part_1
+[06Jul2025 00:50:06.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> gogo
+[06Jul2025 00:50:39.017] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 00:50:39.419] [Worker-Main-204/DEBUG] [ModernFix/]: Structure ribbits:paths/path_straight_0 is being run through DFU (hash 051d47a85168bda4143f1c8413dd8780d358ad8c923f5d0d37b7bbe012caff9c), this will cause launch time delays
+[06Jul2025 00:50:39.455] [Worker-Main-204/DEBUG] [ModernFix/]: Structure ribbits:houses/brown_fishing_house is being run through DFU (hash e63cfe0662a0c270304588e47134f77b43c04caf3bfff5e710bcded4b932bf68), this will cause launch time delays
+[06Jul2025 00:50:39.466] [Worker-Main-204/DEBUG] [ModernFix/]: Structure ribbits:houses/brown_sorcerer_house is being run through DFU (hash 502dc904d293d411a5ebafed2c7f71b8eed8e36ab2123553ae8ae3295a56aa76), this will cause launch time delays
+[06Jul2025 00:50:39.474] [Worker-Main-204/DEBUG] [ModernFix/]: Structure ribbits:houses/lg_brown_house_1 is being run through DFU (hash d661912783c0ee70fd276e74e8f87dd8c7e37024260289d45ba3aef88d976167), this will cause launch time delays
+[06Jul2025 00:50:39.482] [Worker-Main-204/DEBUG] [ModernFix/]: Structure ribbits:houses/lg_red_house_1 is being run through DFU (hash 905a433a0299b5c31f1cf0d3542fe845dfc3ecc327492c7d23e04cfc3616f7d2), this will cause launch time delays
+[06Jul2025 00:50:39.494] [Worker-Main-204/DEBUG] [ModernFix/]: Structure ribbits:houses/md_brown_house_1 is being run through DFU (hash 8d7b252355641b426203781d49e484bfe92ff67e955c3bdecc6fb57c2efff89f), this will cause launch time delays
+[06Jul2025 00:50:39.501] [Worker-Main-204/DEBUG] [ModernFix/]: Structure ribbits:houses/md_red_house_1 is being run through DFU (hash 5288ed965ae40d30c88ec372f3743a391a8a3779cff76b75401f135b2058fa23), this will cause launch time delays
+[06Jul2025 00:50:39.508] [Worker-Main-204/DEBUG] [ModernFix/]: Structure ribbits:houses/red_fishing_house is being run through DFU (hash 5727af6eac04fffa1654aafb7b6ac98f9c3893dba1ca7cf044dc20237ba75bc5), this will cause launch time delays
+[06Jul2025 00:50:39.518] [Worker-Main-204/DEBUG] [ModernFix/]: Structure ribbits:houses/red_sorcerer_house is being run through DFU (hash ef66d580570c81657500f714b76eb761de910285571ff0ce36442b14e4bc8948), this will cause launch time delays
+[06Jul2025 00:50:39.525] [Worker-Main-204/DEBUG] [ModernFix/]: Structure ribbits:houses/small_house_brown_1 is being run through DFU (hash 02bd242eff7f7599bcf0cdb6cbbc2e1b3ee14b7543ed67112e85365b41e6b15a), this will cause launch time delays
+[06Jul2025 00:50:39.531] [Worker-Main-204/DEBUG] [ModernFix/]: Structure ribbits:houses/small_house_brown_2 is being run through DFU (hash 7e7ca64fe02c9953b6e3ccf3bf2a2393c3274bbbb3848ae874b4ff8c9c6b1676), this will cause launch time delays
+[06Jul2025 00:50:39.536] [Worker-Main-204/DEBUG] [ModernFix/]: Structure ribbits:houses/small_house_brown_3 is being run through DFU (hash 329dd885fd3a26fbf809cc37b74696799bea2e5397a6dd645810261bfbb1055a), this will cause launch time delays
+[06Jul2025 00:50:39.541] [Worker-Main-204/DEBUG] [ModernFix/]: Structure ribbits:houses/small_house_red_1 is being run through DFU (hash d53bbb3928e2d764af7bc8898e27c81b72a6f0720e8830173b430b1d66b4a987), this will cause launch time delays
+[06Jul2025 00:50:39.545] [Worker-Main-204/DEBUG] [ModernFix/]: Structure ribbits:houses/small_house_red_2 is being run through DFU (hash a91945113b28214f5be8935efdbb4c42f6ec469bf9ca9bae5074a0579023d20a), this will cause launch time delays
+[06Jul2025 00:50:39.551] [Worker-Main-204/DEBUG] [ModernFix/]: Structure ribbits:houses/small_house_red_3 is being run through DFU (hash 4652d7c9fa1481b9d210a32140eedc751a797c0d2deb6b6e12f53d4c60955e70), this will cause launch time delays
+[06Jul2025 00:50:39.556] [Worker-Main-204/DEBUG] [ModernFix/]: Structure ribbits:paths/path_turn_1 is being run through DFU (hash c4859a709b5ba9f6f04e37a06b098c057702e53a4f7803a82f7adbb868150734), this will cause launch time delays
+[06Jul2025 00:50:39.571] [Worker-Main-204/DEBUG] [ModernFix/]: Structure ribbits:decor/lamp_post is being run through DFU (hash 8cc5c8caf872e81ccb834200b2817942abc101df5c7e33a307a7abedd7e18a75), this will cause launch time delays
+[06Jul2025 00:50:39.637] [Worker-Main-204/DEBUG] [ModernFix/]: Structure ribbits:paths/path_deadend_0 is being run through DFU (hash f4a1c04a06f046a307fad4edb28116ddcc7062a9acca30c9ab79ac5ad960f51f), this will cause launch time delays
+[06Jul2025 00:50:39.750] [Worker-Main-204/DEBUG] [ModernFix/]: Structure ribbits:paths/path_turn_0 is being run through DFU (hash fdf0b45a333597b9fc3ceafb62462af96222e86d99645b4f58ea83842f6df755), this will cause launch time delays
+[06Jul2025 00:50:39.754] [Worker-Main-204/DEBUG] [ModernFix/]: Structure ribbits:paths/path_bridge is being run through DFU (hash 6895a5e04ce33d90b88c65c679625260dbb878278d796681e1d8378de934be6e), this will cause launch time delays
+[06Jul2025 00:50:39.757] [Worker-Main-204/DEBUG] [ModernFix/]: Structure ribbits:paths/path_3_0 is being run through DFU (hash 9d05e2436f8f3610a96912072060734e7b8c34342dd76fa91663108f8c72ff4f), this will cause launch time delays
+[06Jul2025 00:50:39.760] [Worker-Main-204/DEBUG] [ModernFix/]: Structure ribbits:paths/path_deadend_nohouse is being run through DFU (hash b56301dc35866e00256f7b1eeddedc9a7adc956599591ddb1f6e3d4e572f8bc6), this will cause launch time delays
+[06Jul2025 00:50:39.909] [Worker-Main-204/DEBUG] [ModernFix/]: Structure ribbits:ribbits/ribbit_fisherman is being run through DFU (hash 13ec18fc48a4c8c1dedd84ec441aea8d4ea5ffc64c79a64ffe2af136f89bc029), this will cause launch time delays
+[06Jul2025 00:50:39.910] [Worker-Main-204/DEBUG] [ModernFix/]: Structure ribbits:ribbits/ribbit_merchant is being run through DFU (hash 95371a80771301edfdae2c211963c3ebeecf305c120f18954a1461c90fd20aae), this will cause launch time delays
+[06Jul2025 00:50:39.910] [Worker-Main-204/DEBUG] [ModernFix/]: Structure ribbits:ribbits/ribbit_nitwit is being run through DFU (hash d9cc3cc9ca3a89a61aa05f0be93abf993cb8502c835ef08d6e9dcc435e6c23f4), this will cause launch time delays
+[06Jul2025 00:50:39.951] [Worker-Main-204/DEBUG] [ModernFix/]: Structure ribbits:ribbits/ribbit_gardener is being run through DFU (hash 2dea9cb2dfd371ec48dfeae82974292c103c704b4b695e92405a3868e53b70d1), this will cause launch time delays
+[06Jul2025 00:50:39.952] [Worker-Main-204/DEBUG] [ModernFix/]: Structure ribbits:ribbits/ribbit_sorcerer is being run through DFU (hash 7f62fb30a39d8bf1080e636bb1b7ed3af4d4183fd7583ead35243f043730a85d), this will cause launch time delays
+[06Jul2025 00:50:52.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge was slain by Sea Serpent
+[06Jul2025 00:50:55.995] [Server thread/DEBUG] [twilightforest/]: Player PrincessAuge (b48dd7c9-7c9c-36a2-851c-6d210d133d2a) respawned and received items held in storage
+[06Jul2025 00:51:12.978] [Worker-Main-214/DEBUG] [ModernFix/]: Structure ribbits:paths/path_deadend_1 is being run through DFU (hash b374064e7f14144d3d3ebfae8c51d60ac2edf5fc1af1c1a39f3f92fd04ff85bb), this will cause launch time delays
+[06Jul2025 00:51:25.431] [Worker-Main-204/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:impaled_icebreaker
+[06Jul2025 00:51:45.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[06Jul2025 00:51:45.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ... princess auge calamar892<--[HERE]
+[06Jul2025 00:52:05.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported PrincessAuge to Calamar892
+[06Jul2025 00:53:09.668] [Worker-Main-198/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/yucca/yucca_trunk1 is being run through DFU (hash ffb40217744f5b09a0b733cba328b4986c1a9705e936077a902fafde5a00fccd), this will cause launch time delays
+[06Jul2025 00:53:10.503] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 00:53:10.546] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 00:53:17.681] [Worker-Main-202/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[06Jul2025 00:53:17.709] [Worker-Main-202/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[06Jul2025 00:53:17.764] [Worker-Main-202/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[06Jul2025 00:53:17.773] [Worker-Main-202/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_1
+[06Jul2025 00:53:17.774] [Worker-Main-202/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_0
+[06Jul2025 00:53:17.774] [Worker-Main-202/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/illusioner_normal_0
+[06Jul2025 00:53:17.774] [Worker-Main-202/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_entrance
+[06Jul2025 00:53:17.784] [Worker-Main-202/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_1
+[06Jul2025 00:53:17.793] [Worker-Main-202/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_0
+[06Jul2025 00:53:17.802] [Worker-Main-202/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_1
+[06Jul2025 00:53:17.811] [Worker-Main-202/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_0
+[06Jul2025 00:53:17.811] [Worker-Main-202/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_2
+[06Jul2025 00:53:19.597] [Worker-Main-202/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/oak/large_oak_trunk3
+[06Jul2025 00:53:19.606] [Worker-Main-202/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/oak/large_oak_canopy3
+[06Jul2025 00:53:20.074] [Worker-Main-202/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior1
+[06Jul2025 00:53:27.401] [Worker-Main-201/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/oak/oak_trunk1
+[06Jul2025 00:53:27.403] [Worker-Main-201/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/oak/oak_canopy1
+[06Jul2025 00:53:28.331] [Server thread/DEBUG] [mixin/]: Mixing MapDecorationMixin from alexscaves.mixins.json into net.minecraft.world.level.saveddata.maps.MapDecoration
+[06Jul2025 00:53:28.654] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[06Jul2025 00:53:38.089] [Server thread/DEBUG] [mixin/]: Mixing HoldingPlayerMixin from moonlight-common.mixins.json into net.minecraft.world.level.saveddata.maps.MapItemSavedData$HoldingPlayer
+[06Jul2025 00:54:36.358] [Worker-Main-207/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/pumpkin_patch/town_centers/pumpkin_patch_meeting_point_3
+[06Jul2025 00:54:53.755] [Worker-Main-195/DEBUG] [ModernFix/]: Structure iceandfire:village/desert_scriber_1 is being run through DFU (hash a4c7b209c6b9843cf1ae3380d95e5861ca6debff009fb170d0fdaeb52fa22a18), this will cause launch time delays
+[06Jul2025 00:54:54.213] [Worker-Main-195/DEBUG] [ModernFix/]: Structure waystones:village/desert/waystone is being run through DFU (hash 5acb5b060578cb1eb92dd528424c2635b6cc7be8b854e58450e2df50a8f8a045), this will cause launch time delays
+[06Jul2025 00:55:12.347] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in mofus_better_end_:broken_constellation
+[06Jul2025 00:55:14.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge has made the advancement [Who is Cutting Onions?]
+[06Jul2025 00:55:15.076] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/114897, l='ServerLevel[world]', x=-1881.50, y=37.00, z=2262.50]
+[06Jul2025 00:55:25.377] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/114935, l='ServerLevel[world]', x=-1894.50, y=43.00, z=2295.50]
+[06Jul2025 00:55:34.476] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/114965, l='ServerLevel[world]', x=-1912.50, y=43.00, z=2295.50]
+[06Jul2025 00:55:41.638] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
