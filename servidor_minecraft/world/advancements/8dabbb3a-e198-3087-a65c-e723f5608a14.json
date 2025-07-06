@@ -293,15 +293,57 @@
     },
     "done": false
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-06 03:08:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-06 03:08:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-06 03:08:12 +0000"
+    },
+    "done": false
+  },
   "incendium:technical/using/ragnarok": {
     "criteria": {
       "log_spam_fixer": "2025-07-06 02:26:38 +0000"
     },
     "done": false
   },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-06 03:08:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-06 03:08:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-06 03:08:12 +0000"
+    },
+    "done": false
+  },
   "incendium:technical/using/trailblazer": {
     "criteria": {
       "log_spam_fixer": "2025-07-06 02:26:38 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-06 03:08:12 +0000"
     },
     "done": false
   },
@@ -315,11 +357,47 @@
     },
     "done": false
   },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-06 03:08:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-06 03:08:12 +0000"
+    },
+    "done": false
+  },
   "incendium:technical/using/shield": {
     "criteria": {
       "log_spam_fixer": "2025-07-06 02:26:38 +0000"
     },
     "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-06 03:08:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-06 03:08:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-06 03:08:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft_121_update:trial_chambers_start_advancement": {
+    "criteria": {
+      "trial_chambers_start_advancement": "2025-07-06 03:03:33 +0000"
+    },
+    "done": true
   },
   "the_bumblezone:teleportation/is_near_beehive": {
     "criteria": {
@@ -377,11 +455,23 @@
     },
     "done": false
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-07-06 02:58:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-07-06 02:40:51 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2025-07-06 02:58:43 +0000"
+    },
+    "done": false
   },
   "biomeswevegone:biomeswevegone/adventure/root": {
     "criteria": {
@@ -395,9 +485,21 @@
     },
     "done": false
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2025-07-06 02:58:43 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:biomeswevegone/husbandry/root": {
     "criteria": {
       "consumed_item": "2025-07-06 02:37:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-07-06 03:00:33 +0000"
     },
     "done": true
   },
@@ -405,6 +507,7 @@
     "criteria": {
       "apple": "2025-07-06 02:44:26 +0000",
       "potato": "2025-07-06 02:44:12 +0000",
+      "bread": "2025-07-06 03:08:15 +0000",
       "rotten_flesh": "2025-07-06 02:57:37 +0000",
       "carrot": "2025-07-06 02:37:11 +0000"
     },
@@ -415,6 +518,19 @@
       "consumed_item": "2025-07-06 02:37:11 +0000"
     },
     "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2025-07-06 03:03:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sugar_cane": "2025-07-06 03:07:35 +0000",
+      "wheat": "2025-07-06 03:00:33 +0000"
+    },
+    "done": false
   },
   "aquamirae:adventure/root": {
     "criteria": {

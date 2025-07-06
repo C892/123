@@ -1399,3 +1399,29 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [06Jul2025 03:01:45.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> que cosa?
 [06Jul2025 03:01:54.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <gibro> la casa
 [06Jul2025 03:01:56.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> eso?
+[06Jul2025 03:02:14.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> [x:-285, y:84, z:342, dim:minecraft:overworld]
+[06Jul2025 03:02:19.302] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2095ms or 41 ticks behind
+[06Jul2025 03:02:45.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> este es el de antes
+[06Jul2025 03:03:48.409] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[06Jul2025 03:04:17.719] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[06Jul2025 03:04:22.189] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/17588, l='ServerLevel[world]', x=-3779.51, y=83.16, z=5169.52] died, message: 'Leatherworker tried to swim in lava'
+[06Jul2025 03:05:08.022] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[06Jul2025 03:06:06.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> proden quieres mañana ir por la ultra cueva?
+[06Jul2025 03:06:50.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> proden quieres mañana ir por la ultra cueva?
+[06Jul2025 03:07:04.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> vamos todos
+[06Jul2025 03:07:45.730] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[06Jul2025 03:08:05.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> y el contra sigue sin comprar el server del ark
+[06Jul2025 03:08:12.959] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[06Jul2025 03:08:30.508] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2550ms or 51 ticks behind
+[06Jul2025 03:08:47.519] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[06Jul2025 03:08:55.877] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gibro lost connection: Disconnected
+[06Jul2025 03:08:55.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gibro left the game
+[06Jul2025 03:10:15.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> proden cuanta cosa de mariposa tienes?
+[06Jul2025 03:10:58.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> lo peor es que esta es la zona menos insufrible del juego
+[06Jul2025 03:11:06.935] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Player PrincessAuge tried to attack an invalid entity
+[06Jul2025 03:11:06.981] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PrincessAuge lost connection: Attempting to attack an invalid entity
+[06Jul2025 03:11:06.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge left the game
+[06Jul2025 03:11:15.322] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PrincessAuge[/127.142.125.183:37957] logged in with entity id 31273 at (-3812.5129641102426, -34.0, 5111.742741143761)
+[06Jul2025 03:11:15.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge joined the game
+[06Jul2025 03:12:06.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> 2
+[06Jul2025 03:12:27.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> es que son de oido aunque tengamos invi nos ven
