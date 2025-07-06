@@ -436,12 +436,15 @@
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
       "biomeswevegone:mojave_desert": "2025-07-06 01:01:02 +0000",
+      "biomeswevegone:rugged_badlands": "2025-07-06 01:13:46 +0000",
       "biomeswevegone:sakura_grove": "2025-07-02 21:36:41 +0000",
       "biomeswevegone:zelkova_forest": "2025-07-05 19:46:38 +0000",
       "biomeswevegone:forgotten_forest": "2025-07-02 22:34:49 +0000",
+      "biomeswevegone:firecracker_chaparral": "2025-07-06 01:22:26 +0000",
       "biomeswevegone:coconino_meadow": "2025-07-03 13:39:08 +0000",
       "biomeswevegone:maple_taiga": "2025-07-03 14:20:51 +0000",
       "biomeswevegone:orchard": "2025-07-02 21:54:31 +0000",
+      "biomeswevegone:ironwood_gour": "2025-07-06 01:20:41 +0000",
       "biomeswevegone:weeping_witch_forest": "2025-07-05 19:48:03 +0000",
       "biomeswevegone:prairie": "2025-07-03 14:18:02 +0000",
       "biomeswevegone:aspen_boreal": "2025-07-03 14:21:35 +0000",
