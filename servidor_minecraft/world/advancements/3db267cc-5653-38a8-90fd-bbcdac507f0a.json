@@ -445,6 +445,7 @@
       "biomeswevegone:maple_taiga": "2025-07-03 14:20:51 +0000",
       "biomeswevegone:orchard": "2025-07-02 21:54:31 +0000",
       "biomeswevegone:ironwood_gour": "2025-07-06 01:20:41 +0000",
+      "biomeswevegone:amaranth_grassland": "2025-07-06 01:34:17 +0000",
       "biomeswevegone:weeping_witch_forest": "2025-07-05 19:48:03 +0000",
       "biomeswevegone:prairie": "2025-07-03 14:18:02 +0000",
       "biomeswevegone:aspen_boreal": "2025-07-03 14:21:35 +0000",
@@ -517,6 +518,9 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-07-06 01:34:20 +0000",
+      "shrubland": "2025-07-06 01:34:25 +0000",
+      "scrubland": "2025-07-06 01:30:59 +0000",
       "bayou": "2025-07-06 00:53:56 +0000",
       "clover_patch": "2025-07-05 20:03:57 +0000",
       "mystic_grove": "2025-07-05 19:31:55 +0000",
@@ -528,6 +532,7 @@
       "wasteland": "2025-07-06 00:54:20 +0000",
       "redwood_forest": "2025-07-06 00:40:48 +0000",
       "seasonal_orchard": "2025-07-02 22:39:18 +0000",
+      "dune_beach": "2025-07-06 01:35:33 +0000",
       "seasonal_forest": "2025-07-03 13:31:18 +0000",
       "lavender_field": "2025-07-03 14:11:02 +0000",
       "grassland": "2025-07-05 19:32:44 +0000",
@@ -819,6 +824,12 @@
   "nethers_exorcism_reborn:nether_exorcism": {
     "criteria": {
       "nether_exorcism_0": "2025-07-05 22:44:56 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-07-06 01:37:23 +0000"
     },
     "done": true
   },

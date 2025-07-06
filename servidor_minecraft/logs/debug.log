@@ -15835,3 +15835,247 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [06Jul2025 01:25:59.847] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
 [06Jul2025 01:26:15.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> es otro
 [06Jul2025 01:26:20.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> no se que hace no mas lo agarre
+[06Jul2025 01:27:32.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> nos vamos ya no?
+[06Jul2025 01:27:33.299] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_end
+[06Jul2025 01:28:16.458] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 01:28:16.504] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 01:28:27.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> so
+[06Jul2025 01:28:40.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> quien es dragon?
+[06Jul2025 01:28:54.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> toma
+[06Jul2025 01:29:06.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> es una cama que no guarda spawn
+[06Jul2025 01:29:22.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> ves que esta aldea tiene rinocerontes?
+[06Jul2025 01:29:45.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> esos son totalmente agresivos con los pillagers
+[06Jul2025 01:29:53.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> son como golems 2.0
+[06Jul2025 01:30:25.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> crees??
+[06Jul2025 01:30:38.054] [Worker-Main-199/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/sakura/sakura_trunk4
+[06Jul2025 01:30:38.057] [Worker-Main-199/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/sakura/sakura_canopy4
+[06Jul2025 01:30:39.425] [Worker-Main-193/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/hallway/hallway_tee_2 is being run through DFU (hash ddc035e32a14d18c922540490b5bfcebf9b2e259761be12fbdea81585f215a23), this will cause launch time delays
+[06Jul2025 01:30:39.476] [Worker-Main-193/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/hallway/hallway_straight_2 is being run through DFU (hash bea25291af31dab778e39c3b48513c21dff4bad4b781f0612901d95e79d0be09), this will cause launch time delays
+[06Jul2025 01:30:40.240] [Worker-Main-202/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/sakura/sakura_trunk5
+[06Jul2025 01:30:40.260] [Worker-Main-202/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/sakura/sakura_canopy5
+[06Jul2025 01:30:40.267] [Worker-Main-202/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/sakura/sakura_trunk2
+[06Jul2025 01:30:40.274] [Worker-Main-202/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/sakura/sakura_canopy2
+[06Jul2025 01:30:40.277] [Worker-Main-202/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/sakura/sakura_trunk7
+[06Jul2025 01:30:40.282] [Worker-Main-202/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/sakura/sakura_canopy7
+[06Jul2025 01:30:40.286] [Worker-Main-202/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/sakura/sakura_trunk6
+[06Jul2025 01:30:40.286] [Worker-Main-202/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/sakura/sakura_canopy6
+[06Jul2025 01:30:40.295] [Worker-Main-202/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/sakura/sakura_trunk3
+[06Jul2025 01:30:40.296] [Worker-Main-202/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/sakura/sakura_canopy3
+[06Jul2025 01:30:45.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> solo tira rayitos tio
+[06Jul2025 01:30:49.462] [Worker-Main-194/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/sakura/sakura_trunk1
+[06Jul2025 01:30:49.465] [Worker-Main-194/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/sakura/sakura_canopy1
+[06Jul2025 01:31:04.119] [Worker-Main-189/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3382, y=-6, z=4572}
+[06Jul2025 01:31:04.670] [Worker-Main-198/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3387, y=-6, z=4572}
+[06Jul2025 01:31:04.670] [Worker-Main-198/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3388, y=-6, z=4583}
+[06Jul2025 01:31:04.670] [Worker-Main-198/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3382, y=-6, z=4572}
+[06Jul2025 01:31:06.599] [Worker-Main-173/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/prairie/prairie_shrub_canopy2
+[06Jul2025 01:31:07.336] [Worker-Main-194/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3382, y=-6, z=4572}
+[06Jul2025 01:31:07.798] [Worker-Main-194/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3387, y=-6, z=4590}
+[06Jul2025 01:31:07.798] [Worker-Main-194/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3387, y=-6, z=4572}
+[06Jul2025 01:31:07.798] [Worker-Main-194/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3388, y=-6, z=4583}
+[06Jul2025 01:31:07.799] [Worker-Main-194/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3382, y=-6, z=4572}
+[06Jul2025 01:31:09.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> proden
+[06Jul2025 01:31:10.495] [Worker-Main-195/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3382, y=-6, z=4603}
+[06Jul2025 01:31:10.791] [Worker-Main-204/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3382, y=-6, z=4603}
+[06Jul2025 01:31:10.792] [Worker-Main-204/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3387, y=-6, z=4590}
+[06Jul2025 01:31:10.792] [Worker-Main-204/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3388, y=-6, z=4606}
+[06Jul2025 01:31:11.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> mira
+[06Jul2025 01:31:13.426] [Worker-Main-193/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3382, y=-6, z=4603}
+[06Jul2025 01:31:13.435] [Worker-Main-193/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3395, y=-19, z=4632}
+[06Jul2025 01:31:13.436] [Worker-Main-193/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3383, y=-6, z=4625}
+[06Jul2025 01:31:13.436] [Worker-Main-193/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3382, y=-6, z=4603}
+[06Jul2025 01:31:13.437] [Worker-Main-193/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3388, y=-6, z=4618}
+[06Jul2025 01:31:19.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> no le pegues
+[06Jul2025 01:31:22.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> ni lootees
+[06Jul2025 01:31:41.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> 0 loot
+[06Jul2025 01:32:08.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> ven rapido
+[06Jul2025 01:32:30.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> toma
+[06Jul2025 01:33:16.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 01:33:16.490] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 01:33:44.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> go proden
+[06Jul2025 01:33:54.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> que hechizos tienes ahora?
+[06Jul2025 01:34:19.205] [Worker-Main-193/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3349, y=-32, z=4661}
+[06Jul2025 01:34:19.206] [Worker-Main-193/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3351, y=-32, z=4670}
+[06Jul2025 01:34:19.206] [Worker-Main-193/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3361, y=-32, z=4660}
+[06Jul2025 01:34:19.206] [Worker-Main-193/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3348, y=-32, z=4660}
+[06Jul2025 01:34:21.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> creo que es para anularlos
+[06Jul2025 01:34:22.055] [Worker-Main-173/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3364, y=-19, z=4684}
+[06Jul2025 01:34:27.445] [Worker-Main-173/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3364, y=-19, z=4684}
+[06Jul2025 01:34:31.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> conduce cabron que tienes el mapa
+[06Jul2025 01:34:39.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> si
+[06Jul2025 01:34:46.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> pero igual hay mobs que lanzan hechizos
+[06Jul2025 01:34:52.572] [Worker-Main-199/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3382, y=-19, z=4633}
+[06Jul2025 01:34:52.776] [Worker-Main-193/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3382, y=-19, z=4633}
+[06Jul2025 01:34:52.777] [Worker-Main-193/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3382, y=-19, z=4652}
+[06Jul2025 01:34:52.777] [Worker-Main-193/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3375, y=-32, z=4660}
+[06Jul2025 01:34:52.794] [Worker-Main-202/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3382, y=-6, z=4665}
+[06Jul2025 01:34:52.794] [Worker-Main-202/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3364, y=-19, z=4669}
+[06Jul2025 01:34:52.794] [Worker-Main-202/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3382, y=-6, z=4682}
+[06Jul2025 01:34:52.795] [Worker-Main-202/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3369, y=-19, z=4676}
+[06Jul2025 01:34:52.795] [Worker-Main-202/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3370, y=-33, z=4692}
+[06Jul2025 01:34:52.795] [Worker-Main-202/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3364, y=-19, z=4684}
+[06Jul2025 01:34:52.795] [Worker-Main-202/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3366, y=-32, z=4670}
+[06Jul2025 01:34:52.804] [Worker-Main-202/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3382, y=-6, z=4665}
+[06Jul2025 01:34:52.804] [Worker-Main-202/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3382, y=-19, z=4652}
+[06Jul2025 01:34:52.805] [Worker-Main-202/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3364, y=-19, z=4669}
+[06Jul2025 01:34:52.805] [Worker-Main-202/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3379, y=-19, z=4668}
+[06Jul2025 01:34:52.805] [Worker-Main-202/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3378, y=-32, z=4669}
+[06Jul2025 01:34:52.806] [Worker-Main-202/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3349, y=-32, z=4661}
+[06Jul2025 01:34:52.806] [Worker-Main-202/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3375, y=-32, z=4660}
+[06Jul2025 01:34:52.806] [Worker-Main-202/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3366, y=-32, z=4670}
+[06Jul2025 01:34:52.806] [Worker-Main-202/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3351, y=-32, z=4670}
+[06Jul2025 01:34:52.806] [Worker-Main-202/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3361, y=-32, z=4660}
+[06Jul2025 01:34:52.818] [Worker-Main-193/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3382, y=-6, z=4682}
+[06Jul2025 01:34:52.819] [Worker-Main-193/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3369, y=-19, z=4676}
+[06Jul2025 01:34:52.819] [Worker-Main-193/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3370, y=-33, z=4692}
+[06Jul2025 01:34:52.819] [Worker-Main-193/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3365, y=-32, z=4701}
+[06Jul2025 01:34:52.820] [Worker-Main-193/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3364, y=-19, z=4684}
+[06Jul2025 01:34:52.820] [Worker-Main-193/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3363, y=-32, z=4702}
+[06Jul2025 01:34:55.897] [Worker-Main-214/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3395, y=-6, z=4626}
+[06Jul2025 01:34:55.898] [Worker-Main-214/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3395, y=-19, z=4632}
+[06Jul2025 01:34:55.899] [Worker-Main-214/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3383, y=-6, z=4625}
+[06Jul2025 01:34:55.899] [Worker-Main-214/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3383, y=-19, z=4650}
+[06Jul2025 01:34:55.900] [Worker-Main-214/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3382, y=-19, z=4633}
+[06Jul2025 01:34:55.900] [Worker-Main-214/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3388, y=-19, z=4644}
+[06Jul2025 01:34:55.911] [Worker-Main-214/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3395, y=-6, z=4626}
+[06Jul2025 01:34:55.911] [Worker-Main-214/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3387, y=-6, z=4647}
+[06Jul2025 01:34:55.911] [Worker-Main-214/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3383, y=-19, z=4650}
+[06Jul2025 01:34:55.912] [Worker-Main-214/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3388, y=-6, z=4665}
+[06Jul2025 01:34:55.912] [Worker-Main-214/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3382, y=-6, z=4654}
+[06Jul2025 01:34:55.912] [Worker-Main-214/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3383, y=-19, z=4668}
+[06Jul2025 01:34:55.912] [Worker-Main-214/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3382, y=-19, z=4633}
+[06Jul2025 01:34:55.913] [Worker-Main-214/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3388, y=-19, z=4644}
+[06Jul2025 01:34:55.913] [Worker-Main-214/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3382, y=-19, z=4652}
+[06Jul2025 01:34:55.914] [Worker-Main-214/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3388, y=-19, z=4660}
+[06Jul2025 01:34:55.914] [Worker-Main-214/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3390, y=-32, z=4660}
+[06Jul2025 01:34:56.052] [Worker-Main-206/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3387, y=-6, z=4647}
+[06Jul2025 01:34:56.053] [Worker-Main-206/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3383, y=-6, z=4682}
+[06Jul2025 01:34:56.053] [Worker-Main-206/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3388, y=-6, z=4665}
+[06Jul2025 01:34:56.054] [Worker-Main-206/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3382, y=-6, z=4654}
+[06Jul2025 01:34:56.054] [Worker-Main-206/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3383, y=-19, z=4668}
+[06Jul2025 01:34:56.054] [Worker-Main-206/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3388, y=-6, z=4675}
+[06Jul2025 01:34:56.055] [Worker-Main-206/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3382, y=-6, z=4665}
+[06Jul2025 01:34:56.055] [Worker-Main-206/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3382, y=-19, z=4652}
+[06Jul2025 01:34:56.055] [Worker-Main-206/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3388, y=-19, z=4660}
+[06Jul2025 01:34:56.056] [Worker-Main-206/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3364, y=-19, z=4669}
+[06Jul2025 01:34:56.056] [Worker-Main-206/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3379, y=-19, z=4668}
+[06Jul2025 01:34:56.056] [Worker-Main-206/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3379, y=-32, z=4661}
+[06Jul2025 01:34:56.057] [Worker-Main-206/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3378, y=-32, z=4669}
+[06Jul2025 01:34:56.058] [Worker-Main-206/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3382, y=-32, z=4670}
+[06Jul2025 01:34:56.058] [Worker-Main-206/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3390, y=-32, z=4660}
+[06Jul2025 01:34:56.071] [Worker-Main-206/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3383, y=-6, z=4682}
+[06Jul2025 01:34:56.072] [Worker-Main-206/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3383, y=-6, z=4700}
+[06Jul2025 01:34:56.072] [Worker-Main-206/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3388, y=-6, z=4675}
+[06Jul2025 01:34:56.072] [Worker-Main-206/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3382, y=-6, z=4665}
+[06Jul2025 01:34:56.072] [Worker-Main-206/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3364, y=-19, z=4669}
+[06Jul2025 01:34:56.073] [Worker-Main-206/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3382, y=-6, z=4682}
+[06Jul2025 01:34:56.073] [Worker-Main-206/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3388, y=-6, z=4693}
+[06Jul2025 01:34:56.073] [Worker-Main-206/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3370, y=-33, z=4692}
+[06Jul2025 01:34:56.073] [Worker-Main-206/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3382, y=-32, z=4670}
+[06Jul2025 01:34:56.114] [Worker-Main-206/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3383, y=-6, z=4700}
+[06Jul2025 01:34:56.114] [Worker-Main-206/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3382, y=-6, z=4682}
+[06Jul2025 01:34:56.114] [Worker-Main-206/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3380, y=-6, z=4701}
+[06Jul2025 01:34:56.114] [Worker-Main-206/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3388, y=-6, z=4693}
+[06Jul2025 01:34:56.115] [Worker-Main-206/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3370, y=-33, z=4692}
+[06Jul2025 01:35:00.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> casas de hadas
+[06Jul2025 01:35:16.027] [Worker-Main-194/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_0
+[06Jul2025 01:35:16.041] [Worker-Main-194/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_galley/illager_galley_pillager_0 is being run through DFU (hash 5b954e6c9a153dc96aee542ae8e2813d5466cd4bdc9d7627224d581e8e589b37), this will cause launch time delays
+[06Jul2025 01:35:16.140] [Worker-Main-194/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_galley/illager_galley_vindicator_spawner_0 is being run through DFU (hash 1bdbb5904e08c005d77c14cf57dae04bc3b5c0b8f46bdaf5c0a9ae4bb5d4f0a6), this will cause launch time delays
+[06Jul2025 01:35:28.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> ahora una serpiente marina
+[06Jul2025 01:35:36.290] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_end
+[06Jul2025 01:36:48.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> ostia
+[06Jul2025 01:36:49.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> un faro
+[06Jul2025 01:37:01.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> no hay nada tampoco muy interesante
+[06Jul2025 01:37:06.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> pero si lo quieres ver
+[06Jul2025 01:37:08.289] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_nether
+[06Jul2025 01:37:23.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [The Lighthouse]
+[06Jul2025 01:37:33.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge has made the advancement [The Lighthouse]
+[06Jul2025 01:37:37.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> cual?
+[06Jul2025 01:37:53.200] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blessing_of_life 1: [b48dd7c9-7c9c-36a2-851c-6d210d133d2a]
+[06Jul2025 01:37:59.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> a
+[06Jul2025 01:38:06.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> creo que es util para templos
+[06Jul2025 01:38:16.441] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 01:38:16.484] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 01:38:26.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> proden
+[06Jul2025 01:38:28.911] [Worker-Main-211/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_4 is being run through DFU (hash 8d1151ca0e8c67df35639764f4e39d925c182c205e22e94978125dd201cc0b7a), this will cause launch time delays
+[06Jul2025 01:38:29.080] [Worker-Main-211/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_26 is being run through DFU (hash 05d823b1c883d0ab1e4cc1c01dcc7738ae606b707a9ad07b1ac7cd7227d3e53a), this will cause launch time delays
+[06Jul2025 01:38:29.243] [Worker-Main-211/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_15 is being run through DFU (hash 2bdb7b7e3eabd174a7c8d42def82fc3858320402f40385fcaa64aab6a0479e81), this will cause launch time delays
+[06Jul2025 01:38:29.410] [Worker-Main-211/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_23 is being run through DFU (hash 7f843bb4bb13ef9eefc17436d1dadaf8f68515400117c22607e25e86b93cb0d2), this will cause launch time delays
+[06Jul2025 01:38:29.576] [Worker-Main-211/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_18 is being run through DFU (hash 143b2779f4479b40add7e1bbcf46aa11901f05c809fea67c0d5fd47276af2da7), this will cause launch time delays
+[06Jul2025 01:38:29.734] [Worker-Main-211/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_5 is being run through DFU (hash c1a2dd1ba3cc512b57b08bb7f913679b270d8edaa3139a843a619b5a5da8fa61), this will cause launch time delays
+[06Jul2025 01:38:29.858] [Worker-Main-211/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_22 is being run through DFU (hash de48a3f8c1c5556137d8bf7ddc6fa2a7a283726cf1c0260f30703fb1a04c6a34), this will cause launch time delays
+[06Jul2025 01:38:30.014] [Worker-Main-211/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_20 is being run through DFU (hash 555a15e63e56e3cd47564f603a834aa8f3ddf481c9cf00eee590a1ed81e75ab4), this will cause launch time delays
+[06Jul2025 01:38:30.190] [Worker-Main-211/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_7 is being run through DFU (hash b2694ec431350df16c640c1fae8389a86154cedcba31737635182852b596a2a0), this will cause launch time delays
+[06Jul2025 01:38:30.300] [Worker-Main-211/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_16 is being run through DFU (hash 9e741606c695f6b5e1fd43a969788f5420f4ef0daa67f53f2f61440bbd8a818b), this will cause launch time delays
+[06Jul2025 01:38:30.478] [Worker-Main-211/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_24 is being run through DFU (hash 53c77b73bd7d221f0b1d6dd73a8953ae4982bf2db3ed70115a38e18089c4ff18), this will cause launch time delays
+[06Jul2025 01:38:30.628] [Worker-Main-211/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_25 is being run through DFU (hash 000149c0da949824b1081352a2611f42d81b0dca53c2f16a27177b365861f56a), this will cause launch time delays
+[06Jul2025 01:38:30.778] [Worker-Main-211/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_9 is being run through DFU (hash 0c33fb0128cf0fbeee056b786af2bea38c9d56f72ee1ba0efbc03fde2e3c01e0), this will cause launch time delays
+[06Jul2025 01:38:31.031] [Worker-Main-211/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_8 is being run through DFU (hash 745c67f5d14c578a04ddb2528eac10df5447a62982d2f935ece1e1e72d6de15e), this will cause launch time delays
+[06Jul2025 01:38:31.125] [Worker-Main-211/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_0 is being run through DFU (hash 1ece8ff6f261d5ff16d92d33ffc49422cf73039c24824a8f5c3240a24a214bf1), this will cause launch time delays
+[06Jul2025 01:38:31.226] [Worker-Main-211/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_6 is being run through DFU (hash e46f53858e980b1d8ae79a5d2fde086eb69788b2b9f163c5144b4ff1ce5479a1), this will cause launch time delays
+[06Jul2025 01:38:31.321] [Worker-Main-211/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_2 is being run through DFU (hash 44d53f5a5fe11013c258ba90183e6bcba737dafe91632bdcebb23e7883a2f79a), this will cause launch time delays
+[06Jul2025 01:38:31.420] [Worker-Main-211/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_14 is being run through DFU (hash c4d2a612671353470f63f8c340f24b45762115ab4d874d8f9b0843d2b995a4b3), this will cause launch time delays
+[06Jul2025 01:38:31.589] [Worker-Main-211/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_17 is being run through DFU (hash 5039ee705dac5a177b36a0c5f2ef974545a46cc47fdd308bdf53b92b0f561247), this will cause launch time delays
+[06Jul2025 01:38:31.752] [Worker-Main-211/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_19 is being run through DFU (hash a6f5f595f278290c8287b37d97b3d284dca4ad38e687b50c00fdd03891c472f0), this will cause launch time delays
+[06Jul2025 01:38:31.916] [Worker-Main-211/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_11 is being run through DFU (hash 8494a6bcd4a6321fde03cc72a5a5408d0ff04679cac95f43aa1c62239fcfb111), this will cause launch time delays
+[06Jul2025 01:38:32.069] [Worker-Main-211/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_3 is being run through DFU (hash 875c253346308fc6eb37eb9cbbef8777e8f47b1f8fe54e22dc63169af0339af1), this will cause launch time delays
+[06Jul2025 01:38:32.183] [Worker-Main-211/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_21 is being run through DFU (hash ec316de1010321bb99b7ea2af77d4a06e9e78d0cc2ce0451c027b10be2805c63), this will cause launch time delays
+[06Jul2025 01:38:32.329] [Worker-Main-211/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_1 is being run through DFU (hash ed111614cf0b974bc1c45d0762b19ab4649908cd79cfb6b6401186c35918df49), this will cause launch time delays
+[06Jul2025 01:38:32.452] [Worker-Main-211/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_10 is being run through DFU (hash 840e6efea1284b8ddd43897c53adbe344bf5648f4c02976904f27fb145b6ca01), this will cause launch time delays
+[06Jul2025 01:38:32.624] [Worker-Main-211/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_12 is being run through DFU (hash 6a8d0d16ee623c2c1f2d8fb5ba21cb96e280d383cc59f4c90e00dfa068343094), this will cause launch time delays
+[06Jul2025 01:38:32.756] [Worker-Main-211/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_skeleton_elite_0 is being run through DFU (hash 30a5c648bb6461a97f316b573b8e3d8f935d2075b738f2c099ab5981df5edfdd), this will cause launch time delays
+[06Jul2025 01:38:32.830] [Worker-Main-211/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_skeleton_illusion_0 is being run through DFU (hash 11e19aea69133766b50315b545a97960abef3b3d49ba1b53f207cacb1c338ff1), this will cause launch time delays
+[06Jul2025 01:38:32.834] [Worker-Main-211/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_spider_1 is being run through DFU (hash 2d3f22128285215fef42091a3e26e25e1c0afc9962efcd7724e1f43664f93157), this will cause launch time delays
+[06Jul2025 01:38:32.838] [Worker-Main-211/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_skeleton_garden_1 is being run through DFU (hash 27177270087c1d8562ffaf41dfbfeffdc9cdc335d297d6605585df780264b21b), this will cause launch time delays
+[06Jul2025 01:38:32.842] [Worker-Main-211/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_husk_garden_0 is being run through DFU (hash cfeef20353dab1554b91d5146d44e06cc88f910761a1338d389d1e44c0e43fb4), this will cause launch time delays
+[06Jul2025 01:38:32.845] [Worker-Main-211/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_husk_garden_exterior_0 is being run through DFU (hash 507f186f533cc67f7fbe185d35853a8a0178b482a10b6b577273d57a6caa0748), this will cause launch time delays
+[06Jul2025 01:38:32.850] [Worker-Main-211/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_axe_illusion_2 is being run through DFU (hash 68e5b942f2c0f2081c6742bf21823f42c5b8f88df211c1486d5e4ebcfbb6b2a2), this will cause launch time delays
+[06Jul2025 01:38:32.853] [Worker-Main-211/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_skeleton_garden_exterior_1 is being run through DFU (hash bc21108b6e83db70a71abb9aa98f7d6131cfaec3938a71a57387663d3469c0e3), this will cause launch time delays
+[06Jul2025 01:38:32.858] [Worker-Main-211/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_husk_tower_0 is being run through DFU (hash 43e5ea92b24acd5811c79242d30e0944bda11c5459955742c76caab68a8512af), this will cause launch time delays
+[06Jul2025 01:38:32.861] [Worker-Main-211/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_husk_garden_2 is being run through DFU (hash b7657b0628e2bcde12093496b58f0c846ac979f5ac5f71c558c12232e74c5d69), this will cause launch time delays
+[06Jul2025 01:38:32.864] [Worker-Main-211/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_skeleton_tower_1 is being run through DFU (hash 43d348010044266fa1ebecea278cbaf06bf46b0760ca475df0db96fc84c5728d), this will cause launch time delays
+[06Jul2025 01:38:32.867] [Worker-Main-211/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_skeleton_library_0 is being run through DFU (hash d05348def440bed5535081202ced963b5cdeceab1baf844c082961f861a9f123), this will cause launch time delays
+[06Jul2025 01:38:32.871] [Worker-Main-211/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_crossbow_illusion_1 is being run through DFU (hash ac7592243285092cc3ed8f7f85e6336bf9d62f3b813146964b3078e9e546784d), this will cause launch time delays
+[06Jul2025 01:38:32.874] [Worker-Main-211/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_spider_0 is being run through DFU (hash 3802d8a0bcff5ef25a9e427b51a510d5785f67aa800cd384e61bfd0f23b58185), this will cause launch time delays
+[06Jul2025 01:38:33.256] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5982ms or 119 ticks behind
+[06Jul2025 01:38:33.309] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PrincessAuge moved too quickly! 3.2691317807957603,9.5,0.1002680532174054
+[06Jul2025 01:38:33.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> lag?
+[06Jul2025 01:38:42.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> ve afuera un momento
+[06Jul2025 01:38:47.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> 3
+[06Jul2025 01:38:47.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> 2
+[06Jul2025 01:38:48.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> 1
+[06Jul2025 01:39:04.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> es un mapa
+[06Jul2025 01:39:06.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> de mapa
+[06Jul2025 01:39:12.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> habria que ir
+[06Jul2025 01:39:41.262] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in the_bumblezone:the_bumblezone
+[06Jul2025 01:39:43.883] [Worker-Main-189/DEBUG] [ModernFix/]: Structure alexscaves:forlorn_post_3 is being run through DFU (hash 098a96c1a7e55c9cbdb4a3557e3c4f79ef3da84d6e3475caad59ad5d8378959e), this will cause launch time delays
+[06Jul2025 01:39:48.683] [Worker-Main-194/DEBUG] [ModernFix/]: Structure alexscaves:forlorn_post_1 is being run through DFU (hash 206fb607e4a9c0ccef89bff4d8f756f8e92f47141f1711c8daa500bd79445f43), this will cause launch time delays
+[06Jul2025 01:40:00.976] [Worker-Main-198/DEBUG] [ModernFix/]: Structure alexscaves:forlorn_post_2 is being run through DFU (hash 468b86aeb448489afb2a344fbae2d31528221d5c9de630efb2a41f68665feae0), this will cause launch time delays
+[06Jul2025 01:40:01.162] [Worker-Main-203/DEBUG] [ModernFix/]: Structure alexscaves:forlorn_hut_3 is being run through DFU (hash 1e3908db605d8826f0a9ae463ed633837cec70a4c8c9fdc9259d18995b0b0bd8), this will cause launch time delays
+[06Jul2025 01:40:06.762] [Worker-Main-189/DEBUG] [ModernFix/]: Structure alexscaves:forlorn_post_0 is being run through DFU (hash 41993b47b6a299d7545695cd0b2fb42a1c1bc03231a57947687cef1527cdd088), this will cause launch time delays
+[06Jul2025 01:40:06.765] [Worker-Main-189/DEBUG] [ModernFix/]: Structure alexscaves:forlorn_hut_5 is being run through DFU (hash 4508266768d86a4355f9a13c8c1816e664e94bab9cb0556f50251788c70eecfb), this will cause launch time delays
+[06Jul2025 01:40:17.652] [Worker-Main-201/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/meadow/meadow_shrub_canopy2
+[06Jul2025 01:40:32.460] [Worker-Main-201/DEBUG] [ModernFix/]: Structure alexscaves:forlorn_hut_2 is being run through DFU (hash 86371af7267837aec071c2e40f75549e7be1b9cbdd30b9cf2cb1f292f6efb01b), this will cause launch time delays
+[06Jul2025 01:40:34.019] [Worker-Main-203/DEBUG] [ModernFix/]: Structure alexscaves:forlorn_hut_4 is being run through DFU (hash 1b220da911d5ed271f3af186764277519fde475840912a6fd4a27c455f0267cf), this will cause launch time delays
+[06Jul2025 01:40:34.053] [Worker-Main-203/DEBUG] [ModernFix/]: Structure alexscaves:forlorn_hut_0 is being run through DFU (hash bc1d0e2082d28513a1fc5fd04e7292a6f65303df58af3f55ffd7d4bde6995560), this will cause launch time delays
+[06Jul2025 01:40:44.184] [Worker-Main-193/DEBUG] [ModernFix/]: Structure alexscaves:forlorn_hut_1 is being run through DFU (hash 85c02294e509026321fe1d46047c8db8ff8bea6fa62ffa655e6cae5698bea0c1), this will cause launch time delays
+[06Jul2025 01:40:54.670] [Worker-Main-202/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/meadow/meadow_canopy3
+[06Jul2025 01:42:01.225] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:overworld
+[06Jul2025 01:42:32.241] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_nether
+[06Jul2025 01:42:55.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> aca
+[06Jul2025 01:42:58.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> ven
+[06Jul2025 01:43:22.390] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 01:43:22.434] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 01:43:22.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> cuidado que igual es probable que nos aparezca un miniboss
+[06Jul2025 01:43:27.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> pero es poco igual
+[06Jul2025 01:43:29.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> si
+[06Jul2025 01:43:36.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> y la way
+[06Jul2025 01:43:48.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> ponle cueva oscura o algo
+[06Jul2025 01:43:53.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> no
+[06Jul2025 01:43:57.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> esta no es la toxica
+[06Jul2025 01:43:57.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> xd
+[06Jul2025 01:45:01.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> dejemos cosas en la base
+[06Jul2025 01:45:07.238] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in the_bumblezone:the_bumblezone
+[06Jul2025 01:45:09.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> proden
+[06Jul2025 01:45:33.223] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:overworld
+[06Jul2025 01:45:41.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> dejo los mios afuera
