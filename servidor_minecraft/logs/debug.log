@@ -12717,3 +12717,25 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [06Jul2025 16:35:47.820] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/19281, l='ServerLevel[world]', x=364.50, y=-17.00, z=480.50]
 [06Jul2025 16:35:47.821] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/19282, l='ServerLevel[world]', x=362.50, y=-17.00, z=481.50]
 [06Jul2025 16:36:47.771] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in mofus_better_end_:broken_constellation
+[06Jul2025 16:38:42.827] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 16:38:42.869] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 16:43:42.831] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 16:43:42.871] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 16:43:54.775] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in the_bumblezone:the_bumblezone
+[06Jul2025 16:44:37.760] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mountain_tower
+[06Jul2025 16:44:37.861] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_crossing_9
+[06Jul2025 16:44:37.887] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_crossing_7
+[06Jul2025 16:44:37.912] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_crossing_8
+[06Jul2025 16:44:37.918] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bridge_3
+[06Jul2025 16:44:37.929] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_crossing_1
+[06Jul2025 16:44:37.933] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bridge_4
+[06Jul2025 16:44:37.934] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bridge_terminator_1
+[06Jul2025 16:44:37.935] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bridge_terminator_4
+[06Jul2025 16:44:37.947] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_roof_2
+[06Jul2025 16:45:48.577] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=590, y=3, z=259} BlockPos{x=589, y=3, z=259}
+[06Jul2025 16:45:48.628] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=590, y=3, z=259} BlockPos{x=589, y=3, z=259}
+[06Jul2025 16:45:48.685] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=590, y=3, z=259} BlockPos{x=589, y=3, z=259}
+[06Jul2025 16:45:57.124] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=592, y=-2, z=257} BlockPos{x=591, y=-2, z=257}
+[06Jul2025 16:46:03.780] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=590, y=4, z=253} BlockPos{x=590, y=3, z=252}
+[06Jul2025 16:46:05.879] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=592, y=5, z=252} BlockPos{x=592, y=6, z=252}
+[06Jul2025 16:46:14.277] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=596, y=1, z=251} BlockPos{x=597, y=0, z=251}

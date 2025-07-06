@@ -1125,3 +1125,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [06Jul2025 16:35:44.219] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/19259, l='ServerLevel[world]', x=364.50, y=-17.00, z=481.50]
 [06Jul2025 16:35:47.820] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/19281, l='ServerLevel[world]', x=364.50, y=-17.00, z=480.50]
 [06Jul2025 16:35:47.821] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/19282, l='ServerLevel[world]', x=362.50, y=-17.00, z=481.50]
+[06Jul2025 16:45:48.577] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=590, y=3, z=259} BlockPos{x=589, y=3, z=259}
+[06Jul2025 16:45:48.628] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=590, y=3, z=259} BlockPos{x=589, y=3, z=259}
+[06Jul2025 16:45:48.685] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=590, y=3, z=259} BlockPos{x=589, y=3, z=259}
+[06Jul2025 16:45:57.124] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=592, y=-2, z=257} BlockPos{x=591, y=-2, z=257}
+[06Jul2025 16:46:03.780] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=590, y=4, z=253} BlockPos{x=590, y=3, z=252}
+[06Jul2025 16:46:05.879] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=592, y=5, z=252} BlockPos{x=592, y=6, z=252}
+[06Jul2025 16:46:14.277] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=596, y=1, z=251} BlockPos{x=597, y=0, z=251}
