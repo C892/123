@@ -717,5 +717,17 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-07-06 16:02:31 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_creator": {
+    "criteria": {
+      "dark_creator_0": "2025-07-06 15:46:02 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

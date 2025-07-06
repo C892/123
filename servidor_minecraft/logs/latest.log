@@ -1089,3 +1089,14 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [06Jul2025 15:29:41.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge joined the game
 [06Jul2025 15:43:50.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G hit the ground too hard
 [06Jul2025 15:46:02.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G has reached the goal [Dark Creator]
+[06Jul2025 16:01:07.753] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/11613, l='ServerLevel[world]', x=199.50, y=66.00, z=586.17] died, message: 'Villager was slain by Decaying Zombie'
+[06Jul2025 16:02:31.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G has made the advancement [Once Upon a Cave]
+[06Jul2025 16:03:01.039] [Worker-Main-28/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[06Jul2025 16:03:01.039] [Worker-Main-28/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[06Jul2025 16:04:21.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[06Jul2025 16:04:21.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: msg pou<--[HERE]
+[06Jul2025 16:04:41.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to PrincessAuge: pou
+[06Jul2025 16:04:55.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to PrincessAuge: jijijija
+[06Jul2025 16:06:12.573] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/11524, l='ServerLevel[world]', x=165.05, y=91.00, z=637.62] died, message: 'Villager was slain by Zombie'
+[06Jul2025 16:06:22.748] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/11517, l='ServerLevel[world]', x=167.60, y=91.00, z=639.56] died, message: 'Scribe was slain by Zombie'
+[06Jul2025 16:06:34.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge has made the advancement [Double Trouble]
