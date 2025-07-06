@@ -950,21 +950,15 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/discover_underzealot": {
-    "criteria": {
-      "killed_underzealot": "2025-07-06 02:09:52 +0000"
-    },
-    "done": true
-  },
   "alexscaves:alexscaves/discover_forlorn_hollows": {
     "criteria": {
       "discover": "2025-07-06 02:07:36 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/burrowing_arrow": {
+  "alexscaves:alexscaves/discover_underzealot": {
     "criteria": {
-      "burrowing_arrow": "2025-07-06 02:50:31 +0000"
+      "killed_underzealot": "2025-07-06 02:09:52 +0000"
     },
     "done": true
   },
@@ -974,15 +968,15 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/defeat_forsaken": {
+  "alexscaves:alexscaves/underzealot_sacrifice": {
     "criteria": {
-      "killed": "2025-07-06 02:32:25 +0000"
+      "underzealot_sacrifice": "2025-07-06 02:31:17 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/dreadbow": {
+  "alexscaves:alexscaves/defeat_forsaken": {
     "criteria": {
-      "dreadbow": "2025-07-06 02:52:28 +0000"
+      "killed": "2025-07-06 02:32:25 +0000"
     },
     "done": true
   },
@@ -992,15 +986,39 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/burrowing_arrow": {
+    "criteria": {
+      "burrowing_arrow": "2025-07-06 02:50:31 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/shadow_silk": {
     "criteria": {
       "desolate_dagger": "2025-07-06 02:50:43 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/underzealot_sacrifice": {
+  "alexscaves:alexscaves/dreadbow": {
     "criteria": {
-      "underzealot_sacrifice": "2025-07-06 02:31:17 +0000"
+      "dreadbow": "2025-07-06 02:52:28 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/moth_ball": {
+    "criteria": {
+      "moth_ball": "2025-07-06 03:22:32 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_watcher": {
+    "criteria": {
+      "killed": "2025-07-06 03:28:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-07-06 03:49:49 +0000"
     },
     "done": true
   },

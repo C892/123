@@ -731,7 +731,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_spider_dungeon": "2025-07-05 21:32:49 +0000"
+      "in_better_spider_dungeon": "2025-07-05 21:32:49 +0000",
+      "in_better_monster_room": "2025-07-06 03:24:26 +0000"
     },
     "done": false
   },
@@ -987,6 +988,12 @@
   "alexscaves:alexscaves/defeat_watcher": {
     "criteria": {
       "killed": "2025-07-06 02:56:04 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-07-06 03:24:26 +0000"
     },
     "done": true
   },
