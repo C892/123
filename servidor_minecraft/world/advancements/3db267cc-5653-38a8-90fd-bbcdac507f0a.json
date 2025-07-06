@@ -403,7 +403,9 @@
     "criteria": {
       "minecraft:pillager": "2025-07-03 14:40:25 +0000",
       "minecraft:skeleton": "2025-07-02 21:33:24 +0000",
+      "minecraft:ravager": "2025-07-06 00:02:11 +0000",
       "minecraft:hoglin": "2025-07-05 23:28:02 +0000",
+      "minecraft:vindicator": "2025-07-05 23:59:28 +0000",
       "minecraft:spider": "2025-07-02 22:18:26 +0000",
       "minecraft:creeper": "2025-07-02 21:52:18 +0000",
       "quark:forgotten": "2025-07-02 21:45:32 +0000",
@@ -763,6 +765,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_0": "2025-07-05 23:56:03 +0000"
+    },
+    "done": false
+  },
   "minecraft_121_update:trial_chambers_start_advancement": {
     "criteria": {
       "trial_chambers_start_advancement": "2025-07-05 23:42:33 +0000"
@@ -852,6 +860,12 @@
   "nethers_exorcism_reborn:encounterhellstinger": {
     "criteria": {
       "encounterhellstinger_0": "2025-07-05 23:34:30 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_creator": {
+    "criteria": {
+      "dark_creator_0": "2025-07-05 23:56:00 +0000"
     },
     "done": true
   },

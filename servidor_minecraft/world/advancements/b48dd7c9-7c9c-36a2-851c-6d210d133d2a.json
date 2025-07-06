@@ -452,12 +452,14 @@
       "minecraft:pillager": "2025-07-03 15:09:48 +0000",
       "minecraft:skeleton": "2025-07-02 22:29:17 +0000",
       "minecraft:hoglin": "2025-07-05 23:13:38 +0000",
+      "minecraft:vindicator": "2025-07-06 00:00:20 +0000",
       "minecraft:spider": "2025-07-03 15:10:47 +0000",
       "minecraft:zombified_piglin": "2025-07-05 23:27:48 +0000",
       "minecraft:witch": "2025-07-03 15:30:30 +0000",
       "minecraft:cave_spider": "2025-07-03 14:12:22 +0000",
       "minecraft:piglin": "2025-07-05 23:17:22 +0000",
-      "minecraft:zombie": "2025-07-02 22:30:06 +0000"
+      "minecraft:zombie": "2025-07-02 22:30:06 +0000",
+      "minecraft:zombie_villager": "2025-07-05 23:52:57 +0000"
     },
     "done": false
   },
