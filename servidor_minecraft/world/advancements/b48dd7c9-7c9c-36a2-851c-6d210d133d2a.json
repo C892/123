@@ -478,6 +478,7 @@
       "minecraft:cave_spider": "2025-07-03 14:12:22 +0000",
       "minecraft:piglin": "2025-07-05 23:17:22 +0000",
       "minecraft:zombie": "2025-07-02 22:30:06 +0000",
+      "minecraft:drowned": "2025-07-07 15:16:33 +0000",
       "minecraft:zombie_villager": "2025-07-05 23:52:57 +0000"
     },
     "done": false
@@ -1022,6 +1023,12 @@
   "born_in_chaos_v1:fighting_nightmares": {
     "criteria": {
       "fighting_nightmares_0": "2025-07-06 17:30:20 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:big_boy": {
+    "criteria": {
+      "big_boy_0": "2025-07-07 15:16:37 +0000"
     },
     "done": true
   },

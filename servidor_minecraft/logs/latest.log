@@ -1115,3 +1115,24 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [07Jul2025 15:17:26.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> para armadura despues de netherie
 [07Jul2025 15:17:49.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> NO ME LO CREO
 [07Jul2025 15:17:56.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> oveja rosa
+[07Jul2025 15:19:39.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> se puede aumentar de nivel
+[07Jul2025 15:21:06.248] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jul2025 15:21:06.249] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jul2025 15:21:08.728] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tin1G[/127.35.101.195:44191] logged in with entity id 6908 at (484.30000001192093, 45.307040964706246, 129.7682100398564)
+[07Jul2025 15:21:08.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G joined the game
+[07Jul2025 15:21:20.094] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jul2025 15:21:20.095] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jul2025 15:24:06.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrincessAuge> Donde putas estas Calamar
+[07Jul2025 15:24:17.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> en una cueva del alex
+[07Jul2025 15:24:20.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> y una aldea
+[07Jul2025 15:24:54.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrincessAuge> Vamos contigo??
+[07Jul2025 15:25:26.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrincessAuge> ??
+[07Jul2025 15:25:32.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> [x:-863, y:94, z:-808, dim:minecraft:overworld]
+[07Jul2025 15:26:23.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrincessAuge> Estamos llenfo
+[07Jul2025 15:26:27.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> vale
+[07Jul2025 15:27:23.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> traigan waystone si pueden
+[07Jul2025 15:27:27.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrincessAuge> Tengo
+[07Jul2025 15:27:29.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> vale
+[07Jul2025 15:28:28.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G has made the advancement [The Lighthouse]
+[07Jul2025 15:29:04.085] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[07Jul2025 15:30:04.083] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
