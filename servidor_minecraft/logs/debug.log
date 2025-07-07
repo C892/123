@@ -13195,3 +13195,150 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [07Jul2025 16:10:09.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tin1G> solo necesito cuenvo
 [07Jul2025 16:10:15.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> hay mucha madera aca
 [07Jul2025 16:10:27.457] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in twilightforest:twilight_forest
+[07Jul2025 16:11:05.562] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 16:11:05.603] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 16:11:38.335] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/palm/palm_trunk
+[07Jul2025 16:11:38.338] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/palm/palm_canopy3
+[07Jul2025 16:11:39.041] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_corridor_4_crossing_pit
+[07Jul2025 16:11:39.045] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[07Jul2025 16:11:39.071] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_windmill/illager_windmill_part_0
+[07Jul2025 16:11:39.094] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_rider/heavenly_rider_part_1 is being run through DFU (hash d25f5d1016e08f81f761c13842826b723a784b3ed519661d2471a6323f12ca4f), this will cause launch time delays
+[07Jul2025 16:11:39.210] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_0
+[07Jul2025 16:11:39.296] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_13
+[07Jul2025 16:11:39.312] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_ladders_0
+[07Jul2025 16:11:39.321] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_well_0
+[07Jul2025 16:11:39.331] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_street_2
+[07Jul2025 16:11:39.349] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[07Jul2025 16:11:39.381] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_triple_0
+[07Jul2025 16:11:39.392] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_0_main
+[07Jul2025 16:11:39.395] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_1
+[07Jul2025 16:11:39.406] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:ceryneian_hind/ceryneian_hind_part_1
+[07Jul2025 16:11:39.416] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_part_0
+[07Jul2025 16:11:39.466] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_1
+[07Jul2025 16:11:39.474] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_0
+[07Jul2025 16:11:39.490] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_1
+[07Jul2025 16:11:39.502] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_fort/illager_fort_part_1 is being run through DFU (hash caea454d4d20ad79fd13ad746cb244d0e797c28aabdba2f3dc7e0aa3caeddc72), this will cause launch time delays
+[07Jul2025 16:11:39.578] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_13
+[07Jul2025 16:11:39.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Fronds Like These]
+[07Jul2025 16:11:40.526] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:keep_kayra/keep_kayra_main_0
+[07Jul2025 16:11:41.297] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:coliseum/coliseum_part_1 is being run through DFU (hash 27a5819e089e69b638f99afa4b0105b5b46d21c207dbe76709c0e743455e5fc5), this will cause launch time delays
+[07Jul2025 16:11:41.357] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_start_0
+[07Jul2025 16:11:41.367] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_layout_part_1_middle
+[07Jul2025 16:11:41.464] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_2
+[07Jul2025 16:11:41.578] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_village/mushroom_village_house_big_0
+[07Jul2025 16:11:41.607] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_start
+[07Jul2025 16:11:41.623] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:typhon/typhon_part_1
+[07Jul2025 16:11:41.657] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_crossing_2
+[07Jul2025 16:12:09.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> quieren jamon de dinosaurio?
+[07Jul2025 16:12:50.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> miren
+[07Jul2025 16:12:52.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> estas plantaw
+[07Jul2025 16:12:54.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> estas plantas
+[07Jul2025 16:13:13.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> estan son
+[07Jul2025 16:13:38.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> por cierto cada vez que ruge ese los dinos le huyen
+[07Jul2025 16:13:43.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> menos los de nosotros
+[07Jul2025 16:13:52.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> los dinos y todos los mobs de hecho
+[07Jul2025 16:13:57.455] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_nether
+[07Jul2025 16:14:00.450] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in mofus_better_end_:broken_constellation
+[07Jul2025 16:14:57.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tin1G> matamos ya al mierdas este oq?
+[07Jul2025 16:15:00.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrincessAuge> Calamar matamos ya al t_pollas
+[07Jul2025 16:15:12.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> no
+[07Jul2025 16:15:37.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrincessAuge> Dale
+[07Jul2025 16:15:38.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> estos arboles les dan las semillas
+[07Jul2025 16:15:40.427] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:overworld
+[07Jul2025 16:15:47.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> esperen que se puede hacer algo mejor con ese
+[07Jul2025 16:16:05.555] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 16:16:05.600] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 16:16:27.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Strictly Medicinal Purposes]
+[07Jul2025 16:16:37.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G has made the advancement [Strictly Medicinal Purposes]
+[07Jul2025 16:16:41.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge has made the advancement [Strictly Medicinal Purposes]
+[07Jul2025 16:16:46.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> seguramente necesitemos mas
+[07Jul2025 16:16:52.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> tienen semillas?
+[07Jul2025 16:16:54.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> del arbol
+[07Jul2025 16:17:03.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tin1G> tengo piñones
+[07Jul2025 16:17:08.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tin1G> pero creo q no es
+[07Jul2025 16:17:11.454] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in twilightforest:twilight_forest
+[07Jul2025 16:17:16.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> las semillas los dan estos
+[07Jul2025 16:17:57.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> damelas termino de hacer las ensaladas
+[07Jul2025 16:18:30.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> tienen de estas?
+[07Jul2025 16:18:41.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrincessAuge> no
+[07Jul2025 16:18:42.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tin1G> no
+[07Jul2025 16:18:45.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> estan en el suelo
+[07Jul2025 16:18:47.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge has made the advancement [Fronds Like These]
+[07Jul2025 16:19:18.786] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_4
+[07Jul2025 16:19:18.869] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[07Jul2025 16:19:36.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> tengo ya
+[07Jul2025 16:19:42.472] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PrincessAuge moved too quickly! 5.051477158968737,-1.0554624345250474,-8.80829772612401
+[07Jul2025 16:20:10.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> toma
+[07Jul2025 16:20:12.471] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in mofus_better_end_:broken_constellation
+[07Jul2025 16:20:18.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> tini
+[07Jul2025 16:20:41.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrincessAuge> comemos??
+[07Jul2025 16:20:43.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> no
+[07Jul2025 16:20:55.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> tienen que darle un garrotaso al rex
+[07Jul2025 16:21:01.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> y cuando este aturdido se la dan
+[07Jul2025 16:21:05.554] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 16:21:05.596] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 16:21:10.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> a tini no pero
+[07Jul2025 16:21:13.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrincessAuge> el q la ensalada
+[07Jul2025 16:21:15.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> si
+[07Jul2025 16:21:31.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrincessAuge> go no?
+[07Jul2025 16:21:40.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> creo que esta bug o le tiene miedo a caerse por que no se mueve de allí
+[07Jul2025 16:22:04.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> quitensen el juego
+[07Jul2025 16:22:05.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> fuego
+[07Jul2025 16:22:09.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> no tienen que matarlo pero
+[07Jul2025 16:22:35.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 was doomed to fall by Tremorsaurus
+[07Jul2025 16:22:36.854] [Server thread/DEBUG] [twilightforest/]: Player Calamar892 (3db267cc-5653-38a8-90fd-bbcdac507f0a) respawned and received items held in storage
+[07Jul2025 16:22:38.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> auch
+[07Jul2025 16:22:44.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Set own game mode to Spectator Mode]
+[07Jul2025 16:22:45.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Set own game mode to Survival Mode]
+[07Jul2025 16:22:52.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Teleported Calamar892 to PrincessAuge]
+[07Jul2025 16:23:05.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrincessAuge> Tengo 5 huesos bro
+[07Jul2025 16:23:18.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> pero no tenian que matarlo
+[07Jul2025 16:23:20.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> ya que
+[07Jul2025 16:23:27.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> habia que aprovechar que andaba bug
+[07Jul2025 16:23:38.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tin1G> para q
+[07Jul2025 16:23:39.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> o andaba cojo una de dos
+[07Jul2025 16:23:43.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> para domesticarlo les dije
+[07Jul2025 16:23:58.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tin1G> buscamos otro?
+[07Jul2025 16:24:00.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> ok
+[07Jul2025 16:24:03.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrincessAuge> Con 5 huesos domesticamos uno no?
+[07Jul2025 16:25:01.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tin1G> tengo un dragon
+[07Jul2025 16:25:02.432] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[07Jul2025 16:25:04.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> dejalo
+[07Jul2025 16:25:07.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> ni lo toque
+[07Jul2025 16:25:20.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tin1G> podeis venir?
+[07Jul2025 16:25:23.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> que la unica forma de matar ese bicho ahora mismo es que lo pongamos a matar un boss
+[07Jul2025 16:25:23.503] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6076ms or 121 ticks behind
+[07Jul2025 16:25:38.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tin1G> si me acerco me mata?
+[07Jul2025 16:25:42.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> proden te acuerdas del pequeño?
+[07Jul2025 16:25:42.779] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4302ms or 86 ticks behind
+[07Jul2025 16:25:46.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> que casi nos oneshotea
+[07Jul2025 16:25:46.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> si
+[07Jul2025 16:26:08.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> no lo despiertes
+[07Jul2025 16:26:15.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> tiene un rex abajo
+[07Jul2025 16:26:17.925] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 16:26:17.965] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 16:26:30.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrincessAuge> Como domesticamos al rex
+[07Jul2025 16:26:37.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> le dan un garrotazo
+[07Jul2025 16:26:45.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> mientras este aturdido le dan la ensalada
+[07Jul2025 16:27:16.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrincessAuge> Y el huesp q tiene q ver?
+[07Jul2025 16:27:18.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> allí
+[07Jul2025 16:27:37.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> el hueso era para el garrote
+[07Jul2025 16:27:40.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 fell from a high place
+[07Jul2025 16:27:42.033] [Server thread/DEBUG] [twilightforest/]: Player Calamar892 (3db267cc-5653-38a8-90fd-bbcdac507f0a) respawned and received items held in storage
+[07Jul2025 16:27:49.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Teleported Calamar892 to PrincessAuge]
+[07Jul2025 16:27:54.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> eso me pasa por usar mayusculas
+[07Jul2025 16:28:45.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> donde esta?
+[07Jul2025 16:28:50.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tin1G> no podemos intentar matar al dragon?
+[07Jul2025 16:28:53.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> no
+[07Jul2025 16:28:56.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tin1G> alguien tiene cama?
+[07Jul2025 16:28:58.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> mata a nosotros
+[07Jul2025 16:28:59.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrincessAuge> En el cielo
+[07Jul2025 16:29:05.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> y lo que este en el bioma
+[07Jul2025 16:29:34.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrincessAuge> Calamar q es la curiosidad ambarina
+[07Jul2025 16:29:39.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> damela
+[07Jul2025 16:29:42.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> por que lo tengo en ingles
+[07Jul2025 16:29:45.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tin1G> y si ponemos camam aqui?
+[07Jul2025 16:29:51.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> como quieras
+[07Jul2025 16:29:52.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrincessAuge> No quiero saber q es
+[07Jul2025 16:29:56.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrincessAuge> No la tengo
+[07Jul2025 16:30:30.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tin1G> yo lo intentaba

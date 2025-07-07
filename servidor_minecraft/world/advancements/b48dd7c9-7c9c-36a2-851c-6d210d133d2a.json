@@ -1028,6 +1028,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/fiddlehead": {
+    "criteria": {
+      "fiddlehead": "2025-07-07 16:18:47 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/discover_dinosaur": {
     "criteria": {
       "interact_subterranodon": "2025-07-07 15:45:00 +0000"
@@ -1070,9 +1076,27 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/serene_salad": {
+    "criteria": {
+      "serene_salad": "2025-07-07 16:16:41 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_greenwood_pub": {
     "criteria": {
       "location0": "2025-07-07 15:34:00 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/primitive_club": {
+    "criteria": {
+      "limestone": "2025-07-07 16:08:21 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_big_dinosaur": {
+    "criteria": {
+      "killed_relicheirus": "2025-07-07 16:07:15 +0000"
     },
     "done": true
   },
