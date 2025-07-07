@@ -1533,3 +1533,32 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [07Jul2025 16:52:13.960] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bicho volador amego (vehicle of PrincessAuge) moved wrongly! 2.903437830135317
 [07Jul2025 16:52:23.235] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bicho con alas (vehicle of Tin1G) moved wrongly! 0.7911963567693192
 [07Jul2025 16:52:23.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bicho con alas (vehicle of Tin1G) moved wrongly! 1.6542452330489823
+[07Jul2025 17:01:52.238] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PrincessAuge lost connection: Disconnected
+[07Jul2025 17:01:52.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge left the game
+[07Jul2025 17:02:12.273] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tin1G moved too quickly! 19.370984811078927,-2.0,14.339588804398545
+[07Jul2025 17:04:26.181] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Calamar892[/127.16.152.39:56895] logged in with entity id 64166 at (-1225.8525294043839, -29.8325000628829, -863.6443462702199)
+[07Jul2025 17:04:26.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 joined the game
+[07Jul2025 17:04:34.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tin1G> metete a llamda cabezon
+[07Jul2025 17:04:48.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tin1G> proden se ha ido
+[07Jul2025 17:05:07.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> ne cago en la puta
+[07Jul2025 17:05:12.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tin1G> q pasa
+[07Jul2025 17:05:13.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> wenas
+[07Jul2025 17:05:16.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> nada
+[07Jul2025 17:05:20.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tin1G> metete a dc
+[07Jul2025 17:05:23.924] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorsaurus (vehicle of Calamar892) moved too quickly! 6.243931715436474,-0.26150779068264285,8.139193454874203
+[07Jul2025 17:05:23.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorsaurus (vehicle of Calamar892) moved too quickly! 6.455439800882914,-0.26150779068264285,8.401815924311336
+[07Jul2025 17:05:23.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorsaurus (vehicle of Calamar892) moved too quickly! 6.6731767547612435,-0.26150779068264285,8.659185092712164
+[07Jul2025 17:05:23.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorsaurus (vehicle of Calamar892) moved too quickly! 6.894246651947242,-0.26150779068264285,8.913743324467873
+[07Jul2025 17:05:23.926] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorsaurus (vehicle of Calamar892) moved too quickly! 7.117099940645403,-0.26150779068264285,9.166797480068908
+[07Jul2025 17:05:23.926] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorsaurus (vehicle of Calamar892) moved too quickly! 7.340907486584683,-0.26150779068264285,9.419046834507526
+[07Jul2025 17:05:23.926] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorsaurus (vehicle of Calamar892) moved too quickly! 7.565225636547893,-0.26150779068264285,9.67086555589026
+[07Jul2025 17:05:23.926] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorsaurus (vehicle of Calamar892) moved too quickly! 7.789817000543962,-0.26150779068264285,9.922453854110586
+[07Jul2025 17:05:28.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tin1G> pou
+[07Jul2025 17:05:32.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> estoy en el juego este con estos
+[07Jul2025 17:05:43.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tin1G> diles q me metan
+[07Jul2025 17:06:11.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> voy ahora
+[07Jul2025 17:06:55.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tin1G> duerme
+[07Jul2025 17:08:05.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> esta es la montura mas fuerte creo
+[07Jul2025 17:08:18.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> tini ven
+[07Jul2025 17:08:24.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> quiero ver lo del pvp
+[07Jul2025 17:08:39.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tin1G> voy
