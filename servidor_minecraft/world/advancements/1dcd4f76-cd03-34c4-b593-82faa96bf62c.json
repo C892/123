@@ -458,7 +458,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_spider_dungeon": "2025-07-03 14:07:45 +0000"
+      "in_better_spider_dungeon": "2025-07-03 14:07:45 +0000",
+      "in_better_monster_room": "2025-07-06 17:31:46 +0000"
     },
     "done": false
   },
@@ -720,6 +721,18 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-07-06 17:41:03 +0000"
+    },
+    "done": true
+  },
+  "quark:mine_toretoise": {
+    "criteria": {
+      "mine_toretoise": "2025-07-06 17:48:42 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/cave_book": {
     "criteria": {
       "cave_book": "2025-07-06 16:02:31 +0000"
@@ -739,6 +752,12 @@
     },
     "done": false
   },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-07-06 17:31:52 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/rocky_shell": {
     "criteria": {
       "soul_heart": "2025-07-06 16:32:34 +0000"
@@ -748,6 +767,12 @@
   "artifacts:adventurous_eater": {
     "criteria": {
       "eat_artifact": "2025-07-06 17:15:19 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-07-06 17:31:46 +0000"
     },
     "done": true
   },
