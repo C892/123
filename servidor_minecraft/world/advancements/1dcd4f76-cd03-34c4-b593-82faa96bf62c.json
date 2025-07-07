@@ -308,6 +308,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cherry_grove": "2025-07-02 21:53:36 +0000",
+      "minecraft:birch_forest": "2025-07-07 15:31:32 +0000",
       "minecraft:river": "2025-07-02 21:55:58 +0000",
       "minecraft:dripstone_caves": "2025-07-02 22:25:57 +0000",
       "minecraft:forest": "2025-07-02 21:48:42 +0000",
@@ -359,8 +360,11 @@
     "criteria": {
       "biomeswevegone:forgotten_forest": "2025-07-04 21:48:24 +0000",
       "biomeswevegone:orchard": "2025-07-06 16:48:46 +0000",
+      "biomeswevegone:ironwood_gour": "2025-07-07 15:26:49 +0000",
       "biomeswevegone:prairie": "2025-07-03 18:33:28 +0000",
-      "biomeswevegone:allium_shrubland": "2025-07-02 22:00:37 +0000"
+      "biomeswevegone:aspen_boreal": "2025-07-07 15:32:56 +0000",
+      "biomeswevegone:allium_shrubland": "2025-07-02 22:00:37 +0000",
+      "biomeswevegone:baobab_savanna": "2025-07-07 15:26:37 +0000"
     },
     "done": false
   },
@@ -477,6 +481,8 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "shrubland": "2025-07-07 15:33:53 +0000",
+      "rocky_shrubland": "2025-07-07 15:33:58 +0000",
       "lavender_forest": "2025-07-03 14:54:20 +0000",
       "spider_nest": "2025-07-03 14:07:46 +0000",
       "lavender_field": "2025-07-03 14:57:58 +0000"
@@ -779,6 +785,72 @@
   "quark:mine_toretoise": {
     "criteria": {
       "mine_toretoise": "2025-07-06 17:48:42 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "killed_by_vallumraptor": "2025-07-07 15:39:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-07-07 15:51:00 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-07-07 15:28:28 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2025-07-07 15:37:48 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tree_star": {
+    "criteria": {
+      "tree_star": "2025-07-07 16:00:00 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cooked_dinosaur_chop": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2025-07-07 15:59:16 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tame_subterranodon": {
+    "criteria": {
+      "killed": "2025-07-07 15:51:00 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_greenwood_pub": {
+    "criteria": {
+      "location0": "2025-07-07 15:34:09 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dismantledto_bones": {
+    "criteria": {
+      "dismantledto_bones_0": "2025-07-07 15:36:51 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/primitive_club": {
+    "criteria": {
+      "limestone": "2025-07-07 16:03:10 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_big_dinosaur": {
+    "criteria": {
+      "killed_relicheirus": "2025-07-07 15:59:15 +0000"
     },
     "done": true
   },

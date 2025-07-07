@@ -1136,3 +1136,182 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [07Jul2025 15:28:28.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G has made the advancement [The Lighthouse]
 [07Jul2025 15:29:04.085] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
 [07Jul2025 15:30:04.083] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[07Jul2025 15:30:21.630] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[07Jul2025 15:31:28.215] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of PrincessAuge) moved wrongly! 0.39573509022579856
+[07Jul2025 15:31:28.266] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of PrincessAuge) moved wrongly! 0.7517879397324805
+[07Jul2025 15:31:28.317] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of PrincessAuge) moved wrongly! 1.0694983687978379
+[07Jul2025 15:31:28.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of PrincessAuge) moved wrongly! 1.3501245653723686
+[07Jul2025 15:31:28.466] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of PrincessAuge) moved wrongly! 0.3823937538903124
+[07Jul2025 15:31:30.291] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of PrincessAuge) moved wrongly! 0.3470524713001737
+[07Jul2025 15:31:30.334] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of PrincessAuge) moved wrongly! 0.645470234448851
+[07Jul2025 15:31:30.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of PrincessAuge) moved wrongly! 0.7035807061845105
+[07Jul2025 15:31:30.476] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of PrincessAuge) moved wrongly! 0.6246145313091915
+[07Jul2025 15:33:54.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> when
+[07Jul2025 15:33:55.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> pou
+[07Jul2025 15:33:58.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> jijijija
+[07Jul2025 15:34:53.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> farmearon diamantes?
+[07Jul2025 15:35:01.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrincessAuge> Me ves full diamante??
+[07Jul2025 15:35:06.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> no te vi
+[07Jul2025 15:35:34.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tin1G> te vas a quedar con este sitio?
+[07Jul2025 15:35:41.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> no
+[07Jul2025 15:35:44.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> pero vengan
+[07Jul2025 15:36:05.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Town of Bedrock]
+[07Jul2025 15:36:14.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has reached the goal [The Cave That Time Forgot]
+[07Jul2025 15:36:30.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrincessAuge> Por donde has entrao
+[07Jul2025 15:36:51.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G has reached the goal [Senior Summoner]
+[07Jul2025 15:37:42.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> vengan
+[07Jul2025 15:37:46.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> quitensen los shaders
+[07Jul2025 15:37:48.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G has reached the goal [The Cave That Time Forgot]
+[07Jul2025 15:38:22.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> proden quitate las gafas
+[07Jul2025 15:38:49.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge has reached the goal [The Cave That Time Forgot]
+[07Jul2025 15:38:57.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> agua?
+[07Jul2025 15:38:59.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> tienen?
+[07Jul2025 15:39:38.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Life Finds A Way]
+[07Jul2025 15:39:39.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G has made the advancement [Life Finds A Way]
+[07Jul2025 15:40:21.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> aca la invi no funciona creo
+[07Jul2025 15:40:28.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrincessAuge> Tienes enderpeals calamar??
+[07Jul2025 15:40:30.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> ven arriba=
+[07Jul2025 15:40:31.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> ?
+[07Jul2025 15:40:34.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> no tengo
+[07Jul2025 15:41:33.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has reached the goal [Prehistoric Elytra]
+[07Jul2025 15:41:35.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrincessAuge> Bro mi waystone ha desaparecio
+[07Jul2025 15:42:19.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tin1G> se mata?
+[07Jul2025 15:42:21.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> no
+[07Jul2025 15:42:39.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> miren
+[07Jul2025 15:42:42.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> aca caen peces
+[07Jul2025 15:42:51.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> bueno
+[07Jul2025 15:42:54.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> peces no
+[07Jul2025 15:43:02.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> matenlo y le dan la carne a uno de esos
+[07Jul2025 15:43:07.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> como un lobo
+[07Jul2025 15:43:15.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> pero al mio no
+[07Jul2025 15:43:21.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> el mio ya esta domesticado
+[07Jul2025 15:43:27.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tin1G> ah ok
+[07Jul2025 15:44:26.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> los bichitos esos aparecen en cualquier fuente de agua
+[07Jul2025 15:44:42.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> miren arriba
+[07Jul2025 15:44:46.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> ven el ambar?
+[07Jul2025 15:45:00.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge has made the advancement [Life Finds A Way]
+[07Jul2025 15:45:04.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> esa es la razon por la que hay luz y no funciona la invi bien
+[07Jul2025 15:46:07.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrincessAuge> Tienes obsidiana??
+[07Jul2025 15:46:14.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> deje todo
+[07Jul2025 15:46:19.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> eso que hay en medio
+[07Jul2025 15:46:21.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> es un sol
+[07Jul2025 15:46:28.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> lo que brilla
+[07Jul2025 15:47:00.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> vengan
+[07Jul2025 15:47:01.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> miren
+[07Jul2025 15:47:17.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> bueno
+[07Jul2025 15:47:21.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> si quieren se domestican uno de esos
+[07Jul2025 15:47:35.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tin1G> mira este calamar
+[07Jul2025 15:47:51.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> ese no es domesticable pero no recomiendo atacarlo
+[07Jul2025 15:48:26.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> venga
+[07Jul2025 15:48:28.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> vengan
+[07Jul2025 15:48:38.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> talen esto
+[07Jul2025 15:48:48.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> 2
+[07Jul2025 15:48:51.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> 2 de eso
+[07Jul2025 15:49:07.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> y tenemos que matar un dino grande
+[07Jul2025 15:49:20.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> este
+[07Jul2025 15:49:50.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> rana
+[07Jul2025 15:50:05.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> esa es unica de esta cueva
+[07Jul2025 15:50:06.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> xd
+[07Jul2025 15:50:31.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> ayudemen a matar un dino grande
+[07Jul2025 15:50:34.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> que solo me mata
+[07Jul2025 15:51:00.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G has reached the goal [Prehistoric Elytra]
+[07Jul2025 15:51:00.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G has made the advancement [Best Friends Forever]
+[07Jul2025 15:51:03.692] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Tin1G) moved too quickly! 2.1430236213727767,9.91676433752157,-2.037925991699126
+[07Jul2025 15:51:03.692] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Tin1G) moved too quickly! 2.616937947247152,11.088320256505163,-2.507438585658633
+[07Jul2025 15:51:10.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> con control bajas
+[07Jul2025 15:51:26.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> te sigue
+[07Jul2025 15:51:33.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> lo puedes dejar sentado o deambuleando
+[07Jul2025 15:51:57.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> tini ven
+[07Jul2025 15:52:02.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> se murio el dino?
+[07Jul2025 15:52:14.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> con shift te tiras
+[07Jul2025 15:52:37.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tin1G> mis bihos e van
+[07Jul2025 15:52:39.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tin1G> vaya robo
+[07Jul2025 15:52:47.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrincessAuge> Calamar mi waystone ha desaparecio
+[07Jul2025 15:52:47.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> shift y click
+[07Jul2025 15:52:51.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> por pou
+[07Jul2025 15:52:55.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrincessAuge> La tenia en el inventario y ya no esta
+[07Jul2025 15:53:39.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge has reached the goal [Prehistoric Elytra]
+[07Jul2025 15:53:39.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge has made the advancement [Best Friends Forever]
+[07Jul2025 15:54:52.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tin1G> a donde vamos?
+[07Jul2025 15:54:57.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> a matar un dino
+[07Jul2025 15:55:00.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> este mismo
+[07Jul2025 15:55:16.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> dejen sentados a los pajaros para que no se les vayan
+[07Jul2025 15:55:23.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge fell from a high place
+[07Jul2025 15:55:25.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> a
+[07Jul2025 15:55:44.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Calamar892 a server operator
+[07Jul2025 15:55:49.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Teleported PrincessAuge to Calamar892]
+[07Jul2025 15:55:54.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> con control bajas
+[07Jul2025 15:55:59.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> no con shft
+[07Jul2025 15:56:01.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> shift
+[07Jul2025 15:56:17.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> en el mapa te salen azul las mascotas
+[07Jul2025 15:56:40.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Set own game mode to Creative Mode]
+[07Jul2025 15:57:02.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Set own game mode to Survival Mode]
+[07Jul2025 15:57:04.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> ya
+[07Jul2025 15:57:16.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> vengan
+[07Jul2025 15:57:23.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> maten a este
+[07Jul2025 15:57:42.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Re-Extinct]
+[07Jul2025 15:57:45.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge has made the advancement [Tastes Like Chicken]
+[07Jul2025 15:57:52.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> tienen el hueso grande?
+[07Jul2025 15:58:01.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tin1G> el cuerno tenaz?
+[07Jul2025 15:58:03.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> no
+[07Jul2025 15:58:06.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> un hueso grande
+[07Jul2025 15:58:31.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> ven hay que conseguir uno
+[07Jul2025 15:58:49.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> maten a ese
+[07Jul2025 15:59:15.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G has made the advancement [Re-Extinct]
+[07Jul2025 15:59:16.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G has made the advancement [Tastes Like Chicken]
+[07Jul2025 15:59:22.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> les dio un hueso?
+[07Jul2025 15:59:23.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tin1G> tengo erñ hueso
+[07Jul2025 15:59:24.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> grande
+[07Jul2025 15:59:27.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> grande?
+[07Jul2025 15:59:31.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tin1G> pesado pone
+[07Jul2025 15:59:35.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> ese mismo
+[07Jul2025 15:59:59.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Tree Stars!!!]
+[07Jul2025 15:59:59.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge has made the advancement [Tree Stars!!!]
+[07Jul2025 16:00:00.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G has made the advancement [Tree Stars!!!]
+[07Jul2025 16:00:14.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> lo peor es que me acorde de que podia picar solo con shift
+[07Jul2025 16:00:31.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> tini
+[07Jul2025 16:00:45.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> con el hueso pesado
+[07Jul2025 16:00:48.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> y esto
+[07Jul2025 16:00:54.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> te haces un garrote
+[07Jul2025 16:01:06.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> con dos
+[07Jul2025 16:01:23.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tin1G> con q lo conbino?
+[07Jul2025 16:01:28.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> en la mesa
+[07Jul2025 16:01:32.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> es un crafteo
+[07Jul2025 16:01:35.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> en diagonal
+[07Jul2025 16:01:41.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> dos de esos
+[07Jul2025 16:01:43.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> y un hueso
+[07Jul2025 16:02:54.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> pudiste?
+[07Jul2025 16:03:10.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tin1G has made the advancement [Law of Club and Fang]
+[07Jul2025 16:03:16.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> pegale a proden
+[07Jul2025 16:03:31.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> eso hace
+[07Jul2025 16:04:17.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> eso sirve para domesticar al mas peligroso que hay aqui xd
+[07Jul2025 16:04:25.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> ese si nos mata full diamond de un golpe
+[07Jul2025 16:04:34.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrincessAuge> Conseguimos mas huesos?
+[07Jul2025 16:04:37.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> si
+[07Jul2025 16:04:39.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> hagansen 2
+[07Jul2025 16:04:51.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> otro dragon
+[07Jul2025 16:04:53.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> su puta madre
+[07Jul2025 16:06:10.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> busquen un rex
+[07Jul2025 16:06:14.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> se ve facil
+[07Jul2025 16:07:06.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> esta bueno el pajaro?
+[07Jul2025 16:07:15.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge has made the advancement [Re-Extinct]
+[07Jul2025 16:07:22.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tin1G> lo tengo
+[07Jul2025 16:07:28.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> voy
+[07Jul2025 16:07:28.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tin1G> tengo al rex
+[07Jul2025 16:07:38.788] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[07Jul2025 16:07:52.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> si
+[07Jul2025 16:07:54.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> ese mismo
+[07Jul2025 16:07:58.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> no se le acerquen
+[07Jul2025 16:08:01.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> los mata
+[07Jul2025 16:08:21.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge has made the advancement [Law of Club and Fang]
+[07Jul2025 16:08:33.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> vengan
+[07Jul2025 16:08:51.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> hagansen ensaladas serenas
+[07Jul2025 16:08:52.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Law of Club and Fang]
+[07Jul2025 16:09:11.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> o algo asi era
+[07Jul2025 16:09:17.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> es como una ensalada de plantas
+[07Jul2025 16:09:20.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tin1G> si
+[07Jul2025 16:09:22.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PrincessAuge> Para q sirve
+[07Jul2025 16:09:24.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tin1G> q dan?
+[07Jul2025 16:09:33.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> para ese bicho de allí
+[07Jul2025 16:10:09.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tin1G> solo necesito cuenvo
+[07Jul2025 16:10:15.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> hay mucha madera aca

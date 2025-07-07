@@ -416,7 +416,8 @@
       "biomeswevegone:aspen_boreal": "2025-07-03 17:39:19 +0000",
       "biomeswevegone:dead_sea": "2025-07-06 00:57:09 +0000",
       "biomeswevegone:allium_shrubland": "2025-07-03 14:15:32 +0000",
-      "biomeswevegone:pumpkin_valley": "2025-07-03 17:14:37 +0000"
+      "biomeswevegone:pumpkin_valley": "2025-07-03 17:14:37 +0000",
+      "biomeswevegone:baobab_savanna": "2025-07-07 15:26:43 +0000"
     },
     "done": false
   },
@@ -541,6 +542,7 @@
     "criteria": {
       "woodland": "2025-07-06 01:34:20 +0000",
       "shrubland": "2025-07-06 01:34:26 +0000",
+      "rocky_shrubland": "2025-07-07 15:33:44 +0000",
       "scrubland": "2025-07-06 01:30:58 +0000",
       "bayou": "2025-07-06 00:53:57 +0000",
       "highland": "2025-07-03 17:25:20 +0000",
@@ -1026,9 +1028,51 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "interact_subterranodon": "2025-07-07 15:45:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-07-07 15:53:39 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2025-07-07 15:38:49 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tree_star": {
+    "criteria": {
+      "tree_star": "2025-07-07 15:59:59 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cooked_dinosaur_chop": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2025-07-07 15:57:45 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tame_subterranodon": {
+    "criteria": {
+      "killed": "2025-07-07 15:53:39 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:big_boy": {
     "criteria": {
       "big_boy_0": "2025-07-07 15:16:37 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_greenwood_pub": {
+    "criteria": {
+      "location0": "2025-07-07 15:34:00 +0000"
     },
     "done": true
   },
