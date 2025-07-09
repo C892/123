@@ -19339,3 +19339,1201 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [09Jul2025 20:50:08.235] [Server thread/DEBUG] [mixin/]: Mixing entities.AmphibiousNodeEvaluatorMixin from the_bumblezone-common.mixins.json into net.minecraft.world.level.pathfinder.AmphibiousNodeEvaluator
 [09Jul2025 20:50:10.132] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in mofus_better_end_:broken_constellation
 [09Jul2025 20:50:41.530] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in deeperdarker:otherside
+[09Jul2025 20:53:49.200] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:condition
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:mounted_fluid_storage_type
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:tiny_bird_variant
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:blending_function
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:potato_projectile/block_hit_action
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:item_attribute_type
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:villager_trades_item_listing
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:mounted_item_storage_type
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:potato_projectile/entity_hit_action
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:potato_projectile/render_mode
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:display_source
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:display_target
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[09Jul2025 20:53:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[09Jul2025 20:53:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:arm_interaction_point_type
+[09Jul2025 20:53:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[09Jul2025 20:53:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[09Jul2025 20:53:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[09Jul2025 20:53:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[09Jul2025 20:53:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[09Jul2025 20:53:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[09Jul2025 20:53:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[09Jul2025 20:53:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[09Jul2025 20:53:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:fan_processing_type
+[09Jul2025 20:53:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:dwarf_rabbit_variant
+[09Jul2025 20:53:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[09Jul2025 20:53:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:contraption_type
+[09Jul2025 20:53:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[09Jul2025 20:53:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[09Jul2025 20:53:49.273] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 20:53:49.323] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 20:58:43.684] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Calamar892) moved too quickly! -2.4604163490391215,9.05168969948393,4.320100814234763
+[09Jul2025 20:58:46.837] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[09Jul2025 20:58:46.839] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[09Jul2025 20:58:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[09Jul2025 20:58:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[09Jul2025 20:58:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[09Jul2025 20:58:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[09Jul2025 20:58:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[09Jul2025 20:58:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[09Jul2025 20:58:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[09Jul2025 20:58:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[09Jul2025 20:58:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[09Jul2025 20:58:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[09Jul2025 20:58:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[09Jul2025 20:58:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[09Jul2025 20:58:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:condition
+[09Jul2025 20:58:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[09Jul2025 20:58:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[09Jul2025 20:58:49.201] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:mounted_fluid_storage_type
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:tiny_bird_variant
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:blending_function
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:potato_projectile/block_hit_action
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:item_attribute_type
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:villager_trades_item_listing
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:mounted_item_storage_type
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:potato_projectile/entity_hit_action
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:potato_projectile/render_mode
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:display_source
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:display_target
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:arm_interaction_point_type
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:fan_processing_type
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:dwarf_rabbit_variant
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:contraption_type
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[09Jul2025 20:58:49.202] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[09Jul2025 20:58:49.261] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 20:58:49.301] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 21:00:04.893] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[09Jul2025 21:00:04.898] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_2
+[09Jul2025 21:00:48.744] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_crossing_start_0
+[09Jul2025 21:00:48.782] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_blaze_0
+[09Jul2025 21:00:48.784] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_0_stairway_exterior
+[09Jul2025 21:00:48.845] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_0
+[09Jul2025 21:00:48.878] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_4
+[09Jul2025 21:00:48.899] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_3_passages
+[09Jul2025 21:00:48.905] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_2_straight_exterior
+[09Jul2025 21:00:48.908] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_1_quad_exterior
+[09Jul2025 21:00:48.909] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_pedestal_2
+[09Jul2025 21:00:48.927] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_4_door
+[09Jul2025 21:00:48.932] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_4
+[09Jul2025 21:00:48.932] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_pedestal_0
+[09Jul2025 21:00:48.933] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_wither_skeleton_3
+[09Jul2025 21:00:48.934] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_5_blaze
+[09Jul2025 21:00:48.934] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_6_chest
+[09Jul2025 21:00:48.935] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_3
+[09Jul2025 21:00:48.958] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_0
+[09Jul2025 21:00:48.966] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_2
+[09Jul2025 21:00:48.968] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_2_straight
+[09Jul2025 21:00:48.969] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_pedestal_1
+[09Jul2025 21:00:48.970] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_wither_skeleton_1
+[09Jul2025 21:00:48.992] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_3
+[09Jul2025 21:00:48.998] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_3_exterior_spawner
+[09Jul2025 21:00:49.000] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_terminator_1
+[09Jul2025 21:00:49.002] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_wither_skeleton_2
+[09Jul2025 21:00:49.002] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_1
+[09Jul2025 21:00:49.003] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_pedestal_3
+[09Jul2025 21:00:49.003] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_wither_skeleton_0
+[09Jul2025 21:00:49.004] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_magma_1
+[09Jul2025 21:00:49.004] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_0
+[09Jul2025 21:00:49.005] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_magma_0
+[09Jul2025 21:00:49.006] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_piglin_0
+[09Jul2025 21:00:49.009] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_5_straight_debris
+[09Jul2025 21:00:49.268] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/tower
+[09Jul2025 21:00:49.280] [Worker-Main-3/DEBUG] [mixin/]: Mixing frosted_caves.AquiferMixin from yungscavebiomes.mixins.json into net.minecraft.world.level.levelgen.Aquifer$NoiseBasedAquifer
+[09Jul2025 21:00:49.281] [Worker-Main-3/DEBUG] [mixin/]: Mixing marble_caves.AquiferMixin from yungscavebiomes.mixins.json into net.minecraft.world.level.levelgen.Aquifer$NoiseBasedAquifer
+[09Jul2025 21:00:49.282] [Worker-Main-3/DEBUG] [mixin/]: yungscavebiomes.mixins.json:frosted_caves.AquiferMixin from mod yungscavebiomes->@Inject::yungscavebiomes_noLavaAquifersInFrostedCaves(IIILorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[09Jul2025 21:00:49.282] [Worker-Main-3/DEBUG] [mixin/]: yungscavebiomes.mixins.json:frosted_caves.AquiferMixin from mod yungscavebiomes->@Inject::yungscavebiomes_noLavaAquifersInFrostedCaves(IIILorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[09Jul2025 21:00:49.282] [Worker-Main-3/DEBUG] [mixin/]: yungscavebiomes.mixins.json:frosted_caves.AquiferMixin from mod yungscavebiomes->@Inject::yungscavebiomes_noLavaAquifersInFrostedCaves(IIILorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[09Jul2025 21:00:49.323] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/camp_south
+[09Jul2025 21:00:49.358] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/villager_cage
+[09Jul2025 21:00:49.364] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/small_decorations
+[09Jul2025 21:00:49.390] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/camp_north
+[09Jul2025 21:00:49.423] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/campsite
+[09Jul2025 21:00:49.429] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/medium_decorations
+[09Jul2025 21:00:49.437] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/tree
+[09Jul2025 21:00:49.442] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/gallows
+[09Jul2025 21:00:49.444] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/villager_cage_half_guard_tower
+[09Jul2025 21:00:49.446] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/barrels
+[09Jul2025 21:00:49.447] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/villager_cage_half_cage
+[09Jul2025 21:00:49.448] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/mobs
+[09Jul2025 21:00:49.449] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/shack
+[09Jul2025 21:00:49.482] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/hay
+[09Jul2025 21:00:49.483] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/rock_1
+[09Jul2025 21:00:49.484] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/iron_golem_cage
+[09Jul2025 21:00:49.484] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/tower
+[09Jul2025 21:00:49.485] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/potato
+[09Jul2025 21:00:49.485] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/tent
+[09Jul2025 21:00:49.486] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/logs
+[09Jul2025 21:00:49.487] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/rock_2
+[09Jul2025 21:00:49.487] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/pumpkin
+[09Jul2025 21:00:49.487] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/targets
+[09Jul2025 21:00:49.488] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/villager_spawns/villager_mage
+[09Jul2025 21:00:49.488] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/villager_spawns/villager_normal
+[09Jul2025 21:00:49.488] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jul2025 21:00:50.254] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[09Jul2025 21:00:50.269] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[09Jul2025 21:00:50.279] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/common
+[09Jul2025 21:00:50.296] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[09Jul2025 21:00:50.816] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_trunk1
+[09Jul2025 21:00:50.817] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_canopy1
+[09Jul2025 21:00:50.821] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_trunk3
+[09Jul2025 21:00:50.822] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_canopy3
+[09Jul2025 21:00:50.823] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/generic_trunk
+[09Jul2025 21:00:50.824] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_canopy3
+[09Jul2025 21:00:51.410] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_trunk5
+[09Jul2025 21:00:51.410] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_canopy5
+[09Jul2025 21:00:51.411] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_trunk4
+[09Jul2025 21:00:51.412] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_canopy4
+[09Jul2025 21:00:51.415] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_medium_canopy1
+[09Jul2025 21:00:51.801] [Worker-Main-68/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_canopy1
+[09Jul2025 21:00:52.402] [Worker-Main-64/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:memorial_tree/memorial_tree_01
+[09Jul2025 21:00:52.800] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_trunk2
+[09Jul2025 21:00:52.800] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_canopy2
+[09Jul2025 21:00:53.168] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_canopy2
+[09Jul2025 21:00:53.906] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_03
+[09Jul2025 21:00:54.787] [Worker-Main-68/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[09Jul2025 21:00:54.792] [Worker-Main-68/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[09Jul2025 21:00:54.963] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/witch-hazel/witch-hazel_trunk_5
+[09Jul2025 21:00:54.965] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/witch-hazel/witch-hazel_canopy_5
+[09Jul2025 21:00:54.975] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/witch-hazel/witch-hazel_trunk_1
+[09Jul2025 21:00:54.977] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/witch-hazel/witch-hazel_canopy_1
+[09Jul2025 21:00:55.399] [Worker-Main-68/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_canopy4
+[09Jul2025 21:00:55.681] [Worker-Main-68/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_medium_trunk2
+[09Jul2025 21:00:55.689] [Worker-Main-68/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_medium_canopy4
+[09Jul2025 21:00:55.705] [Worker-Main-68/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_medium_canopy2
+[09Jul2025 21:00:55.844] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_medium_canopy3
+[09Jul2025 21:01:02.373] [Worker-Main-68/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_01
+[09Jul2025 21:01:02.445] [Worker-Main-64/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_2
+[09Jul2025 21:01:04.387] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft_121_update:start
+[09Jul2025 21:01:05.117] [Worker-Main-3/DEBUG] [ModernFix/]: Structure graveyard:medium_graveyard/medium_graveyard_02 is being run through DFU (hash a5366fae0c3157f85b576090ebed772608ba18ee8ebfeb6bc41458e176a8b60b), this will cause launch time delays
+[09Jul2025 21:01:06.144] [Worker-Main-68/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/catacombs_origin
+[09Jul2025 21:01:06.151] [Worker-Main-68/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_straight_trapped
+[09Jul2025 21:01:06.152] [Worker-Main-68/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_tee_1
+[09Jul2025 21:01:06.154] [Worker-Main-68/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_turn_1
+[09Jul2025 21:01:06.156] [Worker-Main-68/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_zigzag
+[09Jul2025 21:01:06.158] [Worker-Main-68/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_arch
+[09Jul2025 21:01:06.159] [Worker-Main-68/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_1
+[09Jul2025 21:01:06.163] [Worker-Main-68/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/balcony
+[09Jul2025 21:01:06.165] [Worker-Main-68/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_2
+[09Jul2025 21:01:06.166] [Worker-Main-68/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_spiral_stairs
+[09Jul2025 21:01:06.167] [Worker-Main-68/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/hallway_connector
+[09Jul2025 21:01:06.169] [Worker-Main-68/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dropdown_hallway
+[09Jul2025 21:01:06.170] [Worker-Main-68/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/end_hallway_wall
+[09Jul2025 21:01:06.171] [Worker-Main-68/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/end_room_wall
+[09Jul2025 21:01:06.173] [Worker-Main-68/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/trap_jail
+[09Jul2025 21:01:06.174] [Worker-Main-68/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_2
+[09Jul2025 21:01:06.175] [Worker-Main-68/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/study_platform
+[09Jul2025 21:01:06.177] [Worker-Main-68/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_spawner_1
+[09Jul2025 21:01:06.178] [Worker-Main-68/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/crypt_1
+[09Jul2025 21:01:06.179] [Worker-Main-68/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/wall_crypt
+[09Jul2025 21:01:06.180] [Worker-Main-68/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/boiler
+[09Jul2025 21:01:06.182] [Worker-Main-68/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_1
+[09Jul2025 21:01:06.183] [Worker-Main-68/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/double_storage
+[09Jul2025 21:01:06.185] [Worker-Main-68/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/armorstand
+[09Jul2025 21:01:06.187] [Worker-Main-68/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/crypt_2
+[09Jul2025 21:01:06.190] [Worker-Main-68/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/trap_pitfall
+[09Jul2025 21:01:06.194] [Worker-Main-68/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/ravager_prison
+[09Jul2025 21:01:06.197] [Worker-Main-68/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dormitories_1
+[09Jul2025 21:01:06.198] [Worker-Main-68/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_3
+[09Jul2025 21:01:06.199] [Worker-Main-68/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/reception
+[09Jul2025 21:01:06.201] [Worker-Main-68/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dormitories_2
+[09Jul2025 21:01:13.157] [Worker-Main-64/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:impaled_icebreaker
+[09Jul2025 21:01:18.140] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[09Jul2025 21:01:18.141] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[09Jul2025 21:01:18.143] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[09Jul2025 21:01:18.145] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[09Jul2025 21:01:18.146] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[09Jul2025 21:01:18.146] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[09Jul2025 21:01:18.148] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[09Jul2025 21:01:18.150] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[09Jul2025 21:01:18.152] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[09Jul2025 21:01:18.153] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[09Jul2025 21:01:18.153] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[09Jul2025 21:01:18.154] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[09Jul2025 21:01:18.156] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[09Jul2025 21:01:22.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Cover Me In Emeralds]
+[09Jul2025 21:01:30.532] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in graveyard:past
+[09Jul2025 21:01:32.126] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:overworld
+[09Jul2025 21:01:54.062] [Worker-Main-68/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[09Jul2025 21:02:28.597] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[09Jul2025 21:02:28.597] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[09Jul2025 21:02:28.598] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[09Jul2025 21:02:28.599] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[09Jul2025 21:02:28.599] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[09Jul2025 21:02:28.600] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[09Jul2025 21:02:28.602] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[09Jul2025 21:02:28.604] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[09Jul2025 21:02:28.605] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[09Jul2025 21:02:28.606] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[09Jul2025 21:02:28.606] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[09Jul2025 21:02:28.608] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[09Jul2025 21:02:28.610] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:condition
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:mounted_fluid_storage_type
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:tiny_bird_variant
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:blending_function
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:potato_projectile/block_hit_action
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:item_attribute_type
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:villager_trades_item_listing
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:mounted_item_storage_type
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:potato_projectile/entity_hit_action
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:potato_projectile/render_mode
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:display_source
+[09Jul2025 21:03:49.203] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[09Jul2025 21:03:49.204] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[09Jul2025 21:03:49.204] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[09Jul2025 21:03:49.204] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:display_target
+[09Jul2025 21:03:49.204] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[09Jul2025 21:03:49.204] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[09Jul2025 21:03:49.204] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:arm_interaction_point_type
+[09Jul2025 21:03:49.204] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[09Jul2025 21:03:49.204] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[09Jul2025 21:03:49.204] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[09Jul2025 21:03:49.204] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[09Jul2025 21:03:49.204] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[09Jul2025 21:03:49.204] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[09Jul2025 21:03:49.204] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[09Jul2025 21:03:49.204] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[09Jul2025 21:03:49.204] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:fan_processing_type
+[09Jul2025 21:03:49.204] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:dwarf_rabbit_variant
+[09Jul2025 21:03:49.204] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[09Jul2025 21:03:49.204] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:contraption_type
+[09Jul2025 21:03:49.204] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[09Jul2025 21:03:49.204] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[09Jul2025 21:03:49.264] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 21:03:49.305] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 21:04:45.799] [Worker-Main-68/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_5
+[09Jul2025 21:05:20.679] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_1
+[09Jul2025 21:05:26.046] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[09Jul2025 21:05:27.483] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[09Jul2025 21:05:27.494] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[09Jul2025 21:05:27.505] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[09Jul2025 21:05:27.563] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_1
+[09Jul2025 21:05:27.576] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[09Jul2025 21:05:28.479] [Worker-Main-49/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=64, y=7, z=-917}
+[09Jul2025 21:05:28.780] [Worker-Main-49/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=63, y=7, z=-907}
+[09Jul2025 21:05:28.780] [Worker-Main-49/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=58, y=7, z=-907}
+[09Jul2025 21:05:29.377] [Worker-Main-68/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=58, y=7, z=-907}
+[09Jul2025 21:05:31.186] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_04
+[09Jul2025 21:05:31.430] [Worker-Main-69/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=66, y=7, z=-940}
+[09Jul2025 21:05:31.733] [Worker-Main-68/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_01
+[09Jul2025 21:05:31.904] [Worker-Main-64/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=57, y=7, z=-939}
+[09Jul2025 21:05:31.905] [Worker-Main-64/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=66, y=7, z=-940}
+[09Jul2025 21:05:31.906] [Worker-Main-64/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=64, y=7, z=-917}
+[09Jul2025 21:05:32.170] [Worker-Main-69/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=57, y=7, z=-939}
+[09Jul2025 21:05:32.171] [Worker-Main-69/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=63, y=7, z=-907}
+[09Jul2025 21:05:32.171] [Worker-Main-69/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=58, y=7, z=-907}
+[09Jul2025 21:05:32.714] [Worker-Main-64/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=66, y=7, z=-940}
+[09Jul2025 21:05:33.737] [Worker-Main-3/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/enchanted/enchanted_trunk_1 is being run through DFU (hash b77086bb9d29595424aa01e8a457ec278e1b9ee071ca96139203ac30c1e71e02), this will cause launch time delays
+[09Jul2025 21:05:33.739] [Worker-Main-3/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/enchanted/enchanted_canopy_1 is being run through DFU (hash e05f3b33fe18a9cb6ab2346a84cac67a6e0da3cebbff7e2bd4cbe72008cedfbc), this will cause launch time delays
+[09Jul2025 21:05:33.748] [Worker-Main-3/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/enchanted/enchanted_trunk_3 is being run through DFU (hash 015c2ee68ec8f8534a288ac8e2f74b59f4b8b0916faa2609aeb536d0c99dddaa), this will cause launch time delays
+[09Jul2025 21:05:33.751] [Worker-Main-3/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/enchanted/enchanted_canopy_3 is being run through DFU (hash 11c935981e5d9622c660696d188ef74bff86615856aa53736e3d0ac0c9c1aaf7), this will cause launch time delays
+[09Jul2025 21:05:33.768] [Worker-Main-3/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/enchanted/enchanted_trunk_2 is being run through DFU (hash b77086bb9d29595424aa01e8a457ec278e1b9ee071ca96139203ac30c1e71e02), this will cause launch time delays
+[09Jul2025 21:05:33.769] [Worker-Main-3/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/enchanted/enchanted_canopy_2 is being run through DFU (hash 8fb8d13512b00fdfa2402bc397f621a0dda732e6c01747cb6f0ce4d32801a10b), this will cause launch time delays
+[09Jul2025 21:05:33.974] [Worker-Main-64/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/start_castle
+[09Jul2025 21:05:34.486] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=40, y=7, z=-940}
+[09Jul2025 21:05:34.486] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=57, y=7, z=-939}
+[09Jul2025 21:05:34.487] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=66, y=7, z=-940}
+[09Jul2025 21:05:34.495] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=58, y=7, z=-907}
+[09Jul2025 21:05:34.502] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=40, y=7, z=-940}
+[09Jul2025 21:05:34.503] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=57, y=7, z=-939}
+[09Jul2025 21:05:34.503] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=56, y=7, z=-939}
+[09Jul2025 21:05:34.510] [Worker-Main-68/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=23, y=7, z=-955}
+[09Jul2025 21:05:34.510] [Worker-Main-68/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=40, y=7, z=-940}
+[09Jul2025 21:05:34.511] [Worker-Main-68/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=56, y=7, z=-939}
+[09Jul2025 21:05:36.112] [Worker-Main-69/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=40, y=7, z=-940}
+[09Jul2025 21:05:36.118] [Worker-Main-69/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=40, y=7, z=-940}
+[09Jul2025 21:05:36.118] [Worker-Main-69/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=48, y=7, z=-960}
+[09Jul2025 21:05:36.423] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_3
+[09Jul2025 21:05:37.817] [Worker-Main-68/DEBUG] [mixin/]: Mixing FarmerWorkTaskAccessor from fabric-content-registries-v0.mixins.json into net.minecraft.world.entity.ai.behavior.WorkAtComposter
+[09Jul2025 21:05:37.818] [Worker-Main-68/DEBUG] [mixin/]: fabric-content-registries-v0.mixins.json:FarmerWorkTaskAccessor from mod fabric_content_registries_v0: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[09Jul2025 21:05:37.818] [Worker-Main-68/DEBUG] [mixin/]: Renaming @Accessor method fabric_setCompostables(Ljava/util/List;)V to fabric_setCompostables$fabric_content_registries_v0_$md$495d32$0 in fabric-content-registries-v0.mixins.json:FarmerWorkTaskAccessor from mod fabric_content_registries_v0
+[09Jul2025 21:05:37.818] [Worker-Main-68/DEBUG] [mixin/]: Renaming @Accessor method fabric_getCompostable()Ljava/util/List; to fabric_getCompostable$fabric_content_registries_v0_$md$495d32$1 in fabric-content-registries-v0.mixins.json:FarmerWorkTaskAccessor from mod fabric_content_registries_v0
+[09Jul2025 21:05:37.821] [Worker-Main-68/DEBUG] [mixin/]: Mixing HarvestFarmlandMixin from quark.mixins.json into net.minecraft.world.entity.ai.behavior.HarvestFarmland
+[09Jul2025 21:05:37.827] [Worker-Main-68/DEBUG] [mixin/]: Mixing GiveGiftsToHeroTaskAccessor from fabric-content-registries-v0.mixins.json into net.minecraft.world.entity.ai.behavior.GiveGiftToHero
+[09Jul2025 21:05:37.827] [Worker-Main-68/DEBUG] [mixin/]: fabric-content-registries-v0.mixins.json:GiveGiftsToHeroTaskAccessor from mod fabric_content_registries_v0: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[09Jul2025 21:05:37.827] [Worker-Main-68/DEBUG] [mixin/]: Renaming @Accessor method fabric_getGifts()Ljava/util/Map; to fabric_getGifts$fabric_content_registries_v0_$md$495d32$0 in fabric-content-registries-v0.mixins.json:GiveGiftsToHeroTaskAccessor from mod fabric_content_registries_v0
+[09Jul2025 21:05:38.552] [Worker-Main-68/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=35, y=7, z=-962}
+[09Jul2025 21:05:38.553] [Worker-Main-68/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=23, y=7, z=-955}
+[09Jul2025 21:05:38.554] [Worker-Main-68/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=39, y=7, z=-961}
+[09Jul2025 21:05:38.555] [Worker-Main-68/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=40, y=7, z=-940}
+[09Jul2025 21:05:38.555] [Worker-Main-68/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=38, y=7, z=-949}
+[09Jul2025 21:05:38.711] [Worker-Main-69/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=23, y=7, z=-955}
+[09Jul2025 21:05:38.712] [Worker-Main-69/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=22, y=14, z=-944}
+[09Jul2025 21:05:38.763] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/start_pool/start_room
+[09Jul2025 21:05:38.769] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_02
+[09Jul2025 21:05:38.772] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_03
+[09Jul2025 21:05:38.774] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_08
+[09Jul2025 21:05:38.776] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_09
+[09Jul2025 21:05:38.781] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_01
+[09Jul2025 21:05:38.786] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_03
+[09Jul2025 21:05:38.788] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_03
+[09Jul2025 21:05:38.797] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_04
+[09Jul2025 21:05:38.800] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_01
+[09Jul2025 21:05:38.801] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_01
+[09Jul2025 21:05:38.803] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_02
+[09Jul2025 21:05:38.805] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_01
+[09Jul2025 21:05:38.807] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_04
+[09Jul2025 21:05:38.808] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_10
+[09Jul2025 21:05:38.810] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_05
+[09Jul2025 21:05:38.813] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_02
+[09Jul2025 21:05:38.815] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_13
+[09Jul2025 21:05:38.818] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_01
+[09Jul2025 21:05:38.820] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_07
+[09Jul2025 21:05:38.821] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_06
+[09Jul2025 21:05:38.822] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_11
+[09Jul2025 21:05:38.824] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_03
+[09Jul2025 21:05:38.826] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_04
+[09Jul2025 21:05:38.829] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_06
+[09Jul2025 21:05:38.830] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_12
+[09Jul2025 21:05:38.833] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_01
+[09Jul2025 21:05:38.836] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_02
+[09Jul2025 21:05:38.838] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_05
+[09Jul2025 21:05:38.848] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_02
+[09Jul2025 21:05:39.138] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_4
+[09Jul2025 21:05:40.847] [Worker-Main-64/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=22, y=14, z=-944}
+[09Jul2025 21:05:40.927] [Worker-Main-49/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=35, y=7, z=-962}
+[09Jul2025 21:05:40.927] [Worker-Main-49/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=23, y=7, z=-955}
+[09Jul2025 21:05:40.929] [Worker-Main-49/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=22, y=14, z=-944}
+[09Jul2025 21:05:41.033] [Worker-Main-68/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=46, y=7, z=-971}
+[09Jul2025 21:05:41.064] [Worker-Main-69/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=32, y=7, z=-976}
+[09Jul2025 21:05:41.066] [Worker-Main-69/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=35, y=7, z=-962}
+[09Jul2025 21:05:41.067] [Worker-Main-69/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=41, y=7, z=-979}
+[09Jul2025 21:05:41.067] [Worker-Main-69/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=46, y=7, z=-971}
+[09Jul2025 21:05:41.067] [Worker-Main-69/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=39, y=7, z=-961}
+[09Jul2025 21:05:41.068] [Worker-Main-69/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=40, y=7, z=-963}
+[09Jul2025 21:05:41.669] [Worker-Main-69/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=35, y=7, z=-962}
+[09Jul2025 21:05:41.669] [Worker-Main-69/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=22, y=14, z=-944}
+[09Jul2025 21:05:42.017] [Worker-Main-68/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[09Jul2025 21:05:43.495] [Worker-Main-68/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=32, y=7, z=-976}
+[09Jul2025 21:05:43.498] [Worker-Main-68/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=10, y=5, z=-963}
+[09Jul2025 21:05:43.498] [Worker-Main-68/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=35, y=7, z=-962}
+[09Jul2025 21:05:43.499] [Worker-Main-68/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19, y=7, z=-963}
+[09Jul2025 21:05:43.911] [Worker-Main-64/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:mushroom_grave/mushroom_grave_03
+[09Jul2025 21:05:43.976] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_6
+[09Jul2025 21:05:44.855] [Worker-Main-64/DEBUG] [ModernFix/]: Structure graveyard:small_grave/small_grave_18 is being run through DFU (hash 739fcd0cca44ad88cfc408539225284c6636a807c5a58b4f0ab0a5869a7faf63), this will cause launch time delays
+[09Jul2025 21:05:45.572] [Worker-Main-69/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=32, y=7, z=-976}
+[09Jul2025 21:05:45.574] [Worker-Main-69/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=10, y=5, z=-963}
+[09Jul2025 21:05:45.575] [Worker-Main-69/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=35, y=7, z=-962}
+[09Jul2025 21:05:45.585] [Worker-Main-64/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=32, y=7, z=-976}
+[09Jul2025 21:05:45.589] [Worker-Main-64/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=33, y=7, z=-980}
+[09Jul2025 21:05:45.591] [Worker-Main-64/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=41, y=7, z=-979}
+[09Jul2025 21:05:45.941] [Worker-Main-68/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=32, y=7, z=-976}
+[09Jul2025 21:05:46.001] [Worker-Main-68/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=32, y=7, z=-976}
+[09Jul2025 21:05:48.198] [Worker-Main-68/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=32, y=7, z=-976}
+[09Jul2025 21:05:49.396] [Worker-Main-64/DEBUG] [ModernFix/]: Structure graveyard:small_grave/crashed_carriage is being run through DFU (hash cb4c7576283492f43f08b1c9542f9e4c80143b74ac3018d6cf122cbc71b28240), this will cause launch time delays
+[09Jul2025 21:05:49.762] [Worker-Main-68/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=56, y=20, z=-1012}
+[09Jul2025 21:05:50.053] [Worker-Main-69/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=32, y=7, z=-976}
+[09Jul2025 21:05:50.059] [Worker-Main-69/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=18, y=20, z=-1005}
+[09Jul2025 21:05:50.060] [Worker-Main-69/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=33, y=7, z=-980}
+[09Jul2025 21:05:50.060] [Worker-Main-69/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=56, y=20, z=-1012}
+[09Jul2025 21:05:50.499] [Worker-Main-68/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=32, y=7, z=-976}
+[09Jul2025 21:05:51.936] [Worker-Main-64/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/shelter/tunnel_top
+[09Jul2025 21:05:52.212] [Worker-Main-68/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[09Jul2025 21:05:54.485] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=56, y=20, z=-1017}
+[09Jul2025 21:05:54.485] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=46, y=20, z=-1018}
+[09Jul2025 21:05:54.486] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=56, y=20, z=-1012}
+[09Jul2025 21:05:54.575] [Worker-Main-49/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=18, y=20, z=-1005}
+[09Jul2025 21:05:54.575] [Worker-Main-49/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=56, y=20, z=-1017}
+[09Jul2025 21:05:54.575] [Worker-Main-49/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=46, y=20, z=-1018}
+[09Jul2025 21:05:54.576] [Worker-Main-49/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=56, y=20, z=-1012}
+[09Jul2025 21:05:58.927] [Worker-Main-64/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=18, y=20, z=-1005}
+[09Jul2025 21:05:58.928] [Worker-Main-64/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=10, y=5, z=-1005}
+[09Jul2025 21:05:58.928] [Worker-Main-64/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=3, y=20, z=-1011}
+[09Jul2025 21:05:58.929] [Worker-Main-64/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=16, y=7, z=-1018}
+[09Jul2025 21:05:58.936] [Worker-Main-68/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=32, y=7, z=-976}
+[09Jul2025 21:05:58.941] [Worker-Main-68/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=18, y=20, z=-1005}
+[09Jul2025 21:05:58.942] [Worker-Main-68/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=10, y=5, z=-1005}
+[09Jul2025 21:05:59.441] [Worker-Main-64/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=46, y=20, z=-1018}
+[09Jul2025 21:05:59.449] [Worker-Main-64/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=46, y=20, z=-1018}
+[09Jul2025 21:06:03.213] [Worker-Main-64/DEBUG] [ModernFix/]: Structure graveyard:small_savanna_grave/small_savanna_grave_06 is being run through DFU (hash 6c1da2b21280ecf0012a28b5a48c1e2abe843922cfeb1f252f2f5741af6ca9b4), this will cause launch time delays
+[09Jul2025 21:06:03.531] [Worker-Main-68/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=16, y=7, z=-1018}
+[09Jul2025 21:06:03.532] [Worker-Main-68/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=17, y=7, z=-1035}
+[09Jul2025 21:06:03.533] [Worker-Main-68/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=10, y=7, z=-1050}
+[09Jul2025 21:06:03.533] [Worker-Main-68/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19, y=7, z=-1049}
+[09Jul2025 21:06:03.619] [Worker-Main-49/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=32, y=7, z=-976}
+[09Jul2025 21:06:03.640] [Worker-Main-49/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=32, y=7, z=-976}
+[09Jul2025 21:06:03.724] [Worker-Main-68/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=32, y=7, z=-976}
+[09Jul2025 21:06:03.729] [Worker-Main-68/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=10, y=5, z=-1005}
+[09Jul2025 21:06:03.729] [Worker-Main-68/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2, y=13, z=-1028}
+[09Jul2025 21:06:03.730] [Worker-Main-68/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=15, y=20, z=-1010}
+[09Jul2025 21:06:04.007] [Worker-Main-49/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=10, y=5, z=-1005}
+[09Jul2025 21:06:04.008] [Worker-Main-49/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=3, y=20, z=-1011}
+[09Jul2025 21:06:04.009] [Worker-Main-49/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=16, y=7, z=-1018}
+[09Jul2025 21:06:04.009] [Worker-Main-49/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2, y=13, z=-1028}
+[09Jul2025 21:06:04.010] [Worker-Main-49/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=15, y=20, z=-1010}
+[09Jul2025 21:06:04.010] [Worker-Main-49/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=5, y=20, z=-1020}
+[09Jul2025 21:06:04.157] [Worker-Main-68/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=16, y=7, z=-1018}
+[09Jul2025 21:06:04.158] [Worker-Main-68/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2, y=13, z=-1028}
+[09Jul2025 21:06:04.159] [Worker-Main-68/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=5, y=20, z=-1020}
+[09Jul2025 21:06:04.160] [Worker-Main-68/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=11, y=7, z=-1025}
+[09Jul2025 21:06:04.160] [Worker-Main-68/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=10, y=7, z=-1050}
+[09Jul2025 21:06:04.161] [Worker-Main-68/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-9, y=13, z=-1029}
+[09Jul2025 21:06:04.161] [Worker-Main-68/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=9, y=7, z=-1039}
+[09Jul2025 21:06:04.225] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=28, y=0, z=-1061}
+[09Jul2025 21:06:04.248] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=10, y=7, z=-1050}
+[09Jul2025 21:06:04.252] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=27, y=0, z=-1051}
+[09Jul2025 21:06:04.253] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=19, y=7, z=-1049}
+[09Jul2025 21:06:04.256] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=28, y=0, z=-1061}
+[09Jul2025 21:06:04.593] [Worker-Main-69/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=28, y=0, z=-1061}
+[09Jul2025 21:06:04.599] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/witch-hazel/witch-hazel_trunk_3
+[09Jul2025 21:06:04.600] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/witch-hazel/witch-hazel_canopy_3
+[09Jul2025 21:06:04.604] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/witch-hazel/witch-hazel_trunk_4
+[09Jul2025 21:06:04.605] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/witch-hazel/witch-hazel_canopy_4
+[09Jul2025 21:06:04.894] [Worker-Main-68/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior216
+[09Jul2025 21:06:11.917] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:altar/altar_01
+[09Jul2025 21:06:13.459] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_07
+[09Jul2025 21:06:15.582] [Worker-Main-68/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=27, y=0, z=-1051}
+[09Jul2025 21:06:15.584] [Worker-Main-68/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=28, y=0, z=-1061}
+[09Jul2025 21:06:15.597] [Worker-Main-68/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/witch-hazel/witch-hazel_trunk_2
+[09Jul2025 21:06:15.597] [Worker-Main-68/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/witch-hazel/witch-hazel_canopy_2
+[09Jul2025 21:06:38.608] [Worker-Main-68/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=32, y=7, z=-976}
+[09Jul2025 21:06:38.615] [Worker-Main-68/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2, y=13, z=-1028}
+[09Jul2025 21:06:38.793] [Worker-Main-49/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2, y=13, z=-1028}
+[09Jul2025 21:06:39.071] [Worker-Main-69/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=10, y=7, z=-1050}
+[09Jul2025 21:06:39.072] [Worker-Main-69/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=9, y=7, z=-1039}
+[09Jul2025 21:06:39.072] [Worker-Main-69/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=27, y=0, z=-1051}
+[09Jul2025 21:06:39.087] [Worker-Main-64/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2, y=13, z=-1028}
+[09Jul2025 21:06:39.088] [Worker-Main-64/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-9, y=13, z=-1029}
+[09Jul2025 21:06:39.247] [Worker-Main-49/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=32, y=7, z=-976}
+[09Jul2025 21:06:39.251] [Worker-Main-49/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2, y=13, z=-1028}
+[09Jul2025 21:06:39.395] [Worker-Main-68/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=27, y=0, z=-1051}
+[09Jul2025 21:06:39.638] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2, y=13, z=-1028}
+[09Jul2025 21:06:39.691] [Worker-Main-68/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2, y=13, z=-1028}
+[09Jul2025 21:07:01.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Iron Maiden]
+[09Jul2025 21:08:02.128] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:overworld
+[09Jul2025 21:08:06.134] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_nether
+[09Jul2025 21:08:24.121] [Worker-Main-64/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen-shrub/aspen_shrub_trunk1
+[09Jul2025 21:08:24.122] [Worker-Main-64/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen-shrub/aspen_shrub_canopy1
+[09Jul2025 21:08:49.205] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[09Jul2025 21:08:49.205] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[09Jul2025 21:08:49.205] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[09Jul2025 21:08:49.205] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[09Jul2025 21:08:49.205] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[09Jul2025 21:08:49.205] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[09Jul2025 21:08:49.205] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[09Jul2025 21:08:49.205] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[09Jul2025 21:08:49.205] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[09Jul2025 21:08:49.205] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[09Jul2025 21:08:49.205] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[09Jul2025 21:08:49.205] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[09Jul2025 21:08:49.205] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:condition
+[09Jul2025 21:08:49.205] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[09Jul2025 21:08:49.205] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[09Jul2025 21:08:49.205] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:mounted_fluid_storage_type
+[09Jul2025 21:08:49.205] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[09Jul2025 21:08:49.205] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[09Jul2025 21:08:49.205] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[09Jul2025 21:08:49.205] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[09Jul2025 21:08:49.205] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[09Jul2025 21:08:49.205] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[09Jul2025 21:08:49.205] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[09Jul2025 21:08:49.205] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[09Jul2025 21:08:49.205] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:tiny_bird_variant
+[09Jul2025 21:08:49.205] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[09Jul2025 21:08:49.205] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[09Jul2025 21:08:49.205] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[09Jul2025 21:08:49.205] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[09Jul2025 21:08:49.205] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[09Jul2025 21:08:49.205] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[09Jul2025 21:08:49.205] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[09Jul2025 21:08:49.205] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[09Jul2025 21:08:49.205] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:blending_function
+[09Jul2025 21:08:49.205] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[09Jul2025 21:08:49.205] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[09Jul2025 21:08:49.205] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[09Jul2025 21:08:49.205] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[09Jul2025 21:08:49.205] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[09Jul2025 21:08:49.205] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[09Jul2025 21:08:49.205] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[09Jul2025 21:08:49.205] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[09Jul2025 21:08:49.205] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:potato_projectile/block_hit_action
+[09Jul2025 21:08:49.205] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[09Jul2025 21:08:49.205] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[09Jul2025 21:08:49.205] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:item_attribute_type
+[09Jul2025 21:08:49.205] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[09Jul2025 21:08:49.205] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[09Jul2025 21:08:49.205] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[09Jul2025 21:08:49.205] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[09Jul2025 21:08:49.205] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[09Jul2025 21:08:49.205] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[09Jul2025 21:08:49.205] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:villager_trades_item_listing
+[09Jul2025 21:08:49.205] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[09Jul2025 21:08:49.205] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[09Jul2025 21:08:49.205] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[09Jul2025 21:08:49.205] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:mounted_item_storage_type
+[09Jul2025 21:08:49.205] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:potato_projectile/entity_hit_action
+[09Jul2025 21:08:49.206] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[09Jul2025 21:08:49.206] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[09Jul2025 21:08:49.206] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[09Jul2025 21:08:49.206] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[09Jul2025 21:08:49.206] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[09Jul2025 21:08:49.206] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:potato_projectile/render_mode
+[09Jul2025 21:08:49.206] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[09Jul2025 21:08:49.206] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:display_source
+[09Jul2025 21:08:49.206] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[09Jul2025 21:08:49.206] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[09Jul2025 21:08:49.206] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[09Jul2025 21:08:49.206] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:display_target
+[09Jul2025 21:08:49.206] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[09Jul2025 21:08:49.206] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[09Jul2025 21:08:49.206] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:arm_interaction_point_type
+[09Jul2025 21:08:49.206] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[09Jul2025 21:08:49.206] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[09Jul2025 21:08:49.206] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[09Jul2025 21:08:49.206] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[09Jul2025 21:08:49.206] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[09Jul2025 21:08:49.206] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[09Jul2025 21:08:49.206] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[09Jul2025 21:08:49.206] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[09Jul2025 21:08:49.206] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:fan_processing_type
+[09Jul2025 21:08:49.206] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:dwarf_rabbit_variant
+[09Jul2025 21:08:49.206] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[09Jul2025 21:08:49.206] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:contraption_type
+[09Jul2025 21:08:49.206] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[09Jul2025 21:08:49.206] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[09Jul2025 21:08:49.263] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 21:08:49.306] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 21:09:25.316] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Calamar892) moved wrongly! 0.25118658927226534
+[09Jul2025 21:09:37.050] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/tower
+[09Jul2025 21:09:37.455] [Worker-Main-68/DEBUG] [ModernFix/]: Structure graveyard:giant_mushroom/giant_red_mushroom_stem_01 is being run through DFU (hash 4ac9200a4f7a173b0db6bd2d0064522ed1034854f8f089a7357fdf6f2536884c), this will cause launch time delays
+[09Jul2025 21:09:37.700] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[09Jul2025 21:09:37.741] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[09Jul2025 21:09:37.758] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[09Jul2025 21:10:02.977] [Worker-Main-64/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_03
+[09Jul2025 21:10:05.540] [Worker-Main-64/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/pumpkin_patch/town_centers/pumpkin_patch_meeting_point_1
+[09Jul2025 21:10:08.555] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in graveyard:past
+[09Jul2025 21:10:10.918] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_06
+[09Jul2025 21:10:11.002] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mountain_tower
+[09Jul2025 21:10:13.214] [Worker-Main-68/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_01
+[09Jul2025 21:10:20.386] [Worker-Main-64/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen-shrub/aspen_shrub_canopy2
+[09Jul2025 21:10:28.035] [Worker-Main-68/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_4_0
+[09Jul2025 21:10:29.741] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_02
+[09Jul2025 21:10:30.449] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:ruins/ruins_01
+[09Jul2025 21:10:33.652] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_10
+[09Jul2025 21:10:37.869] [Worker-Main-68/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft_121_update:coridor
+[09Jul2025 21:10:37.871] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:typ1_vault is being run through DFU (hash 1d34093783649f02508b861f6efe52ad3144aa6ff754eab40e54fb01c43a752c), this will cause launch time delays
+[09Jul2025 21:10:37.872] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:typ3_vault is being run through DFU (hash c086d9dc0ca6a3678104377e76c8cacf458dc72ef6d92ae8e03cd4398c58e3ec), this will cause launch time delays
+[09Jul2025 21:10:37.873] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:typ2_vault is being run through DFU (hash 9a93430d512af88971ffb4bf438de40a1739bb2785f5155ca09ecc039a2eeb9b), this will cause launch time delays
+[09Jul2025 21:10:37.874] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:typ4_chest2 is being run through DFU (hash 47a0af6a776b27defdd4ded45a3b974afd2e48903d3d963de474e34c45a9a30d), this will cause launch time delays
+[09Jul2025 21:10:37.874] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:typ4_chest1 is being run through DFU (hash d487647a37868871fe9b36b4946141dc085de20f336b1c8938969f3a7d4b53ea), this will cause launch time delays
+[09Jul2025 21:10:37.875] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:typ1_chest3 is being run through DFU (hash 01cfd5ca4b4766d0f9fbe4c7a96cf25bd89519b1519715e50ba27463928aab03), this will cause launch time delays
+[09Jul2025 21:10:37.876] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:typ2_chest3 is being run through DFU (hash 487a63778992234a02adb48d4a77a6eaa4a207519dff066c332e656c4bed7073), this will cause launch time delays
+[09Jul2025 21:10:37.877] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:typ1_chest1 is being run through DFU (hash 1f317a510a6b013a1629c2418ca1bafa2828bf49f46ba09767c940b4e8d43701), this will cause launch time delays
+[09Jul2025 21:10:37.879] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:typ4_vault is being run through DFU (hash d826d7ba399d74ab65f0dd681b0bb2d25e547debf5ef597b417478b80110f1e4), this will cause launch time delays
+[09Jul2025 21:10:37.880] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:typ1_chest2 is being run through DFU (hash bf52a0539a829ed1c7562f37b2866343103a9feac9ec3fbb87e33b51fd2dbf3e), this will cause launch time delays
+[09Jul2025 21:10:37.881] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:typ3_chest3 is being run through DFU (hash e594a5ac62065707a8d2a228e76f53be0e3075a47e17198d8398e9360c23d4e5), this will cause launch time delays
+[09Jul2025 21:10:37.882] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:typ2_chest2 is being run through DFU (hash 8eaba5ae98ac9a758f5f16364f5785f0447a18e6e63f1246d7dd24bfc2bf9d8d), this will cause launch time delays
+[09Jul2025 21:10:37.902] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:end_walk_room_wall is being run through DFU (hash 443ea423b87cf676f2811bc50f7b43164ae0f812a60fc126269fc54a021cf055), this will cause launch time delays
+[09Jul2025 21:10:37.903] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:end_walk_mine is being run through DFU (hash 1e60ba27b7df17c1714b22435bfcf42728cadf729a1a14644af5a9c7f5f437df), this will cause launch time delays
+[09Jul2025 21:10:37.904] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:end_walk_wall_target is being run through DFU (hash c79c95cea3e919eefb445b54b23691dd2b00ca8aa46769f9b264e4229f2e6fbd), this will cause launch time delays
+[09Jul2025 21:10:37.905] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:end_walk_wall is being run through DFU (hash 0755f91ebe14b19a0fb554cbbf85064513b609f92fce4b9202f75e8187d7cc01), this will cause launch time delays
+[09Jul2025 21:10:37.906] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:end_walk_chest is being run through DFU (hash 14462ebb324ed6e3e69ac4561c4a62f21e6188433b1fd0d3d1d4484e9a30e6e4), this will cause launch time delays
+[09Jul2025 21:10:37.907] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:end_walk_room is being run through DFU (hash 82393b26e01f7c95a1652d1d7d2dc2e9a1e71eb9e82f640a1d7856e9540d9d68), this will cause launch time delays
+[09Jul2025 21:10:37.908] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:end_walk_wall2 is being run through DFU (hash fd71aaa908d4bdefae31187365da76c65bca81344fc5f06d44eb6d27df643676), this will cause launch time delays
+[09Jul2025 21:10:37.908] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:end_walk_wall_target2 is being run through DFU (hash 96bbaa892d3d1f71db0270c31a1f7a131aacbe36ad6b3a3687dc14c00df82b98), this will cause launch time delays
+[09Jul2025 21:10:37.909] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:end_walk_room_wall_target is being run through DFU (hash f2b58e46bfc33dcf68deb9e83f141cbcedf91ba0495ebdab32d2f18e2f069e8c), this will cause launch time delays
+[09Jul2025 21:10:37.910] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:end_walk_room_chest is being run through DFU (hash bb17bd792dc5abe5968ca3d25a51ff5c1e547f8d8b934573930196bff33bde7c), this will cause launch time delays
+[09Jul2025 21:10:37.911] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:end_walk_mine2 is being run through DFU (hash 1ac74ca3ca851c745c5f00007f124827394eb1349ac028dfdad377c2c60495a0), this will cause launch time delays
+[09Jul2025 21:10:37.937] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:big_room is being run through DFU (hash 54c41a49e553bae7bd352f0a7aa930a57ce0aee14df348c5f9fba8434cf0cb5e), this will cause launch time delays
+[09Jul2025 21:10:37.981] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:room_up3acc is being run through DFU (hash 44e080156b6b6c427f124970398504432fc43b191462a21d742a9a0e3c3500bc), this will cause launch time delays
+[09Jul2025 21:10:37.987] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:room_up3abb is being run through DFU (hash 81d86c6b14a7abc0bdd70e2be2a5766d3f623ea73a7f4d010f048c66a4f543fa), this will cause launch time delays
+[09Jul2025 21:10:37.990] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:room_up1b is being run through DFU (hash 54ff59019c9129c330384ba291773dc2663488b1856354ad8368375e7a17bc2d), this will cause launch time delays
+[09Jul2025 21:10:37.998] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:room_up2 is being run through DFU (hash 82307bc8174fc055bb8c3dcdb60f15b96aad837a985ab730a384c3f13f0b4645), this will cause launch time delays
+[09Jul2025 21:10:38.001] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:room_up3aba is being run through DFU (hash 6c1592fa285a3e8ff67ceec12e11ac237c9a77eb3f19ab08d08a31df0008f657), this will cause launch time delays
+[09Jul2025 21:10:38.006] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:room_up1c2 is being run through DFU (hash 3b041b32ea9103cbc75d7bfd4eb066e0eb54c7204b6b65918172fe6fbbdb9781), this will cause launch time delays
+[09Jul2025 21:10:38.009] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:room_up3ac2 is being run through DFU (hash a37195bb127b3aef0301673b8423ff0fb048e042ec4e712ce9d155dc59d96732), this will cause launch time delays
+[09Jul2025 21:10:38.014] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:room_up2ac is being run through DFU (hash 68ebc9a03b07676665db13eff49db2df75e6647e2c142f7d1cd730c299d04dac), this will cause launch time delays
+[09Jul2025 21:10:38.018] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:room_up2bcc is being run through DFU (hash 37f91543e9f6b79e43da81143af858ad910beaf984b6ca7248eb7b19f88e0f67), this will cause launch time delays
+[09Jul2025 21:10:38.022] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:room_up2b is being run through DFU (hash 5ee52e9bd12c63be6c891e35325318a6f6369885e3fe3a5c2b8f3927f7c52893), this will cause launch time delays
+[09Jul2025 21:10:38.036] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:spawner_center_2_walk_corner is being run through DFU (hash 5bd1421f696dcfea54a74b97071dbead01f1038472394ed620f6ed9f02041fa6), this will cause launch time delays
+[09Jul2025 21:10:38.039] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:crafting_room is being run through DFU (hash 184bdf77c8c49dff94e624f370aba8afa5050766de55dd300e29628f303bea82), this will cause launch time delays
+[09Jul2025 21:10:38.056] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:room_up1cc is being run through DFU (hash f7e63a3a2a600ccca156a5e98550935c44a021e31ab59fe4673b2c4de14cdf89), this will cause launch time delays
+[09Jul2025 21:10:38.062] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:room_snow is being run through DFU (hash ebbeeec2b2fc7c62f81403335ba42649f719e10b5b0f999153cf33cf57dcb658), this will cause launch time delays
+[09Jul2025 21:10:38.112] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:room_up3aca is being run through DFU (hash 481ee0fc982dc8b2c3c28c4592b6ceb0ac84dfd79ac9b1c8702df2968dd846b7), this will cause launch time delays
+[09Jul2025 21:10:38.119] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:room_up1c is being run through DFU (hash 13779fb440b521d6d53f98bdca3d0d0c0b3fc3f842556fd026132f2d3dbd4c65), this will cause launch time delays
+[09Jul2025 21:10:38.122] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:room_up2bc is being run through DFU (hash 719edf21ea94943e894d3c39a5aaefb1a872eb1159043a61325a34a9ce91566d), this will cause launch time delays
+[09Jul2025 21:10:38.126] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:spawner_center_2_walk_oposite is being run through DFU (hash 3d9e96c1c2fd03a3a08a367f741621350ecfee0e17318889412ff74dc8412dfc), this will cause launch time delays
+[09Jul2025 21:10:38.129] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:hall_room1 is being run through DFU (hash 1583dab7e8910dbfafc4dbb466abc5fa9ff04734a6d4f702959fb026d8abf249), this will cause launch time delays
+[09Jul2025 21:10:38.139] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:room_up3acb is being run through DFU (hash 84f879dbc4617f7262b14be6ca49908a36ced2ecc94f2804fe7c4b59fa03420c), this will cause launch time delays
+[09Jul2025 21:10:38.171] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:enchanting_room is being run through DFU (hash fb0fa1848c194851c17338a2a82641fdbd9303b37373cae070d15bc0bfdf8340), this will cause launch time delays
+[09Jul2025 21:10:38.174] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:spawner_center_all_walk is being run through DFU (hash 5cf9c87e992ce30015cdb491e59b0b1f3a549d7f1258ad41e24e33135ad019f6), this will cause launch time delays
+[09Jul2025 21:10:38.178] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:spawner_center_3_walk is being run through DFU (hash 2a7ae047a88a5276d267f9903df6ee4e544a3a409ea35c30585099c00d5ab738), this will cause launch time delays
+[09Jul2025 21:10:38.181] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:spawner_center_1_walk is being run through DFU (hash 2f7865ecab985bf5c43206b8264d3d1d0ac5f21969d474a06a598681b247983b), this will cause launch time delays
+[09Jul2025 21:10:38.453] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:husk_spawner is being run through DFU (hash 8cd23d0cac2b2822dff437cfaae8f836dbd7467cbee6efaa5586ac64baee5815), this will cause launch time delays
+[09Jul2025 21:10:38.580] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:fish_spawner is being run through DFU (hash 01ea1d7a2d81c7b10ccac3955f3687691544810dbaab5c6e692ffbbb6731b520), this will cause launch time delays
+[09Jul2025 21:10:38.616] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:stray_spawner is being run through DFU (hash 2b28b8b47ed5887e354f68238ed2bb339aa97d2dc48a5cf1222c749b8eca51bb), this will cause launch time delays
+[09Jul2025 21:10:38.617] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:spider_spawner is being run through DFU (hash 79e67c4029e2218e5d2ee19eb36a5578c058b7b03b8b9ebd1206ba497d274dce), this will cause launch time delays
+[09Jul2025 21:10:38.618] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:skeleton_spawner is being run through DFU (hash 76a98a5b0566dfe2c1d4ceba111dbefbad2920b481f00b4379049372613a736e), this will cause launch time delays
+[09Jul2025 21:10:38.618] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:breeze_spawner is being run through DFU (hash 575d98d284e572020a75c94e6898cfae691c54718d0c37e39b55b92f5d5a5fd6), this will cause launch time delays
+[09Jul2025 21:10:38.619] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:slime_spawner is being run through DFU (hash 817374916b7473ae5e5796a523aa7b1e753a053e6d8442e474ed5c3fe07eb2ae), this will cause launch time delays
+[09Jul2025 21:10:38.619] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:zombie_spawner is being run through DFU (hash 7f5d7eeea20bc6bd43b1db7e7a3be06f1af4005162db7cfb4622d29e99a77399), this will cause launch time delays
+[09Jul2025 21:10:38.735] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:enchanter_none2 is being run through DFU (hash 4239d0bccabd519c329f7c4edd5551b3cc07f95ed18a9f579c02c02598300b5f), this will cause launch time delays
+[09Jul2025 21:10:38.902] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:enchanter5 is being run through DFU (hash 3f03d341ec12c7ed7b4fc7d61bd9083c13467ef429e834a1c27e880e7dec39b8), this will cause launch time delays
+[09Jul2025 21:10:38.903] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:enchanter_none1 is being run through DFU (hash 6dfafa20bd6a609b3dda9341ad54fe9fea66d44efe4f28d19f9f75aecbf29134), this will cause launch time delays
+[09Jul2025 21:10:38.904] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:enchanter2 is being run through DFU (hash c3a27923f30e00052c15978a0285e8a9599138de1fdf5e189484d1fc50a2eb36), this will cause launch time delays
+[09Jul2025 21:10:38.905] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:enchanter1 is being run through DFU (hash 769897382d985367cdd44c99e097345427c11996a8d748856efc259bff5636ad), this will cause launch time delays
+[09Jul2025 21:10:38.906] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:enchanter4 is being run through DFU (hash 91a6a9ef6a8f41348136b6a1faf3a80f5274116544dd75fc25dafc100097b4c8), this will cause launch time delays
+[09Jul2025 21:10:38.906] [Worker-Main-68/DEBUG] [ModernFix/]: Structure minecraft_121_update:enchanter3 is being run through DFU (hash a2f77d18b95043eece199097e7e33ee6b5685bf7681041643c5cda3a943b1964), this will cause launch time delays
+[09Jul2025 21:10:40.354] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior2
+[09Jul2025 21:10:42.294] [Worker-Main-49/DEBUG] [ModernFix/]: Structure graveyard:small_graveyard/small_graveyard_04 is being run through DFU (hash 292045c39a7bf9e7665c20db773c2ed653685b8391f044e5b35fb53cb71b9832), this will cause launch time delays
+[09Jul2025 21:10:42.566] [Worker-Main-49/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/pumpkin_patch/town_centers/pumpkin_patch_meeting_point_2
+[09Jul2025 21:10:47.655] [Worker-Main-64/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_12
+[09Jul2025 21:10:50.580] [Worker-Main-68/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_05
+[09Jul2025 21:11:12.161] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_03
+[09Jul2025 21:11:13.372] [Worker-Main-68/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior1
+[09Jul2025 21:11:32.424] [Worker-Main-68/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:lookout_tower
+[09Jul2025 21:11:34.468] [Worker-Main-68/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:lich_prison/lich_prison
+[09Jul2025 21:11:34.694] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_4
+[09Jul2025 21:11:36.755] [Worker-Main-64/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_09
+[09Jul2025 21:11:43.753] [Worker-Main-69/DEBUG] [ModernFix/]: Structure graveyard:small_mountain_grave/small_mountains_grave_08 is being run through DFU (hash 03673c988a4e037dc1f4cb5fe7f9441c58b69fceece6acdffe4ecee00247d5ff), this will cause launch time delays
+[09Jul2025 21:11:56.575] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 37 messages to dispatch.
+[09Jul2025 21:11:56.583] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'FrameworkConfig refurbished_furniture:server' to 'framework:handshake' sequence 0
+[09Jul2025 21:11:56.635] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 1
+[09Jul2025 21:11:56.688] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 2
+[09Jul2025 21:11:56.733] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 3
+[09Jul2025 21:11:56.786] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 4
+[09Jul2025 21:11:56.788] [Netty Epoll Server IO #3/DEBUG] [ServerLoginNetworkAddon for /127.142.125.183:59443/]: Handling inbound login query with id 0
+[09Jul2025 21:11:56.788] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel framework:handshake with index 0
+[09Jul2025 21:11:56.788] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 0 of type com.mrcrayfish.framework.api.network.message.HandshakeMessage$Acknowledge
+[09Jul2025 21:11:56.788] [Netty Epoll Server IO #3/DEBUG] [Framework/FRAMEWORK_HANDSHAKE]: Received acknowledgement from client
+[09Jul2025 21:11:56.834] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 5
+[09Jul2025 21:11:56.875] [Netty Epoll Server IO #3/DEBUG] [ServerLoginNetworkAddon for /127.142.125.183:59443/]: Handling inbound login query with id 2
+[09Jul2025 21:11:56.875] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[09Jul2025 21:11:56.876] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[09Jul2025 21:11:56.876] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [betterdungeons, playeranimator, fabric_rendering_fluids_v1, fabric_models_v0, guieffecttimer, fabric_convention_tags_v1, modernfix, fabric_command_api_v1, fabric_block_view_api_v2, fabric_command_api_v2, yungsapi, antixray, balm, fabric_screen_api_v1, dynview, jeresources, chat_heads, betterfortresses, cloth_config, sound_physics_remastered, geophilic, embeddium, rubidium, athena, advancementplaques, immersiveui, bcc, fabric_game_rule_api_v1, w2pets, resourcefulconfig, curios, oculus, bettervillage, fabric_entity_events_v1, onlylooking, betterendisland, dynamic_fps, fabric_rendering_data_attachment_v1, the_bumblezone, krypton, bettermineshafts, sliceanddice, betterjungletemples, fabric_client_tags_api_v1, fabric_dimensions_v1, mowziesmobs, fabric_model_loading_api_v1, graveyard, fabric_screen_handler_api_v1, libraryferret, goblintraders, caelus, fabric_rendering_v1, fabric_renderer_indigo, fastasyncworldsave, minecraft_121_update, midnightlib, fabric_particles_v1, forge, dungeons_arise, minecraft, artifactscrafting, nethers_exorcism_reborn, logprot, emi, jei, terrablender, biomesoplenty, guardribbits, fabric_api_base, bettercombat, combatroll, eyesoficeandfire, com_velocitypowered_velocity_native, ohthetreesyoullgrow, spectrelib, fabric_block_api_v1, corgilib, fabric_resource_conditions_api_v1, betterfpsdist, kotlinforforge, flywheel, ponder, gravestone, fabric_item_group_api_v1, securitycraft, zeta, entityculling, fabric_registry_sync_v0, immediatelyfast, appleskin, fabric_recipe_api_v1, lootr, fabric_object_builder_api_v1, fabric_sound_api_v1, fabric_message_api_v1, cosmeticarmorreworked, chunksending, aquamirae, responsiveshields, treechop, kuma_api, fabric_renderer_api_v1, betterwitchhuts, geckolib, fabric_item_api_v1, naturalist, betteroceanmonuments, alexsmobsnaturalistcompat, connectivity, incendium, sophisticatedcore, citadel, alexsmobs, iceandfire, lootintegrations, fabric_data_attachment_api_v1, mixinextras, gravestonecurioscompat, bookshelf, sophisticatedbackpacks, relics, ramcompat, fpsreducer, dragonfight, dragonmounts, fabric_api, fabric_content_registries_v0, twilightforest, chipped, farmersdelight, ends_delight, ambientsounds, fabric_api_lookup_api_v1, endrem, born_in_chaos_v1, lionfishapi, memorysettings, cataclysm, collective, cerbons_api, betterthirdperson, connectormod, betterstrongholds, resourcefullib, deeperdarker, architectury, nerb, fabric_loot_api_v2, enhancedblockentities, cupboard, refurbished_furniture, fabric_networking_api_v1, framework, fabric_lifecycle_events_v1, fabric_key_binding_api_v1, fabric_transfer_api_v1, raccompat, limitedchunks, octolib, biomeswevegone, brute_force_rendering_culling, fabric_resource_loader_v0, obscure_api, create, waystones, alexscaves_torpedoes, clumps, journeymap, yungscavebiomes, comforts, fabric_mining_level_api_v1, artifacts, alternate_current, myserveriscompatible, call_of_yucutan, lazydfu, betterdeserttemples, bosses_of_mass_destruction, terralith, blueprint, upgrade_aquatic, endergetic, watut, enhanced_boss_bars, skinlayers3d, fabric_transitive_access_wideners_v1, alexscaves, lootintegrations_vanilla, enchdesc, moonlight, alexscaves_trimmed, fabric_blockrenderlayer_v1, obscure_tooltips, mofus_better_end_, creativecore, nethersdelight, ribbits, iceberg, quark, spruceui, irons_spellbooks, doespotatotick, betterchunkloading, fabric_biome_api_v1, coroutil, emi_enchanting, advanced_runtime_resource_pack, creeperoverhaul, alexsdelight, ferritecore, rarcompat, badoptimizations, expandability, skinrestorer, fabric_data_generation_api_v1, fabric_events_interaction_v0, presencefootsteps]
+[09Jul2025 21:11:56.876] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'watut:main' : Version test of '4' from client : ACCEPTED
+[09Jul2025 21:11:56.876] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'skinshuffle:skin_refresh' : Version test of '' from client : ACCEPTED
+[09Jul2025 21:11:56.876] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexscaves:main_channel' : Version test of '1' from client : ACCEPTED
+[09Jul2025 21:11:56.876] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ponder:main' : Version test of '1' from client : ACCEPTED
+[09Jul2025 21:11:56.876] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'the_bumblezone:networking' : Version test of '7.5.6+1.20.1-forge' from client : ACCEPTED
+[09Jul2025 21:11:56.876] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[09Jul2025 21:11:56.876] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[09Jul2025 21:11:56.876] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedbackpacks:channel' : Version test of '1' from client : ACCEPTED
+[09Jul2025 21:11:56.876] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'chipped:main' : Version test of '1' from client : ACCEPTED
+[09Jul2025 21:11:56.876] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'corgilib:network' : Version test of '1' from client : ACCEPTED
+[09Jul2025 21:11:56.876] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'emi:emi' : Version test of '0' from client : ACCEPTED
+[09Jul2025 21:11:56.876] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:play' : Version test of '1' from client : ACCEPTED
+[09Jul2025 21:11:56.876] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:version' : Version test of '1' from client : ACCEPTED
+[09Jul2025 21:11:56.876] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:treechop-channel' : Version test of '7' from client : ACCEPTED
+[09Jul2025 21:11:56.876] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'rarcompat:network' : Version test of '1.0' from client : ACCEPTED
+[09Jul2025 21:11:56.876] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'endergetic:net' : Version test of 'EE1' from client : ACCEPTED
+[09Jul2025 21:11:56.876] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:admin_req' : Version test of '1' from client : ACCEPTED
+[09Jul2025 21:11:56.876] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cataclysm:main_channel' : Version test of '1' from client : ACCEPTED
+[09Jul2025 21:11:56.876] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:waypoint' : Version test of '1' from client : ACCEPTED
+[09Jul2025 21:11:56.876] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lionfishapi:main_channel' : Version test of '1' from client : ACCEPTED
+[09Jul2025 21:11:56.876] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'irons_spellbooks:messages' : Version test of '1.0' from client : ACCEPTED
+[09Jul2025 21:11:56.876] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ribbits:messages' : Version test of '1.0' from client : ACCEPTED
+[09Jul2025 21:11:56.876] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[09Jul2025 21:11:56.876] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spectrelib:main' : Version test of '1' from client : ACCEPTED
+[09Jul2025 21:11:56.876] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bettercombat:network' : Version test of '1.0' from client : ACCEPTED
+[09Jul2025 21:11:56.876] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexsmobs:main_channel' : Version test of '1' from client : ACCEPTED
+[09Jul2025 21:11:56.876] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'call_of_yucutan:call_of_yucutan' : Version test of '1' from client : ACCEPTED
+[09Jul2025 21:11:56.876] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mowziesmobs:net' : Version test of '1' from client : ACCEPTED
+[09Jul2025 21:11:56.876] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'relics:network' : Version test of '1.0' from client : ACCEPTED
+[09Jul2025 21:11:56.876] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cosmeticarmorreworked:main' : Version test of '2' from client : ACCEPTED
+[09Jul2025 21:11:56.876] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[09Jul2025 21:11:56.876] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'deeperdarker:deeperdarker_network' : Version test of '1.0' from client : ACCEPTED
+[09Jul2025 21:11:56.876] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'creativecore:main' : Version test of '1' from client : ACCEPTED
+[09Jul2025 21:11:56.876] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:teleport_req' : Version test of '1' from client : ACCEPTED
+[09Jul2025 21:11:56.876] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'caelus:main' : Version test of '1' from client : ACCEPTED
+[09Jul2025 21:11:56.876] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lootr:main_network_channel' : Version test of '2' from client : ACCEPTED
+[09Jul2025 21:11:56.876] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:common' : Version test of '1' from client : ACCEPTED
+[09Jul2025 21:11:56.876] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'blueprint:net' : Version test of 'BP1' from client : ACCEPTED
+[09Jul2025 21:11:56.876] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[09Jul2025 21:11:56.876] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'create:main' : Version test of '3' from client : ACCEPTED
+[09Jul2025 21:11:56.876] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[09Jul2025 21:11:56.876] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'graveyard:spawn_entity' : Version test of '1' from client : ACCEPTED
+[09Jul2025 21:11:56.876] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'moonlight:channel' : Version test of '0' from client : ACCEPTED
+[09Jul2025 21:11:56.876] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'skinshuffle:refresh' : Version test of '' from client : ACCEPTED
+[09Jul2025 21:11:56.876] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'refurbished_furniture:play' : Version test of '1' from client : ACCEPTED
+[09Jul2025 21:11:56.876] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'comforts:main' : Version test of '1' from client : ACCEPTED
+[09Jul2025 21:11:56.876] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[09Jul2025 21:11:56.876] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[09Jul2025 21:11:56.877] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'securitycraft:securitycraft' : Version test of 'v1.10.0.1' from client : ACCEPTED
+[09Jul2025 21:11:56.877] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'nethers_exorcism_reborn:nethers_exorcism_reborn' : Version test of '1' from client : ACCEPTED
+[09Jul2025 21:11:56.877] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'iceandfire:main_channel' : Version test of '1' from client : ACCEPTED
+[09Jul2025 21:11:56.877] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'born_in_chaos_v1:born_in_chaos_v1' : Version test of '1' from client : ACCEPTED
+[09Jul2025 21:11:56.877] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'obscure_api:obscure_api' : Version test of '1' from client : ACCEPTED
+[09Jul2025 21:11:56.877] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bosses_of_mass_destruction:packets' : Version test of '1' from client : ACCEPTED
+[09Jul2025 21:11:56.877] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'modernfix:main' : Version test of '1' from client : ACCEPTED
+[09Jul2025 21:11:56.877] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[09Jul2025 21:11:56.877] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldinfo:world_id' : Version test of '1' from client : ACCEPTED
+[09Jul2025 21:11:56.877] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'appleskin:sync' : Version test of '1' from client : ACCEPTED
+[09Jul2025 21:11:56.877] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'skinshuffle:handshake' : Version test of '' from client : ACCEPTED
+[09Jul2025 21:11:56.877] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:handshake' : Version test of '1' from client : ACCEPTED
+[09Jul2025 21:11:56.877] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:mp_options_req' : Version test of '1' from client : ACCEPTED
+[09Jul2025 21:11:56.877] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[09Jul2025 21:11:56.877] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cerbons_api:packets' : Version test of '1' from client : ACCEPTED
+[09Jul2025 21:11:56.877] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'dragonmounts:network' : Version test of '1.O' from client : ACCEPTED
+[09Jul2025 21:11:56.877] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'aquamirae:main' : Version test of '1' from client : ACCEPTED
+[09Jul2025 21:11:56.877] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'quark:main' : Version test of '4' from client : ACCEPTED
+[09Jul2025 21:11:56.877] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'raccompat:network' : Version test of '1.0' from client : ACCEPTED
+[09Jul2025 21:11:56.877] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mofus_better_end_:mofus_better_end_' : Version test of '1' from client : ACCEPTED
+[09Jul2025 21:11:56.877] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'yungscavebiomes:messages' : Version test of '1.0' from client : ACCEPTED
+[09Jul2025 21:11:56.877] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:admin_save' : Version test of '1' from client : ACCEPTED
+[09Jul2025 21:11:56.877] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:player_loc' : Version test of '1' from client : ACCEPTED
+[09Jul2025 21:11:56.877] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'gravestone:default' : Version test of '1.0.0' from client : ACCEPTED
+[09Jul2025 21:11:56.877] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedcore:channel' : Version test of '1' from client : ACCEPTED
+[09Jul2025 21:11:56.877] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft_121_update:minecraft_121_update' : Version test of '1' from client : ACCEPTED
+[09Jul2025 21:11:56.877] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[09Jul2025 21:11:56.877] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'combatroll:network' : Version test of '1.0' from client : ACCEPTED
+[09Jul2025 21:11:56.877] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexscaves_torpedoes:alexscaves_torpedoes' : Version test of '1' from client : ACCEPTED
+[09Jul2025 21:11:56.877] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'artifactscrafting:artifactscrafting' : Version test of '1' from client : ACCEPTED
+[09Jul2025 21:11:56.877] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'zeta:main' : Version test of '1' from client : ACCEPTED
+[09Jul2025 21:11:56.877] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'guardribbits:messages' : Version test of '1.0' from client : ACCEPTED
+[09Jul2025 21:11:56.877] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[09Jul2025 21:11:56.877] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:perm_req' : Version test of '1' from client : ACCEPTED
+[09Jul2025 21:11:56.877] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'twilightforest:channel' : Version test of '2' from client : ACCEPTED
+[09Jul2025 21:11:56.877] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'waystones:network' : Version test of '1.0' from client : ACCEPTED
+[09Jul2025 21:11:56.877] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[09Jul2025 21:11:56.877] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[09Jul2025 21:11:56.887] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 6
+[09Jul2025 21:11:56.908] [Netty Epoll Server IO #3/DEBUG] [ServerLoginNetworkAddon for /127.142.125.183:59443/]: Handling inbound login query with id 3
+[09Jul2025 21:11:56.908] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[09Jul2025 21:11:56.909] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jul2025 21:11:56.909] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jul2025 21:11:56.939] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry irons_spellbooks:schools' to 'fml:handshake' sequence 7
+[09Jul2025 21:11:56.971] [Netty Epoll Server IO #3/DEBUG] [ServerLoginNetworkAddon for /127.142.125.183:59443/]: Handling inbound login query with id 4
+[09Jul2025 21:11:56.971] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[09Jul2025 21:11:56.971] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jul2025 21:11:56.971] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jul2025 21:11:56.993] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 8
+[09Jul2025 21:11:57.037] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry twilightforest:tiny_bird_variant' to 'fml:handshake' sequence 9
+[09Jul2025 21:11:57.094] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 10
+[09Jul2025 21:11:57.135] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 11
+[09Jul2025 21:11:57.183] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 12
+[09Jul2025 21:11:57.233] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 13
+[09Jul2025 21:11:57.246] [Netty Epoll Server IO #3/DEBUG] [ServerLoginNetworkAddon for /127.142.125.183:59443/]: Handling inbound login query with id 5
+[09Jul2025 21:11:57.247] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[09Jul2025 21:11:57.247] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jul2025 21:11:57.247] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jul2025 21:11:57.283] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 14
+[09Jul2025 21:11:57.283] [Netty Epoll Server IO #3/DEBUG] [ServerLoginNetworkAddon for /127.142.125.183:59443/]: Handling inbound login query with id 6
+[09Jul2025 21:11:57.283] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[09Jul2025 21:11:57.283] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jul2025 21:11:57.284] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jul2025 21:11:57.284] [Netty Epoll Server IO #3/DEBUG] [ServerLoginNetworkAddon for /127.142.125.183:59443/]: Handling inbound login query with id 7
+[09Jul2025 21:11:57.284] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[09Jul2025 21:11:57.284] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jul2025 21:11:57.284] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jul2025 21:11:57.284] [Netty Epoll Server IO #3/DEBUG] [ServerLoginNetworkAddon for /127.142.125.183:59443/]: Handling inbound login query with id 8
+[09Jul2025 21:11:57.284] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[09Jul2025 21:11:57.284] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jul2025 21:11:57.284] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jul2025 21:11:57.284] [Netty Epoll Server IO #3/DEBUG] [ServerLoginNetworkAddon for /127.142.125.183:59443/]: Handling inbound login query with id 9
+[09Jul2025 21:11:57.284] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[09Jul2025 21:11:57.284] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jul2025 21:11:57.284] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jul2025 21:11:57.332] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 15
+[09Jul2025 21:11:57.382] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 16
+[09Jul2025 21:11:57.432] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 17
+[09Jul2025 21:11:57.484] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry irons_spellbooks:spells' to 'fml:handshake' sequence 18
+[09Jul2025 21:11:57.539] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 19
+[09Jul2025 21:11:57.586] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 20
+[09Jul2025 21:11:57.634] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry twilightforest:enforcement' to 'fml:handshake' sequence 21
+[09Jul2025 21:11:57.683] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 22
+[09Jul2025 21:11:57.731] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry twilightforest:dwarf_rabbit_variant' to 'fml:handshake' sequence 23
+[09Jul2025 21:11:57.782] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 24
+[09Jul2025 21:11:57.833] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 25
+[09Jul2025 21:11:57.887] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 26
+[09Jul2025 21:11:57.952] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config securitycraft-server.toml' to 'fml:handshake' sequence 27
+[09Jul2025 21:11:57.981] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 28
+[09Jul2025 21:11:58.031] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config journeymap-server.toml' to 'fml:handshake' sequence 29
+[09Jul2025 21:11:58.083] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config irons_spellbooks-server.toml' to 'fml:handshake' sequence 30
+[09Jul2025 21:11:58.134] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config create-server.toml' to 'fml:handshake' sequence 31
+[09Jul2025 21:11:58.183] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config gravestone-server.toml' to 'fml:handshake' sequence 32
+[09Jul2025 21:11:58.222] [Netty Epoll Server IO #3/DEBUG] [ServerLoginNetworkAddon for /127.142.125.183:59443/]: Handling inbound login query with id 10
+[09Jul2025 21:11:58.222] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[09Jul2025 21:11:58.223] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jul2025 21:11:58.223] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jul2025 21:11:58.223] [Netty Epoll Server IO #3/DEBUG] [ServerLoginNetworkAddon for /127.142.125.183:59443/]: Handling inbound login query with id 11
+[09Jul2025 21:11:58.223] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[09Jul2025 21:11:58.223] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jul2025 21:11:58.223] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jul2025 21:11:58.224] [Netty Epoll Server IO #3/DEBUG] [ServerLoginNetworkAddon for /127.142.125.183:59443/]: Handling inbound login query with id 12
+[09Jul2025 21:11:58.224] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[09Jul2025 21:11:58.224] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jul2025 21:11:58.224] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jul2025 21:11:58.224] [Netty Epoll Server IO #3/DEBUG] [ServerLoginNetworkAddon for /127.142.125.183:59443/]: Handling inbound login query with id 13
+[09Jul2025 21:11:58.224] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[09Jul2025 21:11:58.225] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jul2025 21:11:58.225] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jul2025 21:11:58.231] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sophisticatedbackpacks-server.toml' to 'fml:handshake' sequence 33
+[09Jul2025 21:11:58.270] [Netty Epoll Server IO #3/DEBUG] [ServerLoginNetworkAddon for /127.142.125.183:59443/]: Handling inbound login query with id 14
+[09Jul2025 21:11:58.270] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[09Jul2025 21:11:58.270] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jul2025 21:11:58.270] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jul2025 21:11:58.283] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 34
+[09Jul2025 21:11:58.284] [Netty Epoll Server IO #3/DEBUG] [ServerLoginNetworkAddon for /127.142.125.183:59443/]: Handling inbound login query with id 15
+[09Jul2025 21:11:58.284] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[09Jul2025 21:11:58.284] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jul2025 21:11:58.284] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jul2025 21:11:58.334] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 35
+[09Jul2025 21:11:58.384] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'org.violetmoon.zeta.network.message.S2CLoginFlag' to 'zeta:main' sequence 36
+[09Jul2025 21:11:58.687] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:ceryneian_hind/ceryneian_hind_part_1
+[09Jul2025 21:11:58.700] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[09Jul2025 21:11:58.719] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_0_main
+[09Jul2025 21:11:58.721] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[09Jul2025 21:11:58.834] [Netty Epoll Server IO #3/DEBUG] [ServerLoginNetworkAddon for /127.142.125.183:59443/]: Handling inbound login query with id 16
+[09Jul2025 21:11:58.834] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[09Jul2025 21:11:58.834] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jul2025 21:11:58.834] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jul2025 21:11:58.835] [Netty Epoll Server IO #3/DEBUG] [ServerLoginNetworkAddon for /127.142.125.183:59443/]: Handling inbound login query with id 17
+[09Jul2025 21:11:58.835] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[09Jul2025 21:11:58.835] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jul2025 21:11:58.835] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jul2025 21:11:58.835] [Netty Epoll Server IO #3/DEBUG] [ServerLoginNetworkAddon for /127.142.125.183:59443/]: Handling inbound login query with id 18
+[09Jul2025 21:11:58.835] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[09Jul2025 21:11:58.835] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jul2025 21:11:58.835] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jul2025 21:11:58.835] [Netty Epoll Server IO #3/DEBUG] [ServerLoginNetworkAddon for /127.142.125.183:59443/]: Handling inbound login query with id 19
+[09Jul2025 21:11:58.835] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[09Jul2025 21:11:58.835] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jul2025 21:11:58.835] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jul2025 21:11:58.835] [Netty Epoll Server IO #3/DEBUG] [ServerLoginNetworkAddon for /127.142.125.183:59443/]: Handling inbound login query with id 20
+[09Jul2025 21:11:58.835] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[09Jul2025 21:11:58.835] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jul2025 21:11:58.835] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jul2025 21:11:58.835] [Netty Epoll Server IO #3/DEBUG] [ServerLoginNetworkAddon for /127.142.125.183:59443/]: Handling inbound login query with id 21
+[09Jul2025 21:11:58.835] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[09Jul2025 21:11:58.835] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jul2025 21:11:58.835] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jul2025 21:11:58.835] [Netty Epoll Server IO #3/DEBUG] [ServerLoginNetworkAddon for /127.142.125.183:59443/]: Handling inbound login query with id 22
+[09Jul2025 21:11:58.835] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[09Jul2025 21:11:58.836] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jul2025 21:11:58.836] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jul2025 21:11:58.836] [Netty Epoll Server IO #3/DEBUG] [ServerLoginNetworkAddon for /127.142.125.183:59443/]: Handling inbound login query with id 23
+[09Jul2025 21:11:58.836] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[09Jul2025 21:11:58.836] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jul2025 21:11:58.836] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jul2025 21:11:58.836] [Netty Epoll Server IO #3/DEBUG] [ServerLoginNetworkAddon for /127.142.125.183:59443/]: Handling inbound login query with id 24
+[09Jul2025 21:11:58.836] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[09Jul2025 21:11:58.836] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jul2025 21:11:58.836] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jul2025 21:11:58.836] [Netty Epoll Server IO #3/DEBUG] [ServerLoginNetworkAddon for /127.142.125.183:59443/]: Handling inbound login query with id 25
+[09Jul2025 21:11:58.836] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[09Jul2025 21:11:58.836] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jul2025 21:11:58.836] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jul2025 21:11:58.876] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_13
+[09Jul2025 21:11:58.886] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_start
+[09Jul2025 21:11:58.898] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:coliseum/coliseum_part_1
+[09Jul2025 21:11:58.908] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_ladders_0
+[09Jul2025 21:11:58.933] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_0
+[09Jul2025 21:11:58.952] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_1
+[09Jul2025 21:11:58.956] [Worker-Main-69/DEBUG] [ModernFix/]: Structure dungeons_arise:small_blimp/small_blimp_skeleton_0 is being run through DFU (hash 3c764b0bc7c91cf2dfa1c4bb629a1f8b680ec45d3621216d0e5e28d179428ae9), this will cause launch time delays
+[09Jul2025 21:11:58.975] [Worker-Main-69/DEBUG] [ModernFix/]: Structure dungeons_arise:small_blimp/small_blimp_skeleton_2 is being run through DFU (hash ae73f209572847a5f20652eaa24cac43a158c2456b9623e26ecac259528e498b), this will cause launch time delays
+[09Jul2025 21:11:58.983] [Worker-Main-69/DEBUG] [ModernFix/]: Structure dungeons_arise:small_blimp/small_blimp_skeleton_1 is being run through DFU (hash fa1f924aa834900f127450bbca4ddf20807ad5807442e5d27e158f3e2c4a9c2e), this will cause launch time delays
+[09Jul2025 21:11:59.484] [Netty Epoll Server IO #3/DEBUG] [ServerLoginNetworkAddon for /127.142.125.183:59443/]: Handling inbound login query with id 26
+[09Jul2025 21:11:59.484] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[09Jul2025 21:11:59.484] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jul2025 21:11:59.484] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jul2025 21:11:59.487] [Netty Epoll Server IO #3/DEBUG] [ServerLoginNetworkAddon for /127.142.125.183:59443/]: Handling inbound login query with id 27
+[09Jul2025 21:11:59.487] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[09Jul2025 21:11:59.488] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jul2025 21:11:59.488] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jul2025 21:11:59.488] [Netty Epoll Server IO #3/DEBUG] [ServerLoginNetworkAddon for /127.142.125.183:59443/]: Handling inbound login query with id 28
+[09Jul2025 21:11:59.488] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[09Jul2025 21:11:59.488] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jul2025 21:11:59.488] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jul2025 21:11:59.489] [Netty Epoll Server IO #3/DEBUG] [ServerLoginNetworkAddon for /127.142.125.183:59443/]: Handling inbound login query with id 29
+[09Jul2025 21:11:59.489] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[09Jul2025 21:11:59.489] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jul2025 21:11:59.489] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jul2025 21:11:59.497] [Netty Epoll Server IO #3/DEBUG] [ServerLoginNetworkAddon for /127.142.125.183:59443/]: Handling inbound login query with id 30
+[09Jul2025 21:11:59.497] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 30
+[09Jul2025 21:11:59.497] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 30 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jul2025 21:11:59.497] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jul2025 21:11:59.501] [Netty Epoll Server IO #3/DEBUG] [ServerLoginNetworkAddon for /127.142.125.183:59443/]: Handling inbound login query with id 31
+[09Jul2025 21:11:59.501] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 31
+[09Jul2025 21:11:59.501] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 31 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jul2025 21:11:59.501] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jul2025 21:11:59.504] [Netty Epoll Server IO #3/DEBUG] [ServerLoginNetworkAddon for /127.142.125.183:59443/]: Handling inbound login query with id 32
+[09Jul2025 21:11:59.504] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 32
+[09Jul2025 21:11:59.504] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 32 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jul2025 21:11:59.504] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jul2025 21:11:59.508] [Netty Epoll Server IO #3/DEBUG] [ServerLoginNetworkAddon for /127.142.125.183:59443/]: Handling inbound login query with id 33
+[09Jul2025 21:11:59.508] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 33
+[09Jul2025 21:11:59.508] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 33 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jul2025 21:11:59.508] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jul2025 21:11:59.510] [Netty Epoll Server IO #3/DEBUG] [ServerLoginNetworkAddon for /127.142.125.183:59443/]: Handling inbound login query with id 34
+[09Jul2025 21:11:59.510] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 34
+[09Jul2025 21:11:59.510] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 34 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jul2025 21:11:59.510] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jul2025 21:11:59.510] [Netty Epoll Server IO #3/DEBUG] [ServerLoginNetworkAddon for /127.142.125.183:59443/]: Handling inbound login query with id 35
+[09Jul2025 21:11:59.510] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 35
+[09Jul2025 21:11:59.510] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 35 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jul2025 21:11:59.510] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jul2025 21:11:59.515] [Netty Epoll Server IO #3/DEBUG] [ServerLoginNetworkAddon for /127.142.125.183:59443/]: Handling inbound login query with id 36
+[09Jul2025 21:11:59.515] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel zeta:main with index 36
+[09Jul2025 21:11:59.515] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 36 of type org.violetmoon.zeta.network.message.C2SLoginFlag
+[09Jul2025 21:11:59.531] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[09Jul2025 21:11:59.582] [Server thread/DEBUG] [fabric_networking_api_v1/]: Sent accepted channels to the client for "com.mojang.authlib.GameProfile@5d568cce[id=<null>,name=PrincessAuge,properties={},legacy=false] (/127.142.125.183:59443)"
+[09Jul2025 21:11:59.903] [Netty Epoll Server IO #3/DEBUG] [ServerLoginNetworkAddon for /127.142.125.183:59443/]: Handling inbound login query with id 999
+[09Jul2025 21:11:59.903] [Netty Epoll Server IO #3/DEBUG] [fabric_networking_api_v1/]: Received accepted channels from the client for "com.mojang.authlib.GameProfile@5d568cce[id=<null>,name=PrincessAuge,properties={},legacy=false] (/127.142.125.183:59443)"
+[09Jul2025 21:11:59.934] [ForkJoinPool.commonPool-worker-3/DEBUG] [SkinRestorer/]: Fetching PrincessAuge's skin
+[09Jul2025 21:12:00.077] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PrincessAuge[/127.142.125.183:59443] logged in with entity id 25753 at (-283.9073895572878, 80.0, 338.5569528833302)
+[09Jul2025 21:12:00.078] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@167c5558 into net.minecraft.network.Connection@656c8e5c
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:command_argument_type
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:item
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:block_entity_type
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:custom_stat
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/foliage_placer_type
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:stat_type
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/material_rule
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_type
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:attribute
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:position_source_type
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:height_provider_type
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: corgilib:condition
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:rule_block_entity_modifier
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/density_function_type
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: create:mounted_fluid_storage_type
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:fluid
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: forge:global_loot_modifier_serializers
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_condition_type
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_pool_element
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:activity
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:recipe_serializer
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:frog_variant
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:banner_pattern
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: twilightforest:tiny_bird_variant
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:instrument
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:decorated_pot_patterns
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/feature_size_type
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:point_of_interest_type
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:mob_effect
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_pool_entry_type
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/block_state_provider_type
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/chunk_generator
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: corgilib:blending_function
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:float_provider_type
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:chunk_status
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:enchantment
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_function_type
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_processor
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_score_provider_type
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/tree_decorator_type
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:schedule
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: create:potato_projectile/block_hit_action
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/material_condition
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:entity_type
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: create:item_attribute_type
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:villager_profession
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:potion
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:recipe_type
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:int_provider_type
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/feature
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:cat_variant
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: corgilib:villager_trades_item_listing
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:pos_rule_test
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_placement
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_nbt_provider_type
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: create:mounted_item_storage_type
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: create:potato_projectile/entity_hit_action
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:menu
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/trunk_placer_type
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:creative_mode_tab
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/placement_modifier_type
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/carver
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: create:potato_projectile/render_mode
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_number_provider_type
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: create:display_source
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_piece
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:sound_event
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:particle_type
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: create:display_target
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:game_event
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/biome_source
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: create:arm_interaction_point_type
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/root_placer_type
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:villager_type
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:painting_variant
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: forge:fluid_type
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:block_predicate_type
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:block
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: forge:entity_data_serializers
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:sensor_type
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: create:fan_processing_type
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: twilightforest:dwarf_rabbit_variant
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:rule_test
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: create:contraption_type
+[09Jul2025 21:12:00.079] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:memory_module_type
+[09Jul2025 21:12:00.080] [Server thread/DEBUG] [ModernFix/]: Sending ID correction packet to client with 550 classes
+[09Jul2025 21:12:00.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge joined the game
+[09Jul2025 21:12:06.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> proden
+[09Jul2025 21:12:07.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> pou
+[09Jul2025 21:12:37.133] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in the_bumblezone:the_bumblezone
+[09Jul2025 21:13:00.134] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_end

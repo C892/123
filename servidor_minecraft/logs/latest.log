@@ -1209,3 +1209,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [09Jul2025 20:31:03.180] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/15353, l='ServerLevel[world]', x=-83.50, y=-20.00, z=29.50] died: Toxic Slime was killed
 [09Jul2025 20:32:02.179] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/15868, l='ServerLevel[world]', x=-87.74, y=-20.00, z=50.86] died: Toxic Slime was killed
 [09Jul2025 20:35:12.688] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-63, y=44, z=-170} BlockPos{x=-63, y=42, z=-170}
+[09Jul2025 20:58:43.684] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Calamar892) moved too quickly! -2.4604163490391215,9.05168969948393,4.320100814234763
+[09Jul2025 21:00:49.488] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jul2025 21:01:22.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Cover Me In Emeralds]
+[09Jul2025 21:07:01.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Iron Maiden]
+[09Jul2025 21:09:25.316] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Calamar892) moved wrongly! 0.25118658927226534
+[09Jul2025 21:12:00.077] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PrincessAuge[/127.142.125.183:59443] logged in with entity id 25753 at (-283.9073895572878, 80.0, 338.5569528833302)
+[09Jul2025 21:12:00.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge joined the game
+[09Jul2025 21:12:06.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> proden
+[09Jul2025 21:12:07.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> pou
