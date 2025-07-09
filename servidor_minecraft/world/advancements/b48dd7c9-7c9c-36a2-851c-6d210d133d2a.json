@@ -5027,6 +5027,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/block_pocket_manager": {
+    "criteria": {
+      "has_redstone_block": "2025-07-09 22:19:27 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-07-09 22:15:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-07-09 21:26:05 +0000"
@@ -5090,6 +5102,12 @@
   "twilightforest:recipes/redstone/wood/canopy_plate": {
     "criteria": {
       "has_item": "2025-07-09 21:27:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-07-09 22:16:24 +0000"
     },
     "done": true
   },
@@ -5225,6 +5243,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-07-09 22:19:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-07-09 21:24:30 +0000"
@@ -5338,6 +5362,12 @@
       "has_gold_ingot": "2025-07-09 21:26:05 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "golden_apple": "2025-07-09 22:20:34 +0000"
+    },
+    "done": false
   },
   "sophisticatedbackpacks:recipes/misc/auto_blasting_upgrade_from_auto_smelting_upgrade": {
     "criteria": {
@@ -5545,6 +5575,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2025-07-09 22:15:58 +0000",
       "opened_chest": "2025-07-09 21:52:07 +0000"
     },
     "done": false
@@ -5828,6 +5859,12 @@
   "securitycraft:recipes/misc/claymore": {
     "criteria": {
       "has_redstone": "2025-07-09 21:24:30 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-07-09 22:19:15 +0000"
     },
     "done": true
   },
