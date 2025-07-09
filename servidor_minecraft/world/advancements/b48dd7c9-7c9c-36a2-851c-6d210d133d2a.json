@@ -5159,6 +5159,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2025-07-09 22:32:59 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/wood/canopy_slab": {
     "criteria": {
       "has_item": "2025-07-09 21:27:15 +0000"
@@ -5231,6 +5237,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-07-09 22:32:59 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_piston": {
     "criteria": {
       "has_redstone": "2025-07-09 21:24:30 +0000"
@@ -5300,6 +5312,12 @@
   "securitycraft:recipes/misc/keypad_frame": {
     "criteria": {
       "has_redstone": "2025-07-09 21:24:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-07-09 22:32:59 +0000"
     },
     "done": true
   },
