@@ -450,6 +450,7 @@
       "biomeswevegone:mojave_desert": "2025-07-06 01:01:02 +0000",
       "biomeswevegone:rugged_badlands": "2025-07-06 01:13:46 +0000",
       "biomeswevegone:sakura_grove": "2025-07-02 21:36:41 +0000",
+      "biomeswevegone:enchanted_tangle": "2025-07-09 21:09:28 +0000",
       "biomeswevegone:zelkova_forest": "2025-07-05 19:46:38 +0000",
       "biomeswevegone:forgotten_forest": "2025-07-02 22:34:49 +0000",
       "biomeswevegone:firecracker_chaparral": "2025-07-06 01:22:26 +0000",
@@ -6347,6 +6348,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/canopy_fence": {
+    "criteria": {
+      "has_item": "2025-07-09 21:28:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
       "has_netherite_scrap": "2025-07-09 20:25:15 +0000"
@@ -6356,6 +6363,12 @@
   "minecraft:recipes/tools/netherite_machete_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-07-09 20:25:34 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/building_blocks/river_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-09 21:12:31 +0000"
     },
     "done": true
   },
@@ -6389,6 +6402,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2025-07-09 21:13:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-07-09 19:39:10 +0000"
@@ -6401,9 +6420,27 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/canopy_chest": {
+    "criteria": {
+      "has_item": "2025-07-09 21:28:31 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/decorations/river_fence": {
+    "criteria": {
+      "has_planks": "2025-07-09 21:12:31 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/redstone/fir_button": {
     "criteria": {
       "has_planks": "2025-07-09 21:04:07 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/decorations/river_sign": {
+    "criteria": {
+      "has_planks": "2025-07-09 21:12:31 +0000"
     },
     "done": true
   },
@@ -6419,9 +6456,27 @@
     },
     "done": false
   },
+  "twilightforest:recipes/redstone/wood/canopy_plate": {
+    "criteria": {
+      "has_item": "2025-07-09 21:28:31 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/plate": {
     "criteria": {
       "has_quartz_block": "2025-07-09 20:37:15 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/canopy_slab": {
+    "criteria": {
+      "has_item": "2025-07-09 21:28:31 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_01": "2025-07-09 21:15:08 +0000"
     },
     "done": true
   },
@@ -6479,9 +6534,27 @@
     },
     "done": true
   },
+  "upgrade_aquatic:recipes/building_blocks/river_slab": {
+    "criteria": {
+      "has_planks": "2025-07-09 21:12:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-07-09 20:37:15 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/canopy_stairs": {
+    "criteria": {
+      "has_item": "2025-07-09 21:28:31 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/canopy_door": {
+    "criteria": {
+      "has_item": "2025-07-09 21:28:31 +0000"
     },
     "done": true
   },
@@ -6494,6 +6567,30 @@
   "biomeswevegone:recipes/decorations/fir_fence": {
     "criteria": {
       "has_planks": "2025-07-09 21:04:07 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/canopy_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-09 21:28:31 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/redstone/river_button": {
+    "criteria": {
+      "has_planks": "2025-07-09 21:12:31 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/redstone/river_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-09 21:12:31 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/redstone/river_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-09 21:12:31 +0000"
     },
     "done": true
   },
@@ -6521,9 +6618,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/canopy_sign": {
+    "criteria": {
+      "has_item": "2025-07-09 21:28:31 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/cyan_dye_from_pitcher_plant": {
     "criteria": {
       "has_pitcher_plant": "2025-07-09 21:04:02 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/misc/magenta_dye_from_mulberry": {
+    "criteria": {
+      "has_mulberry": "2025-07-09 21:12:28 +0000"
     },
     "done": true
   },
@@ -6536,6 +6645,12 @@
   "biomeswevegone:recipes/misc/pink_dye_from_bwg_tag": {
     "criteria": {
       "TagKey[minecraft:item / biomeswevegone:dye/makes_pink_dye]": "2025-07-09 20:49:16 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/redstone/river_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-09 21:12:31 +0000"
     },
     "done": true
   },
@@ -6554,6 +6669,18 @@
   "incendium:toxic_heap/root": {
     "criteria": {
       "requirement": "2025-07-09 20:28:08 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/redstone/river_door": {
+    "criteria": {
+      "has_planks": "2025-07-09 21:12:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2025-07-09 21:13:08 +0000"
     },
     "done": true
   },
@@ -6581,15 +6708,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2025-07-09 21:13:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-07-09 20:37:15 +0000"
     },
     "done": true
   },
+  "twilightforest:recipes/redstone/wood/canopy_button": {
+    "criteria": {
+      "has_item": "2025-07-09 21:28:31 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/fish_stew": {
     "criteria": {
       "has_any_ingredient": "2025-07-09 21:01:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2025-07-09 21:13:08 +0000"
     },
     "done": true
   },
@@ -6641,15 +6786,33 @@
     },
     "done": true
   },
+  "twilightforest:recipes/redstone/wood/canopy_gate": {
+    "criteria": {
+      "has_item": "2025-07-09 21:28:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-07-09 20:37:15 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-09 21:13:08 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/cooked_rice": {
     "criteria": {
       "has_rice": "2025-07-09 21:02:34 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/canopy_bookshelf": {
+    "criteria": {
+      "has_item": "2025-07-09 21:28:31 +0000"
     },
     "done": true
   },
@@ -6662,6 +6825,18 @@
   "minecraft:recipes/building_blocks/chiseled_quartz_block": {
     "criteria": {
       "has_quartz_block": "2025-07-09 20:37:15 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/building_blocks/river_wood": {
+    "criteria": {
+      "has_log": "2025-07-09 21:12:28 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/building_blocks/river_planks": {
+    "criteria": {
+      "has_logs": "2025-07-09 21:12:28 +0000"
     },
     "done": true
   },

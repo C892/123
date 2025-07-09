@@ -1218,3 +1218,54 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [09Jul2025 21:12:00.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge joined the game
 [09Jul2025 21:12:06.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> proden
 [09Jul2025 21:12:07.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> pou
+[09Jul2025 21:14:06.898] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=52, y=2, z=-1862}
+[09Jul2025 21:14:15.882] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/26924, l='ServerLevel[world]', x=-59.50, y=59.00, z=-1876.50]
+[09Jul2025 21:14:17.280] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/26937, l='ServerLevel[world]', x=-49.50, y=51.00, z=-1852.50]
+[09Jul2025 21:14:19.815] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2339ms or 46 ticks behind
+[09Jul2025 21:14:28.430] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/27219, l='ServerLevel[world]', x=-49.50, y=55.00, z=-1851.50]
+[09Jul2025 21:14:43.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> pouden
+[09Jul2025 21:15:08.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Gravedigger]
+[09Jul2025 21:16:27.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> en una aldea
+[09Jul2025 21:16:28.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> proden
+[09Jul2025 21:16:34.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> vieras lo que me encontre
+[09Jul2025 21:16:50.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> estoy en cuba
+[09Jul2025 21:16:59.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> pero espera
+[09Jul2025 21:17:02.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> esmio
+[09Jul2025 21:17:08.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> tiene 3 skins
+[09Jul2025 21:17:43.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> dejalo
+[09Jul2025 21:17:49.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> es uno de los ojos para el end
+[09Jul2025 21:18:03.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> no se
+[09Jul2025 21:18:11.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> hay mas de 12 pero no se si necesitamos mas de 12
+[09Jul2025 21:18:27.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> que paso?
+[09Jul2025 21:18:37.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> por cierto
+[09Jul2025 21:18:42.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> hagansen la de yunque
+[09Jul2025 21:18:49.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> es lit un yunque infinito
+[09Jul2025 21:19:11.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> busca mejora y te salen todas
+[09Jul2025 21:19:24.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> ayer me mato un dragon afk
+[09Jul2025 21:19:46.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> por cierto los dragones de cueva se vuelven a dormir pero los de superficie no
+[09Jul2025 21:19:58.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> solo vuelven a su nido luego de matarte
+[09Jul2025 21:20:21.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> proden un rex es equiparable a un ciclope
+[09Jul2025 21:20:40.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> solo que el rex tiene 8 de armadura y el ciclope tiene un poco mas de daño
+[09Jul2025 21:20:51.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> 1 punto mas de daño creo que tiene el ciclope
+[09Jul2025 21:21:15.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> lo que pasa es que digo que no se les acerquen por que creo que si se los come es oneshot
+[09Jul2025 21:21:23.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> hay que hacer granja de vacas
+[09Jul2025 21:22:06.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> hay un duende en el nether con botin 4
+[09Jul2025 21:22:33.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> que paso?
+[09Jul2025 21:22:38.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> si
+[09Jul2025 21:23:01.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> es mejor guardarlo para las armaduras post netherite
+[09Jul2025 21:24:25.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> protección contra proyectiles 4 en un aldeano de la isla flotante
+[09Jul2025 21:24:59.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> proden
+[09Jul2025 21:25:56.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> proden toma esto te va a gustar
+[09Jul2025 21:26:08.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> proden
+[09Jul2025 21:26:09.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> toma
+[09Jul2025 21:26:24.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> guardalo
+[09Jul2025 21:26:27.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> necesitamos mucho
+[09Jul2025 21:26:39.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> toma esto
+[09Jul2025 21:26:47.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> daselo a un rex tuyo
+[09Jul2025 21:27:20.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> si picas ambar te lo dan
+[09Jul2025 21:28:44.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> duerme pou
+[09Jul2025 21:29:03.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> proden ven conmigo
+[09Jul2025 21:29:06.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> te quiero enseñar una cosa
+[09Jul2025 21:29:43.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> proden llevate todos los hechizos que veas
+[09Jul2025 21:30:50.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> que paso?
+[09Jul2025 21:31:07.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> solo dejalo activo y lo demas desactivado
