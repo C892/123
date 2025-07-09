@@ -307,6 +307,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-07-09 21:53:12 +0000",
       "minecraft:taiga": "2025-07-03 17:21:06 +0000",
       "minecraft:deep_ocean": "2025-07-06 00:45:21 +0000",
       "minecraft:cherry_grove": "2025-07-02 21:51:08 +0000",
@@ -318,6 +319,7 @@
       "minecraft:lukewarm_ocean": "2025-07-06 00:50:11 +0000",
       "minecraft:stony_shore": "2025-07-06 02:04:59 +0000",
       "minecraft:dripstone_caves": "2025-07-02 22:25:26 +0000",
+      "minecraft:swamp": "2025-07-09 21:48:09 +0000",
       "minecraft:forest": "2025-07-02 20:54:47 +0000",
       "minecraft:lush_caves": "2025-07-03 17:29:57 +0000",
       "minecraft:desert": "2025-07-06 00:56:26 +0000",
@@ -413,6 +415,7 @@
       "biomeswevegone:amaranth_grassland": "2025-07-06 01:34:17 +0000",
       "biomeswevegone:weeping_witch_forest": "2025-07-03 17:39:38 +0000",
       "biomeswevegone:prairie": "2025-07-03 17:14:32 +0000",
+      "biomeswevegone:rose_fields": "2025-07-09 21:47:41 +0000",
       "biomeswevegone:aspen_boreal": "2025-07-03 17:39:19 +0000",
       "biomeswevegone:dead_sea": "2025-07-06 00:57:09 +0000",
       "biomeswevegone:allium_shrubland": "2025-07-03 14:15:32 +0000",
@@ -4850,6 +4853,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/spruce_table": {
+    "criteria": {
+      "has_spruce_planks": "2025-07-09 21:53:40 +0000"
+    },
+    "done": true
+  },
   "nethersdelight:recipes/tools/golden_machete": {
     "criteria": {
       "has_gold_ingot": "2025-07-09 21:26:05 +0000"
@@ -4895,6 +4904,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-07-09 21:26:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_drawer": {
+    "criteria": {
+      "has_spruce_planks": "2025-07-09 21:53:40 +0000"
     },
     "done": true
   },
@@ -4988,6 +5003,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-07-09 21:53:40 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-09 21:23:47 +0000"
@@ -5078,6 +5099,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_cabinetry": {
+    "criteria": {
+      "has_spruce_planks": "2025-07-09 21:53:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/pulse_timer": {
     "criteria": {
       "has_item": "2025-07-09 21:24:30 +0000"
@@ -5117,6 +5144,12 @@
   "twilightforest:recipes/building_blocks/wood/canopy_slab": {
     "criteria": {
       "has_item": "2025-07-09 21:27:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-07-09 21:53:40 +0000"
     },
     "done": true
   },
@@ -5174,6 +5207,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-07-09 21:53:35 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_piston": {
     "criteria": {
       "has_redstone": "2025-07-09 21:24:30 +0000"
@@ -5222,6 +5261,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_mechanical_nest": {
+    "criteria": {
+      "location0": "2025-07-09 21:47:59 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/smoking_upgrade_from_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2025-07-09 21:25:01 +0000"
@@ -5249,6 +5294,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-07-09 21:24:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-09 21:53:40 +0000"
     },
     "done": true
   },
@@ -5348,6 +5399,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_sink": {
+    "criteria": {
+      "has_spruce_planks": "2025-07-09 21:53:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-07-09 21:26:05 +0000"
@@ -5390,6 +5447,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_spruce_planks": "2025-07-09 21:53:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/pulse_repeater": {
     "criteria": {
       "has_item": "2025-07-09 21:24:30 +0000"
@@ -5411,6 +5474,12 @@
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2025-07-09 21:24:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-07-09 21:53:40 +0000"
     },
     "done": true
   },
@@ -5444,6 +5513,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2025-07-09 21:53:40 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/blasting_upgrade_from_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2025-07-09 21:25:01 +0000"
@@ -5462,9 +5537,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/spruce_mail_box": {
+    "criteria": {
+      "has_spruce_planks": "2025-07-09 21:53:40 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-07-09 21:52:07 +0000"
+    },
+    "done": false
+  },
   "sophisticatedbackpacks:recipes/misc/backpack": {
     "criteria": {
       "has_leather": "2025-07-09 21:23:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-09 21:53:40 +0000"
     },
     "done": true
   },
@@ -5477,6 +5570,12 @@
   "upgrade_aquatic:recipes/redstone/river_door": {
     "criteria": {
       "has_planks": "2025-07-09 21:27:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_crate": {
+    "criteria": {
+      "has_spruce_planks": "2025-07-09 21:53:40 +0000"
     },
     "done": true
   },
@@ -5582,6 +5681,12 @@
     },
     "done": true
   },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-07-09 21:52:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-07-09 21:23:02 +0000"
@@ -5666,6 +5771,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-07-09 21:53:40 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/magic_sign": {
     "criteria": {
       "has_magic_planks": "2025-07-09 21:29:55 +0000"
@@ -5678,9 +5789,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/spruce_cutting_board": {
+    "criteria": {
+      "has_spruce_planks": "2025-07-09 21:53:40 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
     "criteria": {
       "has_redstone": "2025-07-09 21:24:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-07-09 21:53:35 +0000"
     },
     "done": true
   },
@@ -5720,6 +5843,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-07-09 21:53:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-09 21:53:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_desk": {
+    "criteria": {
+      "has_spruce_planks": "2025-07-09 21:53:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2025-07-09 21:53:40 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/loom_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-09 21:23:47 +0000"
@@ -5744,9 +5891,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-09 21:53:40 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-09 21:23:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_drawer": {
+    "criteria": {
+      "has_spruce_planks": "2025-07-09 21:53:40 +0000"
     },
     "done": true
   },
