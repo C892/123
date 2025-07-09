@@ -1203,3 +1203,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [09Jul2025 19:48:32.904] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-32, y=18, z=-94} BlockPos{x=-33, y=16, z=-94}
 [09Jul2025 19:49:20.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Hidden in the Depths]
 [09Jul2025 20:10:58.268] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-19, y=11, z=-448} BlockPos{x=-20, y=12, z=-448}
+[09Jul2025 20:28:08.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Radioactive]
+[09Jul2025 20:29:12.180] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/13888, l='ServerLevel[world]', x=-79.04, y=-20.00, z=17.87] died: Toxic Slime was killed
+[09Jul2025 20:30:38.179] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/14226, l='ServerLevel[world]', x=-75.29, y=-20.00, z=-6.74] died: Toxic Slime was killed
+[09Jul2025 20:31:03.180] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/15353, l='ServerLevel[world]', x=-83.50, y=-20.00, z=29.50] died: Toxic Slime was killed
+[09Jul2025 20:32:02.179] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/15868, l='ServerLevel[world]', x=-87.74, y=-20.00, z=50.86] died: Toxic Slime was killed
