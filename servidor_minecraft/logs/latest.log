@@ -1,251 +1,1157 @@
-[10Jul2025 00:00:20.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3RO_Bruce has made the advancement [Not Today, Thank You]
-[10Jul2025 00:01:23.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> tengo gafas que viven por un pedazo de cinta
-[10Jul2025 00:01:32.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3RO_Bruce has made the advancement [Monster Hunter]
-[10Jul2025 00:01:32.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3RO_Bruce has made the advancement [Take Aim]
-[10Jul2025 00:02:02.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3RO_Bruce has made the advancement ['X' Marks the Spot]
-[10Jul2025 00:02:56.475] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/20745, l='ServerLevel[world]', x=142.19, y=190.06, z=969.05] died: Gearling was burnt to a crisp whilst fighting Z3RO_Bruce
-[10Jul2025 00:02:59.540] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/20770, l='ServerLevel[world]', x=143.95, y=190.79, z=967.82] died: Gearling was slain by Z3RO_Bruce
-[10Jul2025 00:03:15.173] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/20771, l='ServerLevel[world]', x=148.74, y=190.00, z=968.86] died: Gearling was burnt to a crisp whilst fighting PrincessAuge
-[10Jul2025 00:03:18.526] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/20751, l='ServerLevel[world]', x=142.70, y=190.06, z=968.47] died: Gearling was burnt to a crisp whilst fighting PrincessAuge
-[10Jul2025 00:03:28.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> en teoria, todo lo que hay aca son robots
-[10Jul2025 00:03:35.174] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/20829, l='ServerLevel[world]', x=150.59, y=191.23, z=965.60] died: Gearling was burnt to a crisp whilst fighting PrincessAuge
-[10Jul2025 00:03:39.554] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/20800, l='ServerLevel[world]', x=149.54, y=190.00, z=969.42] died: Gearling was slain by PrincessAuge
-[10Jul2025 00:04:00.277] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/20739, l='ServerLevel[world]', x=144.56, y=190.56, z=966.66] died: Gearling was shot by Z3RO_Bruce
-[10Jul2025 00:04:14.874] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/20831, l='ServerLevel[world]', x=143.77, y=190.00, z=962.26] died: Gearling was mauled by PrincessAuge's undead
-[10Jul2025 00:04:26.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> proden
-[10Jul2025 00:04:36.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> que puedes usar el hacha para restablecer el cobre de aqui
-[10Jul2025 00:05:03.952] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/20777, l='ServerLevel[world]', x=142.11, y=190.00, z=958.85] died: Gearling was slain by PrincessAuge
-[10Jul2025 00:05:04.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Spooky Scary Skeleton]
-[10Jul2025 00:05:04.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3RO_Bruce was slain by Gearling
-[10Jul2025 00:05:05.003] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/20840, l='ServerLevel[world]', x=143.83, y=190.00, z=959.03] died: Gearling was slain by PrincessAuge
-[10Jul2025 00:05:06.324] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/20835, l='ServerLevel[world]', x=143.72, y=190.00, z=961.12] died: Gearling was shot by Summoned Skeleton
-[10Jul2025 00:05:12.606] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/20744, l='ServerLevel[world]', x=144.33, y=192.13, z=953.15] died: Gearling was slain by PrincessAuge
-[10Jul2025 00:05:19.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> cabeza
-[10Jul2025 00:05:20.025] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/20783, l='ServerLevel[world]', x=141.65, y=190.00, z=955.41] died: Gearling was mauled by PrincessAuge's undead
-[10Jul2025 00:05:21.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> de whiter
-[10Jul2025 00:05:35.461] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Z3RO_Bruce lost connection: Timed out
-[10Jul2025 00:05:35.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3RO_Bruce left the game
-[10Jul2025 00:05:35.484] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[10Jul2025 00:05:46.446] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Z3RO_Bruce[/127.135.0.86:45793] logged in with entity id 21281 at (143.7300694619078, 193.24918707874468, 953.6999999880791)
-[10Jul2025 00:05:46.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3RO_Bruce joined the game
-[10Jul2025 00:06:10.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> ni sale que ah muerto
-[10Jul2025 00:06:17.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Z3RO_Bruce> sisi estoy muerto
-[10Jul2025 00:06:22.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Teleported Z3RO_Bruce to PrincessAuge]
-[10Jul2025 00:08:37.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> proden no es que sea la mas tocha es que como esta tan alta, esta cubierta de nieve
-[10Jul2025 00:10:16.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> vuelvo a casa y dejo loot
-[10Jul2025 00:10:52.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge has made the advancement [Sneak 100]
-[10Jul2025 00:10:54.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3RO_Bruce has made the advancement [Sneak 100]
-[10Jul2025 00:11:16.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> eso esta tan alto, que llegue de una sola planeada a la casa
-[10Jul2025 00:12:28.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3RO_Bruce has made the advancement [Disme A Dozen]
-[10Jul2025 00:13:21.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3RO_Bruce fell from a high place
-[10Jul2025 00:13:41.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Teleported Z3RO_Bruce to PrincessAuge]
-[10Jul2025 00:15:21.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> oye lo peor es que creo que todas las aldeas del mapa las encontre yo primero
-[10Jul2025 00:16:29.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> holi
-[10Jul2025 00:17:05.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> hay 2
-[10Jul2025 00:17:14.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> cuidado bruce
-[10Jul2025 00:17:31.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> me lo veo
-[10Jul2025 00:19:31.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> proden nos hacemos 4 mochilas de diamante y nunca nos falta espacio
-[10Jul2025 00:20:04.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> metele ademas que hay una mejora que hace que puedas meter mochilas en mochilas
-[10Jul2025 00:20:09.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3RO_Bruce has made the advancement [Close Quarters]
-[10Jul2025 00:20:58.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> los deje en casa
-[10Jul2025 00:23:05.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> mira esto
-[10Jul2025 00:23:08.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> esta bonito
-[10Jul2025 00:24:41.670] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/24831, l='ServerLevel[world]', x=-3.22, y=207.00, z=959.88] died: Gearling hit the ground too hard
-[10Jul2025 00:25:38.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge was slain by Wither Skeleton
-[10Jul2025 00:25:52.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Teleported PrincessAuge to Calamar892]
-[10Jul2025 00:25:57.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3RO_Bruce has reached the goal [Postmortal]
-[10Jul2025 00:27:20.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 was slain by Skeleton
-[10Jul2025 00:27:22.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge was slain by Skeleton
-[10Jul2025 00:27:25.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Teleported Calamar892 to Z3RO_Bruce]
-[10Jul2025 00:27:30.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Teleported PrincessAuge to Calamar892]
-[10Jul2025 00:27:43.093] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/28956, l='ServerLevel[world]', x=-1.45, y=212.00, z=979.62] died: Gearling was slain by Calamar892
-[10Jul2025 00:27:49.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge was slain by Skeleton
-[10Jul2025 00:27:54.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Teleported PrincessAuge to Calamar892]
-[10Jul2025 00:28:02.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> bruce
-[10Jul2025 00:28:04.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> ven
-[10Jul2025 00:28:12.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> agarra esto
-[10Jul2025 00:28:35.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> ese cofre
-[10Jul2025 00:28:52.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 was slain by Wither Skeleton
-[10Jul2025 00:28:56.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Teleported Calamar892 to PrincessAuge]
-[10Jul2025 00:29:09.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> roto
-[10Jul2025 00:29:15.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> spawner roto
-[10Jul2025 00:32:23.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3RO_Bruce was slain by Skeleton
-[10Jul2025 00:32:34.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Teleported Z3RO_Bruce to Calamar892]
-[10Jul2025 00:32:37.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> yo lleve 5
-[10Jul2025 00:33:01.822] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/31643, l='ServerLevel[world]', x=3.51, y=203.50, z=1009.33] died: Gearling fell from a high place
-[10Jul2025 00:33:09.771] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/31684, l='ServerLevel[world]', x=3.35, y=203.50, z=1008.82] died: Gearling fell from a high place
-[10Jul2025 00:33:16.224] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/31687, l='ServerLevel[world]', x=-3.40, y=207.54, z=1002.58] died: Gearling went off with a bang
-[10Jul2025 00:33:18.370] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/31718, l='ServerLevel[world]', x=2.01, y=207.00, z=1011.65] died: Gearling fell from a high place
-[10Jul2025 00:33:27.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3RO_Bruce was slain by Gearling
-[10Jul2025 00:33:37.002] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/31720, l='ServerLevel[world]', x=-1.34, y=212.00, z=1019.15] died: Gearling was slain by Calamar892
-[10Jul2025 00:33:38.174] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/31708, l='ServerLevel[world]', x=2.18, y=207.00, z=1018.57] died: Gearling was suffocated by PrincessAuge's poisonous cloud
-[10Jul2025 00:33:42.072] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/31887, l='ServerLevel[world]', x=3.90, y=204.00, z=1009.07] died: Gearling fell from a high place
-[10Jul2025 00:33:42.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Teleported Z3RO_Bruce to Calamar892]
-[10Jul2025 00:33:42.672] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/31693, l='ServerLevel[world]', x=3.65, y=207.06, z=1018.33] died: Gearling was suffocated by PrincessAuge's poisonous cloud
-[10Jul2025 00:33:42.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3RO_Bruce was slain by Gearling
-[10Jul2025 00:33:47.439] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/30716, l='ServerLevel[world]', x=7.42, y=212.70, z=1017.24] died: Gearling was slain by Calamar892
-[10Jul2025 00:33:49.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Teleported Z3RO_Bruce to Calamar892]
-[10Jul2025 00:33:51.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3RO_Bruce was slain by Gearling
-[10Jul2025 00:33:52.821] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/32046, l='ServerLevel[world]', x=3.43, y=203.50, z=1008.90] died: Gearling fell from a high place
-[10Jul2025 00:33:53.239] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/31889, l='ServerLevel[world]', x=8.29, y=212.13, z=1016.99] died: Gearling was slain by Calamar892
-[10Jul2025 00:33:56.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Teleported Z3RO_Bruce to Calamar892]
-[10Jul2025 00:34:16.597] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/32234, l='ServerLevel[world]', x=13.12, y=212.00, z=1009.08] died: Gearling was slain by Calamar892
-[10Jul2025 00:34:22.124] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/32328, l='ServerLevel[world]', x=3.75, y=203.50, z=1009.02] died: Gearling fell from a high place
-[10Jul2025 00:34:22.845] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/32238, l='ServerLevel[world]', x=12.47, y=212.00, z=1010.69] died: Gearling was slain by Calamar892
-[10Jul2025 00:34:24.198] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/32271, l='ServerLevel[world]', x=12.57, y=212.00, z=1009.84] died: Gearling was slain by Calamar892
-[10Jul2025 00:34:28.570] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/32335, l='ServerLevel[world]', x=3.37, y=203.50, z=1008.60] died: Gearling fell from a high place
-[10Jul2025 00:34:36.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> esto que es la casa de contra?
-[10Jul2025 00:34:54.222] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/32540, l='ServerLevel[world]', x=2.48, y=207.00, z=1011.69] died: Gearling fell from a high place
-[10Jul2025 00:34:56.573] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/32413, l='ServerLevel[world]', x=-6.93, y=207.00, z=1005.36] died: Gearling hit the ground too hard
-[10Jul2025 00:34:57.459] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/32530, l='ServerLevel[world]', x=-3.51, y=207.00, z=1008.39] died: Gearling was slain by Calamar892
-[10Jul2025 00:34:57.770] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/32572, l='ServerLevel[world]', x=4.23, y=204.00, z=1008.48] died: Gearling fell from a high place
-[10Jul2025 00:34:59.721] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/32456, l='ServerLevel[world]', x=4.82, y=208.18, z=1004.44] died: Gearling was zapped to death by Calamar892
-[10Jul2025 00:35:00.450] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/32386, l='ServerLevel[world]', x=0.41, y=207.00, z=1007.36] died: Gearling was slain by Calamar892
-[10Jul2025 00:35:03.370] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/32596, l='ServerLevel[world]', x=3.17, y=203.50, z=1009.06] died: Gearling fell from a high place
-[10Jul2025 00:35:03.752] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/32582, l='ServerLevel[world]', x=-0.03, y=207.00, z=1016.61] died: Gearling was slain by Calamar892
-[10Jul2025 00:35:26.691] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/32576, l='ServerLevel[world]', x=1.40, y=207.00, z=1011.02] died: Gearling was slain by Calamar892
-[10Jul2025 00:35:33.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> te vas proden?
-[10Jul2025 00:35:34.424] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/32701, l='ServerLevel[world]', x=4.10, y=204.00, z=1008.71] died: Gearling fell from a high place
-[10Jul2025 00:35:36.424] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/32703, l='ServerLevel[world]', x=4.04, y=204.00, z=1009.03] died: Gearling fell from a high place
-[10Jul2025 00:35:40.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> go cas
-[10Jul2025 00:35:42.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> casa
-[10Jul2025 00:35:57.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> le dejo un pajaro a bruce para que lo pruebe?
-[10Jul2025 00:36:11.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> vengan full arriba
-[10Jul2025 00:36:11.818] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/32698, l='ServerLevel[world]', x=6.21, y=209.00, z=1011.88] died: Gearling was burnt to a crisp whilst fighting Z3RO_Bruce
-[10Jul2025 00:36:20.995] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/32705, l='ServerLevel[world]', x=-0.22, y=217.00, z=1009.53] died: Gearling was slain by Calamar892
-[10Jul2025 00:36:42.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> vengan afuera entonces
-[10Jul2025 00:37:33.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> toma bruce
-[10Jul2025 00:37:51.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> hostia
-[10Jul2025 00:37:52.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> mira este
-[10Jul2025 00:38:06.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> aca bruce
-[10Jul2025 00:40:41.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Set own game mode to Creative Mode]
-[10Jul2025 00:40:42.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> ven
-[10Jul2025 00:40:49.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> te voy a enseñar como follar
-[10Jul2025 00:41:21.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> si no te tepeas mejor
-[10Jul2025 00:41:34.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3RO_Bruce has made the advancement [Life Finds A Way]
-[10Jul2025 00:41:34.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3RO_Bruce has reached the goal [Prehistoric Elytra]
-[10Jul2025 00:41:34.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3RO_Bruce has made the advancement [Best Friends Forever]
-[10Jul2025 00:41:34.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> a ese
-[10Jul2025 00:41:44.278] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Z3RO_Bruce) moved wrongly! 0.31442076012126563
-[10Jul2025 00:41:44.332] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Z3RO_Bruce) moved wrongly! 0.7400108447751375
-[10Jul2025 00:41:44.378] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Z3RO_Bruce) moved wrongly! 1.201680348977361
-[10Jul2025 00:41:44.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Set own game mode to Survival Mode]
-[10Jul2025 00:41:51.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Z3RO_Bruce) moved wrongly! 0.30442200477887765
-[10Jul2025 00:41:51.328] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Z3RO_Bruce) moved wrongly! 0.7108027107125501
-[10Jul2025 00:41:51.375] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Z3RO_Bruce) moved wrongly! 1.0166612597156222
-[10Jul2025 00:41:51.426] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Z3RO_Bruce) moved wrongly! 1.2681304178992066
-[10Jul2025 00:41:51.476] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Z3RO_Bruce) moved wrongly! 1.4901541681423625
-[10Jul2025 00:42:31.276] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Z3RO_Bruce lost connection: Disconnected
-[10Jul2025 00:42:31.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3RO_Bruce left the game
-[10Jul2025 00:42:36.841] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Z3RO_Bruce[/127.135.0.86:43991] logged in with entity id 36232 at (42.1911636792921, 253.0, 994.5546570226587)
-[10Jul2025 00:42:36.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3RO_Bruce joined the game
-[10Jul2025 00:43:07.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> shift y click derecho para sentarlo o para que te siga
-[10Jul2025 00:43:19.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> control para bajar
-[10Jul2025 00:43:24.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> y con shift te tiras
-[10Jul2025 00:43:49.420] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PrincessAuge lost connection: Disconnected
-[10Jul2025 00:43:49.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrincessAuge left the game
-[10Jul2025 00:44:18.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Teleported Calamar892 to Z3RO_Bruce]
-[10Jul2025 00:44:19.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Set own game mode to Creative Mode]
-[10Jul2025 00:44:24.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Set own game mode to Spectator Mode]
-[10Jul2025 00:44:41.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> te enseño
-[10Jul2025 00:44:44.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Set own game mode to Creative Mode]
-[10Jul2025 00:44:45.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Set own game mode to Spectator Mode]
-[10Jul2025 00:44:45.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Set own game mode to Survival Mode]
-[10Jul2025 00:44:48.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> bruce
-[10Jul2025 00:45:17.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> bruce ven
-[10Jul2025 00:45:39.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> quedate en uno
-[10Jul2025 00:45:51.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> si aterrizas se le regenera el vuelo
-[10Jul2025 00:46:33.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> bruce vive en una peli porno gay
-[10Jul2025 00:46:50.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> tu internet
-[10Jul2025 00:47:18.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> ven pero
-[10Jul2025 00:47:19.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> arriba
-[10Jul2025 00:48:09.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Set own game mode to Spectator Mode]
-[10Jul2025 00:48:13.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Teleported Calamar892 to Z3RO_Bruce]
-[10Jul2025 00:48:30.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> lo dejaste deambulando
-[10Jul2025 00:48:37.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> que se va a su bola
-[10Jul2025 00:48:52.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> pues en el aire duro
-[10Jul2025 00:49:10.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Teleported Z3RO_Bruce to Calamar892]
-[10Jul2025 00:49:25.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> aca
-[10Jul2025 00:49:26.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> mira
-[10Jul2025 00:49:31.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Set own game mode to Creative Mode]
-[10Jul2025 00:49:54.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> si
-[10Jul2025 00:50:20.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> salte y vuelve a entrar que vas mas lag no lo estas viendo por eso
-[10Jul2025 00:50:24.123] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Z3RO_Bruce lost connection: Disconnected
-[10Jul2025 00:50:24.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3RO_Bruce left the game
-[10Jul2025 00:50:27.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Set own game mode to Spectator Mode]
-[10Jul2025 00:50:29.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Set own game mode to Creative Mode]
-[10Jul2025 00:50:36.425] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@487bb7a9[id=<null>,name=Z3RO_Bruce,properties={},legacy=false] (/127.135.0.86:47223) lost connection: Disconnected
-[10Jul2025 00:50:42.437] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Z3RO_Bruce[/127.135.0.86:59157] logged in with entity id 41846 at (41.66593103528621, 68.0, 965.5013802915254)
-[10Jul2025 00:50:42.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3RO_Bruce joined the game
-[10Jul2025 00:51:08.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Calamar892> yo no te veo ni moviendote
-[10Jul2025 00:51:46.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Set own game mode to Spectator Mode]
-[10Jul2025 00:51:46.374] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Z3RO_Bruce lost connection: Disconnected
-[10Jul2025 00:51:46.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3RO_Bruce left the game
-[10Jul2025 00:51:52.485] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Z3RO_Bruce[/127.135.0.86:44893] logged in with entity id 41996 at (71.4288309912766, 66.0, 971.7483509622109)
-[10Jul2025 00:51:52.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3RO_Bruce joined the game
-[10Jul2025 00:52:40.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Set own game mode to Creative Mode]
-[10Jul2025 00:52:42.318] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Z3RO_Bruce lost connection: Disconnected
-[10Jul2025 00:52:42.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3RO_Bruce left the game
-[10Jul2025 00:52:47.290] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Z3RO_Bruce[/127.135.0.86:58067] logged in with entity id 42397 at (94.07081946530346, 132.57487308580593, 991.7853437603928)
-[10Jul2025 00:52:47.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3RO_Bruce joined the game
-[10Jul2025 00:53:01.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Set own game mode to Spectator Mode]
-[10Jul2025 00:53:02.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Set own game mode to Survival Mode]
-[10Jul2025 00:53:08.424] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Z3RO_Bruce lost connection: Disconnected
-[10Jul2025 00:53:08.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3RO_Bruce left the game
-[10Jul2025 01:08:13.415] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/49519, l='ServerLevel[world]', x=-144.17, y=-20.00, z=69.05] died: Toxic Slime was killed
-[10Jul2025 01:09:14.414] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/50055, l='ServerLevel[world]', x=-89.75, y=-20.00, z=124.60] died: Toxic Slime was killed
-[10Jul2025 01:09:41.415] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/49964, l='ServerLevel[world]', x=-60.26, y=-20.00, z=-12.26] died: Toxic Slime was killed
-[10Jul2025 01:09:41.416] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/49980, l='ServerLevel[world]', x=-49.26, y=-20.00, z=43.74] died: Toxic Slime was killed
-[10Jul2025 01:10:53.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Those Were the Days]
-[10Jul2025 01:13:26.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [War Pigs]
-[10Jul2025 01:15:10.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Shiny buddy]
-[10Jul2025 01:21:26.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Strange Biomes]
-[10Jul2025 01:21:26.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Hellfire Mantle]
-[10Jul2025 01:26:20.687] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: gibro[/127.165.156.218:41063] logged in with entity id 60545 at (76.68196180733818, 94.90606639441442, 976.7999384819874)
-[10Jul2025 01:26:20.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gibro joined the game
-[10Jul2025 01:30:09.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gibro has made the advancement [Cover Me with Diamonds]
-[10Jul2025 01:35:07.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gibro has made the advancement [Sneak 100]
-[10Jul2025 01:35:25.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gibro was slain by Gearling
-[10Jul2025 01:41:26.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gibro has made the advancement [Penteconter]
-[10Jul2025 01:43:33.800] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Calamar892) moved wrongly! 0.4129292643261806
-[10Jul2025 01:46:40.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gibro was slain by Gearling
-[10Jul2025 01:50:58.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gibro was blown up by Skeleton Creeper
-[10Jul2025 01:53:32.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gibro hit the ground too hard
-[10Jul2025 01:59:25.743] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SuperGlueEntity['Super Glue'/77431, l='ServerLevel[world]', x=-461.50, y=79.00, z=-1306.50]
-[10Jul2025 01:59:25.744] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SuperGlueEntity['Super Glue'/77432, l='ServerLevel[world]', x=-462.00, y=82.00, z=-1306.50]
-[10Jul2025 01:59:25.744] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SuperGlueEntity['Super Glue'/77433, l='ServerLevel[world]', x=-462.50, y=85.00, z=-1306.50]
-[10Jul2025 01:59:25.744] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: WitherSkeleton['Wither Skeleton'/77434, l='ServerLevel[world]', x=-456.46, y=80.00, z=-1302.46]
-[10Jul2025 01:59:25.744] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemFrame['Item Frame'/77435, l='ServerLevel[world]', x=-460.50, y=16.50, z=-1296.97]
-[10Jul2025 01:59:25.745] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemFrame['Item Frame'/77436, l='ServerLevel[world]', x=-462.50, y=16.50, z=-1296.97]
-[10Jul2025 01:59:26.200] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SuperGlueEntity['Super Glue'/77455, l='ServerLevel[world]', x=-463.50, y=79.00, z=-1351.50]
-[10Jul2025 01:59:33.854] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Calamar892) moved wrongly! 0.2690545688384418
-[10Jul2025 01:59:33.902] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Calamar892) moved wrongly! 0.8532128077712287
-[10Jul2025 01:59:33.953] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Calamar892) moved wrongly! 0.26255762103141933
-[10Jul2025 02:02:34.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Straddle My Ol' Saddle]
-[10Jul2025 02:04:22.006] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Calamar892) moved wrongly! 0.37899587218885245
-[10Jul2025 02:04:22.052] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Calamar892) moved wrongly! 0.679748796081185
-[10Jul2025 02:04:22.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Calamar892) moved wrongly! 0.9358540508767419
-[10Jul2025 02:04:22.153] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Calamar892) moved wrongly! 1.1680692281170195
-[10Jul2025 02:04:27.261] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SuperGlueEntity['Super Glue'/80764, l='ServerLevel[world]', x=-868.50, y=72.00, z=-1777.50]
-[10Jul2025 02:04:27.262] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SuperGlueEntity['Super Glue'/80765, l='ServerLevel[world]', x=-868.50, y=78.00, z=-1776.50]
-[10Jul2025 02:04:27.262] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SuperGlueEntity['Super Glue'/80766, l='ServerLevel[world]', x=-868.50, y=75.00, z=-1777.00]
-[10Jul2025 02:04:27.262] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemFrame['Item Frame'/80767, l='ServerLevel[world]', x=-879.50, y=74.03, z=-1790.50]
-[10Jul2025 02:04:27.262] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemFrame['Item Frame'/80768, l='ServerLevel[world]', x=-879.50, y=73.03, z=-1790.50]
-[10Jul2025 02:04:27.262] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemFrame['Item Frame'/80769, l='ServerLevel[world]', x=-879.50, y=75.03, z=-1791.50]
-[10Jul2025 02:04:27.262] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemFrame['Item Frame'/80770, l='ServerLevel[world]', x=-876.50, y=75.03, z=-1791.50]
-[10Jul2025 02:04:27.262] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemFrame['Item Frame'/80771, l='ServerLevel[world]', x=-876.50, y=74.03, z=-1791.50]
-[10Jul2025 02:04:27.262] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemFrame['Item Frame'/80772, l='ServerLevel[world]', x=-876.50, y=73.03, z=-1791.50]
-[10Jul2025 02:04:27.263] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: WitherSkeleton['Wither Skeleton'/80773, l='ServerLevel[world]', x=-872.46, y=73.00, z=-1782.46]
-[10Jul2025 02:04:27.453] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: WitherSkeleton['Wither Skeleton'/80793, l='ServerLevel[world]', x=-860.54, y=73.00, z=-1777.46]
-[10Jul2025 02:06:01.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [A Terrible Fortress]
-[10Jul2025 02:07:10.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gibro was slain by Gearling
-[10Jul2025 02:07:54.899] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Calamar892) moved wrongly! 0.28022547990708074
-[10Jul2025 02:07:54.989] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Calamar892) moved wrongly! 0.6849982985201689
-[10Jul2025 02:07:55.001] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Calamar892) moved wrongly! 0.9020371369219682
-[10Jul2025 02:14:16.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gibro was shot by Skeleton
-[10Jul2025 02:15:09.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Shinier Buddy]
-[10Jul2025 02:18:51.415] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/90076, l='ServerLevel[world]', x=-105.50, y=-20.00, z=149.50] died: Toxic Slime was killed
-[10Jul2025 02:18:51.415] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/90077, l='ServerLevel[world]', x=-108.59, y=-20.00, z=146.49] died: Toxic Slime was killed
-[10Jul2025 02:20:10.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gibro was slain by Gearling
-[10Jul2025 02:20:17.320] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gibro lost connection: Disconnected
-[10Jul2025 02:20:17.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gibro left the game
+[10Jul2025 02:44:47.540] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[10Jul2025 02:44:47.544] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[10Jul2025 02:44:50.267] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[10Jul2025 02:44:50.277] [main/INFO] [mixin-transmog/]: Mixin Transmogrifier is definitely up to no good...
+[10Jul2025 02:44:50.310] [main/INFO] [mixin-transmog/]: crimes against java were committed
+[10Jul2025 02:44:50.336] [main/INFO] [mixin-transmog/]: Original mixin transformation service successfully crobbed by mixin-transmogrifier!
+[10Jul2025 02:44:50.388] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/123/servidor_minecraft/mods/Connector-1.0.0-beta.46+1.20.1.jar%23257%23260!/ Service=ModLauncher Env=SERVER
+[10Jul2025 02:44:51.051] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/123/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[10Jul2025 02:44:51.053] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/123/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[10Jul2025 02:44:51.053] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/123/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[10Jul2025 02:44:51.054] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/123/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[10Jul2025 02:44:51.702] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: athena. Using Mod File: /workspaces/123/servidor_minecraft/mods/athena-forge-1.20.1-3.1.2.jar
+[10Jul2025 02:44:51.702] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: resourcefullib. Using Mod File: /workspaces/123/servidor_minecraft/mods/resourcefullib-forge-1.20.1-2.1.29.jar
+[10Jul2025 02:44:51.702] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 65 dependencies adding them to mods collection
+[10Jul2025 02:44:52.659] [main/INFO] [org.sinytra.connector.locator.DependencyResolver/]: Dependency resolution found 4 candidates to load
+[10Jul2025 02:44:54.456] [main/INFO] [org.sinytra.connector.service.hacks.ModuleLayerMigrator/]: Successfully made module authlib transformable
+[10Jul2025 02:44:57.400] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[10Jul2025 02:44:58.164] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[10Jul2025 02:44:58.183] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[10Jul2025 02:44:58.289] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.19.7+mc1.20.1: 84 options available, 0 override(s) found
+[10Jul2025 02:44:58.290] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[10Jul2025 02:44:58.306] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[10Jul2025 02:44:58.432] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 255 options available, 0 override(s) found
+[10Jul2025 02:44:58.539] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2025 02:44:58.701] [main/WARN] [mixin/]: Reference map 'Aquamirae.refmap.json' for aquamirae.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2025 02:44:58.750] [main/WARN] [mixin/]: Reference map 'corpsecurioscompat.refmap.json' for gravestonecurioscompat.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2025 02:44:58.762] [main/INFO] [fpsreducer/]: OptiFine was NOT detected.
+[10Jul2025 02:44:58.765] [main/INFO] [fpsreducer/]: OptiFabric was NOT detected.
+[10Jul2025 02:44:58.840] [main/WARN] [mixin/]: Reference map 'limitedchunks.refmap.json' for limitedchunks.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2025 02:44:58.888] [main/WARN] [mixin/]: Reference map 'mixins.call_of_yucutan.refmap.json' for mixins.call_of_yucutan.json could not be read. If this is a development environment you can ignore this message
+[10Jul2025 02:44:58.960] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2025 02:44:59.034] [main/WARN] [mixin/]: Reference map '' for adapter.init.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2025 02:44:59.784] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/MouseHandler for invalid dist DEDICATED_SERVER
+[10Jul2025 02:44:59.785] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/MouseHandler (java.lang.RuntimeException: Attempted to load class net/minecraft/client/MouseHandler for invalid dist DEDICATED_SERVER)
+[10Jul2025 02:44:59.785] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.MouseHandler was not found fabric-screen-api-v1.mixins.json:MouseMixin from mod fabric_screen_api_v1
+[10Jul2025 02:44:59.786] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[10Jul2025 02:44:59.787] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
+[10Jul2025 02:44:59.787] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found fabric-screen-api-v1.mixins.json:ScreenAccessor from mod fabric_screen_api_v1
+[10Jul2025 02:45:00.204] [main/WARN] [mixin/]: Error loading class: dev/latvian/mods/kubejs/recipe/RecipesEventJS (java.lang.ClassNotFoundException: dev.latvian.mods.kubejs.recipe.RecipesEventJS)
+[10Jul2025 02:45:00.205] [main/WARN] [mixin/]: @Mixin target dev.latvian.mods.kubejs.recipe.RecipesEventJS was not found sliceanddice.mixins.json:RecipeEventJSMixin from mod sliceanddice
+[10Jul2025 02:45:00.743] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[10Jul2025 02:45:00.743] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
+[10Jul2025 02:45:00.744] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found relics.mixins.json:ScreenMixin from mod relics
+[10Jul2025 02:45:00.916] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
+[10Jul2025 02:45:00.916] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin from mod deeperdarker
+[10Jul2025 02:45:01.267] [main/WARN] [mixin/]: Error loading class: dev/ftb/mods/ftbchunks/data/ClaimedChunkManagerImpl (java.lang.ClassNotFoundException: dev.ftb.mods.ftbchunks.data.ClaimedChunkManagerImpl)
+[10Jul2025 02:45:01.268] [main/WARN] [mixin/]: @Mixin target dev.ftb.mods.ftbchunks.data.ClaimedChunkManagerImpl was not found doespotatotick.mixins.json:ClaimedChunkManagerAccessor from mod doespotatotick
+[10Jul2025 02:45:01.577] [main/INFO] [ARRP/]: I used the json to destroy the json
+[10Jul2025 02:45:01.582] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[10Jul2025 02:45:02.168] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (17.77 s after launch)
+[10Jul2025 02:45:02.556] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin from mod modernfix should be final
+[10Jul2025 02:45:02.557] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin from mod modernfix should be final
+[10Jul2025 02:45:05.790] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 3618 milliseconds
+[10Jul2025 02:45:05.963] [main/WARN] [mixin/]: Method overwrite conflict for setBlockState in the_bumblezone-common.mixins.json:blocks.FallingBlockEntityAccessor from mod the_bumblezone, previously written by com.github.alexmodguy.alexscaves.mixin.FallingBlockEntityMixin. Skipping method.
+[10Jul2025 02:45:08.424] [main/WARN] [mixin/]: Method overwrite conflict for scheduleRandomTick in corgilib-common.mixins.json:chunk.MixinChunkAccess from mod corgilib, previously written by dev.corgitaco.ohthetreesyoullgrow.mixin.chunk.MixinChunkAccess. Skipping method.
+[10Jul2025 02:45:08.425] [main/WARN] [mixin/]: Method overwrite conflict for getScheduledRandomTicks in corgilib-common.mixins.json:chunk.MixinChunkAccess from mod corgilib, previously written by dev.corgitaco.ohthetreesyoullgrow.mixin.chunk.MixinChunkAccess. Skipping method.
+[10Jul2025 02:45:08.457] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin from mod refurbished_furniture::handler$bkn000$refurbished_furniture$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[10Jul2025 02:45:09.374] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin from mod alexscaves has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+
+[10Jul2025 02:45:09.512] [main/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method m_47505_ in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[10Jul2025 02:45:09.798] [main/INFO] [me.steinborn.krypton.mod.shared.KryptonSharedInitializer/]: Compression will use libdeflate (Linux x86_64), encryption will use OpenSSL 3.0.x (Linux x86_64)
+[10Jul2025 02:45:09.799] [main/INFO] [me.steinborn.krypton.mod.server.KryptonServerInitializer/]: Krypton is now accelerating your Minecraft server's networking stack 🚀
+[10Jul2025 02:45:10.259] [modloading-worker-0/INFO] [me.drex.antixray.common.AntiXray/]: Successfully initialized antixray for forge
+[10Jul2025 02:45:10.308] [modloading-worker-0/INFO] [Better Compatibility Checker/]: Better Compatibility Checker starting
+[10Jul2025 02:45:10.620] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[10Jul2025 02:45:10.639] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[10Jul2025 02:45:10.672] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[10Jul2025 02:45:10.672] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[10Jul2025 02:45:10.834] [modloading-worker-0/INFO] [graveyard/]: Registered JSON trade offer adapter.
+[10Jul2025 02:45:11.000] [modloading-worker-0/INFO] [guardribbits/]: Initializing the Ribbit Guardians!
+[10Jul2025 02:45:11.763] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[10Jul2025 02:45:11.961] [modloading-worker-0/INFO] [com.leclowndu93150.corpsecurioscompat.Main/]: Hello from Gravestone Curios Compat!
+[10Jul2025 02:45:12.002] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[10Jul2025 02:45:12.004] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[10Jul2025 02:45:12.007] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[10Jul2025 02:45:12.007] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[10Jul2025 02:45:12.007] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[10Jul2025 02:45:12.008] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[10Jul2025 02:45:12.008] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[10Jul2025 02:45:12.635] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: memorysettings.json
+[10Jul2025 02:45:12.642] [modloading-worker-0/WARN] [com.memorysettings.config.CommonConfiguration/]: You have more memory allocated(12288mb) than recommended for this pack, the maximum is: 8500mb.
+The recommended amount for your system is: 6997 mb.
+
+[10Jul2025 02:45:12.663] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 8.3.
+[10Jul2025 02:45:13.132] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[10Jul2025 02:45:13.154] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[10Jul2025 02:45:13.335] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone items
+[10Jul2025 02:45:13.413] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Blocks
+[10Jul2025 02:45:13.414] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@9763e61 on thread Thread[modloading-worker-0,5,main]
+[10Jul2025 02:45:13.415] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.RenderLayer
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:97) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:48) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:26) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:32) ~[eventbus-6.0.5.jar%2352!/:6.0.5+6.0.5+master.eb8e549b]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at java.lang.ClassLoader.defineClass0(Native Method) ~[?:?]
+	at java.lang.System$2.defineClass(System.java:2324) ~[?:?]
+	at java.lang.invoke.MethodHandles$Lookup$ClassDefiner.defineClass(MethodHandles.java:2439) ~[?:?]
+	at java.lang.invoke.MethodHandles$Lookup$ClassDefiner.defineClassAsLookup(MethodHandles.java:2420) ~[?:?]
+	at java.lang.invoke.MethodHandles$Lookup.defineHiddenClass(MethodHandles.java:2127) ~[?:?]
+	at java.lang.invoke.InnerClassLambdaMetafactory.generateInnerClass(InnerClassLambdaMetafactory.java:407) ~[?:?]
+	at java.lang.invoke.InnerClassLambdaMetafactory.spinInnerClass(InnerClassLambdaMetafactory.java:315) ~[?:?]
+	at java.lang.invoke.InnerClassLambdaMetafactory.buildCallSite(InnerClassLambdaMetafactory.java:228) ~[?:?]
+	at java.lang.invoke.LambdaMetafactory.metafactory(LambdaMetafactory.java:341) ~[?:?]
+	at java.lang.invoke.BootstrapMethodInvoker.invoke(BootstrapMethodInvoker.java:134) ~[?:?]
+	at java.lang.invoke.CallSite.makeSite(CallSite.java:315) ~[?:?]
+	at java.lang.invoke.MethodHandleNatives.linkCallSiteImpl(MethodHandleNatives.java:281) ~[?:?]
+	at java.lang.invoke.MethodHandleNatives.linkCallSite(MethodHandleNatives.java:271) ~[?:?]
+	at com.obscuria.obscureapi.client.renderer.PatreonLayer$Mode.<clinit>(PatreonLayer.java:55) ~[obscure_api-15.jar%23374!/:com.obscuria]
+	at com.obscuria.obscureapi.ObscureAPIConfig$Client.<clinit>(ObscureAPIConfig.java:28) ~[obscure_api-15.jar%23374!/:com.obscuria]
+	at com.obscuria.obscureapi.ObscureAPIConfig.register(ObscureAPIConfig.java:46) ~[obscure_api-15.jar%23374!/:com.obscuria]
+	at com.obscuria.obscureapi.ObscureAPI.<init>(ObscureAPI.java:69) ~[obscure_api-15.jar%23374!/:com.obscuria]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:481) ~[?:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:70) ~[javafmllanguage-1.20.1-47.3.7.jar%23421!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:124) ~[fmlcore-1.20.1-47.3.7.jar%23420!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[10Jul2025 02:45:13.421] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
+[10Jul2025 02:45:13.491] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.6 initializing! Commit hash: 338bfa0aec952fa51656e8f61bd621ca9b3b2e00
+[10Jul2025 02:45:13.507] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Wood
+[10Jul2025 02:45:13.508] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Block Entities
+[10Jul2025 02:45:13.508] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Entities
+[10Jul2025 02:45:13.509] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Creative Tabs
+[10Jul2025 02:45:13.509] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Sounds
+[10Jul2025 02:45:13.510] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Block Predicate
+[10Jul2025 02:45:13.514] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone State Providers
+[10Jul2025 02:45:13.516] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Tree Decorators
+[10Jul2025 02:45:13.528] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Features
+[10Jul2025 02:45:13.530] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Structure Pieces
+[10Jul2025 02:45:13.532] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Structure Types
+[10Jul2025 02:45:13.536] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Configured Features
+[10Jul2025 02:45:13.561] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Vegetation Configured Features
+[10Jul2025 02:45:13.663] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Tree Configured Features
+[10Jul2025 02:45:13.666] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Vanilla Configured Features
+[10Jul2025 02:45:13.674] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes You'll Go Overworld Configured Features
+[10Jul2025 02:45:13.683] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Placed Features
+[10Jul2025 02:45:13.742] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Tree Placed Features
+[10Jul2025 02:45:13.762] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Vegetation Placed Features
+[10Jul2025 02:45:13.765] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Vanilla Placed Features
+[10Jul2025 02:45:13.765] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Surface Rules
+[10Jul2025 02:45:13.779] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Template Pools
+[10Jul2025 02:45:13.793] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biome's We've Gone Village Template Pools
+[10Jul2025 02:45:13.794] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Poi Types
+[10Jul2025 02:45:13.797] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Villager Professions
+[10Jul2025 02:45:13.798] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Structure Processors
+[10Jul2025 02:45:13.840] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[10Jul2025 02:45:13.843] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[10Jul2025 02:45:13.844] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[10Jul2025 02:45:13.848] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[10Jul2025 02:45:13.850] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[10Jul2025 02:45:13.852] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[10Jul2025 02:45:13.854] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[10Jul2025 02:45:14.181] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
+[10Jul2025 02:45:14.559] [modloading-worker-0/INFO] [quark/]: Initializing TerraBlender underground biome compat
+[10Jul2025 02:45:14.840] [modloading-worker-0/INFO] [quark-zeta/]: Discovered 164 modules to load.
+[10Jul2025 02:45:14.840] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Abacus...
+[10Jul2025 02:45:14.847] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Adjustable Chat...
+[10Jul2025 02:45:14.848] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ambient Discs...
+[10Jul2025 02:45:14.851] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ancient Tomes...
+[10Jul2025 02:45:14.873] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ancient Wood...
+[10Jul2025 02:45:14.891] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Armed Armor Stands...
+[10Jul2025 02:45:14.892] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Auto Walk Keybind...
+[10Jul2025 02:45:14.892] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Automatic Recipe Unlock...
+[10Jul2025 02:45:14.892] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Automatic Tool Restock...
+[10Jul2025 02:45:14.896] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Azalea Wood...
+[10Jul2025 02:45:14.897] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Back Button Keybind...
+[10Jul2025 02:45:14.897] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Backpack...
+[10Jul2025 02:45:14.906] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Beacon Redirection...
+[10Jul2025 02:45:14.907] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Better Elytra Rocket...
+[10Jul2025 02:45:14.908] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Big Stone Clusters...
+[10Jul2025 02:45:14.919] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Blossom Trees...
+[10Jul2025 02:45:14.921] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Bottled Cloud...
+[10Jul2025 02:45:14.926] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Buckets Show Inhabitants...
+[10Jul2025 02:45:14.927] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Camera...
+[10Jul2025 02:45:14.930] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Campfires Boost Elytra...
+[10Jul2025 02:45:14.935] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Celebratory Lamps...
+[10Jul2025 02:45:14.935] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chains Connect Blocks...
+[10Jul2025 02:45:14.936] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chest Searching...
+[10Jul2025 02:45:14.936] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chorus Vegetation...
+[10Jul2025 02:45:14.941] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chute...
+[10Jul2025 02:45:14.944] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Climate Control Remover...
+[10Jul2025 02:45:14.945] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Color Runes...
+[10Jul2025 02:45:14.951] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Compasses Work Everywhere...
+[10Jul2025 02:45:14.954] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Compressed Blocks...
+[10Jul2025 02:45:14.955] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Coral On Cactus...
+[10Jul2025 02:45:14.957] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Corundum...
+[10Jul2025 02:45:14.996] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Crabs...
+[10Jul2025 02:45:15.000] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[10Jul2025 02:45:15.001] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Crafter...
+[10Jul2025 02:45:15.005] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[10Jul2025 02:45:15.005] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Crate...
+[10Jul2025 02:45:15.007] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Diamond Repair...
+[10Jul2025 02:45:15.009] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Dispensers Place Blocks...
+[10Jul2025 02:45:15.011] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Double Door Opening...
+[10Jul2025 02:45:15.011] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Dragon Scales...
+[10Jul2025 02:45:15.015] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Duskbound Blocks...
+[10Jul2025 02:45:15.016] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Dyeable Item Frames...
+[10Jul2025 02:45:15.018] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Easy Transfering...
+[10Jul2025 02:45:15.020] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Elytra Indicator...
+[10Jul2025 02:45:15.020] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Emotes...
+[10Jul2025 02:45:15.021] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Enchantment Predicates...
+[10Jul2025 02:45:15.021] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Enchantments Begone...
+[10Jul2025 02:45:15.022] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ender Watcher...
+[10Jul2025 02:45:15.023] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Endermosh Music Disc...
+[10Jul2025 02:45:15.025] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Enhanced Ladders...
+[10Jul2025 02:45:15.028] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Expanded Item Interactions...
+[10Jul2025 02:45:15.029] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[10Jul2025 02:45:15.031] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Fairy Rings...
+[10Jul2025 02:45:15.032] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Fallen Logs...
+[10Jul2025 02:45:15.034] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Feeding Trough...
+[10Jul2025 02:45:15.036] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[10Jul2025 02:45:15.036] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Forgotten...
+[10Jul2025 02:45:15.042] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Foxhound...
+[10Jul2025 02:45:15.044] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Framed Glass...
+[10Jul2025 02:45:15.044] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Game Nerfs...
+[10Jul2025 02:45:15.045] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Glass Item Frame...
+[10Jul2025 02:45:15.048] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[10Jul2025 02:45:15.049] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Glass Shard...
+[10Jul2025 02:45:15.051] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Glimmering Weald...
+[10Jul2025 02:45:15.068] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Gold Bars...
+[10Jul2025 02:45:15.069] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Gold Tools Have Fortune...
+[10Jul2025 02:45:15.070] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Grab Chickens...
+[10Jul2025 02:45:15.071] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Grate...
+[10Jul2025 02:45:15.074] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Gravisand...
+[10Jul2025 02:45:15.076] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Greener Grass...
+[10Jul2025 02:45:15.077] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hedges...
+[10Jul2025 02:45:15.078] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hoe Harvesting...
+[10Jul2025 02:45:15.079] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hollow Logs...
+[10Jul2025 02:45:15.080] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Horses Swim...
+[10Jul2025 02:45:15.081] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hotbar Changer...
+[10Jul2025 02:45:15.082] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Improved Sponges...
+[10Jul2025 02:45:15.082] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Improved Tooltips...
+[10Jul2025 02:45:15.083] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Industrial Palette...
+[10Jul2025 02:45:15.087] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Inventory Sorting...
+[10Jul2025 02:45:15.089] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Iron Rod...
+[10Jul2025 02:45:15.095] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Item Sharing...
+[10Jul2025 02:45:15.096] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Japanese Palette...
+[10Jul2025 02:45:15.097] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Leaf Carpet...
+[10Jul2025 02:45:15.098] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Lock Rotation...
+[10Jul2025 02:45:15.099] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Long Range Pick Block...
+[10Jul2025 02:45:15.099] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Magma Keeps Concrete Powder...
+[10Jul2025 02:45:15.100] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Magnets...
+[10Jul2025 02:45:15.103] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[10Jul2025 02:45:15.104] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Map Washing...
+[10Jul2025 02:45:15.107] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Matrix Enchanting...
+[10Jul2025 02:45:15.115] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[10Jul2025 02:45:15.116] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Metal Buttons...
+[10Jul2025 02:45:15.117] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Microcrafting Helper...
+[10Jul2025 02:45:15.117] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Midori...
+[10Jul2025 02:45:15.118] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Monster Box...
+[10Jul2025 02:45:15.121] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Banner Layers...
+[10Jul2025 02:45:15.124] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Brick Types...
+[10Jul2025 02:45:15.126] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Mud Blocks...
+[10Jul2025 02:45:15.127] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Note Block Sounds...
+[10Jul2025 02:45:15.129] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Potted Plants...
+[10Jul2025 02:45:15.132] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[10Jul2025 02:45:15.133] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Villagers...
+[10Jul2025 02:45:15.134] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Narrator Readout...
+[10Jul2025 02:45:15.135] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Nether Brick Fence Gate...
+[10Jul2025 02:45:15.136] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Nether Obsidian Spikes...
+[10Jul2025 02:45:15.137] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module New Stone Types...
+[10Jul2025 02:45:15.141] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module No Durability On Cosmetics...
+[10Jul2025 02:45:15.142] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module No More Lava Pockets...
+[10Jul2025 02:45:15.143] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Obsidian Plate...
+[10Jul2025 02:45:15.144] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Overlay Shader...
+[10Jul2025 02:45:15.145] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Parrot Eggs...
+[10Jul2025 02:45:15.147] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[10Jul2025 02:45:15.148] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pat The Dogs...
+[10Jul2025 02:45:15.151] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pathfinder Maps...
+[10Jul2025 02:45:15.154] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Permafrost...
+[10Jul2025 02:45:15.155] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Petals On Water...
+[10Jul2025 02:45:15.156] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pickarang...
+[10Jul2025 02:45:15.160] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pig Litters...
+[10Jul2025 02:45:15.160] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pipes...
+[10Jul2025 02:45:15.169] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pistons Move Tile Entities...
+[10Jul2025 02:45:15.170] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Poison Potato Usage...
+[10Jul2025 02:45:15.171] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Quick Armor Swapping...
+[10Jul2025 02:45:15.172] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Rainbow Lamps...
+[10Jul2025 02:45:15.173] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Raw Metal Bricks...
+[10Jul2025 02:45:15.173] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Reacharound Placing...
+[10Jul2025 02:45:15.175] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Redstone Randomizer...
+[10Jul2025 02:45:15.177] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Renewable Spore Blossoms...
+[10Jul2025 02:45:15.178] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Replace Scaffolding...
+[10Jul2025 02:45:15.180] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Rope...
+[10Jul2025 02:45:15.182] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Safer Creatures...
+[10Jul2025 02:45:15.183] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Seed Pouch...
+[10Jul2025 02:45:15.185] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shear Vines...
+[10Jul2025 02:45:15.194] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shiba...
+[10Jul2025 02:45:15.195] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[10Jul2025 02:45:15.196] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shingles...
+[10Jul2025 02:45:15.196] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shulker Packing...
+[10Jul2025 02:45:15.197] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Simple Harvest...
+[10Jul2025 02:45:15.199] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Skull Pikes...
+[10Jul2025 02:45:15.202] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[10Jul2025 02:45:15.202] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Slabs To Blocks...
+[10Jul2025 02:45:15.204] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Slime In A Bucket...
+[10Jul2025 02:45:15.208] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Slimes To Magma Cubes...
+[10Jul2025 02:45:15.210] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Snow Golem Player Heads...
+[10Jul2025 02:45:15.211] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Soul Candles...
+[10Jul2025 02:45:15.216] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Soul Sandstone...
+[10Jul2025 02:45:15.216] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Spawner Replacer...
+[10Jul2025 02:45:15.216] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Spiral Spires...
+[10Jul2025 02:45:15.219] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Stonelings...
+[10Jul2025 02:45:15.221] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[10Jul2025 02:45:15.224] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Stools...
+[10Jul2025 02:45:15.226] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[10Jul2025 02:45:15.226] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Sturdy Stone...
+[10Jul2025 02:45:15.228] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Thatch...
+[10Jul2025 02:45:15.232] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Tiny Potato...
+[10Jul2025 02:45:15.235] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Torch Arrow...
+[10Jul2025 02:45:15.239] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Toretoise...
+[10Jul2025 02:45:15.244] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[10Jul2025 02:45:15.246] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Totem Of Holding...
+[10Jul2025 02:45:15.248] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Trowel...
+[10Jul2025 02:45:15.251] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Usage Ticker...
+[10Jul2025 02:45:15.251] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Uses For Curses...
+[10Jul2025 02:45:15.252] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Utility Recipes...
+[10Jul2025 02:45:15.252] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Animal Textures...
+[10Jul2025 02:45:15.254] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Bookshelves...
+[10Jul2025 02:45:15.254] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Chests...
+[10Jul2025 02:45:15.266] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Furnaces...
+[10Jul2025 02:45:15.272] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Ladders...
+[10Jul2025 02:45:15.273] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Selector...
+[10Jul2025 02:45:15.275] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Vertical Planks...
+[10Jul2025 02:45:15.275] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Vertical Slabs...
+[10Jul2025 02:45:15.287] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Vexes Die With Their Masters...
+[10Jul2025 02:45:15.288] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Villager Rerolling Rework...
+[10Jul2025 02:45:15.288] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Villagers Follow Emeralds...
+[10Jul2025 02:45:15.289] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Wooden Posts...
+[10Jul2025 02:45:15.292] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Wool Shuts Up Minecarts...
+[10Jul2025 02:45:15.293] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Wraith...
+[10Jul2025 02:45:15.295] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[10Jul2025 02:45:15.297] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Zombie Villagers On Normal...
+[10Jul2025 02:45:15.297] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Stone Variants...
+[10Jul2025 02:45:15.298] [modloading-worker-0/INFO] [quark-zeta/]: Constructed 164 modules.
+[10Jul2025 02:45:15.534] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/123/servidor_minecraft/config/quark-common.toml is not correct. Correcting
+[10Jul2025 02:45:15.619] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[10Jul2025 02:45:16.313] [main/INFO] [net.minecraft.resources.RegistryDataLoader/]: Capturing existing worldgen registries
+[10Jul2025 02:45:16.313] [main/INFO] [net.minecraft.resources.RegistryDataLoader/]: Found 0 injected RegistryDataLoader worldgen registries
+[10Jul2025 02:45:17.184] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@1e4c64e has been registered twice for the same name treechop:chop_wood.
+[10Jul2025 02:45:20.302] [main/WARN] [Moonlight/]: Failed to find custom wood type biomesoplenty:red_maple
+[10Jul2025 02:45:20.302] [main/WARN] [Moonlight/]: Failed to find custom wood type biomesoplenty:orange_maple
+[10Jul2025 02:45:20.302] [main/WARN] [Moonlight/]: Failed to find custom wood type biomesoplenty:yellow_maple
+[10Jul2025 02:45:20.323] [main/INFO] [Moonlight/]: Initialized block sets in 43ms
+[10Jul2025 02:45:20.961] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.Entity from class it.hurts.octostudios.rarcompat.items.necklace.ScarfOfInvisibilityItem
+[10Jul2025 02:45:22.611] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
+[10Jul2025 02:45:22.611] [main/INFO] [ModernFix/]: Instantiating Mojang DFU
+[10Jul2025 02:45:24.272] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
+[10Jul2025 02:45:24.295] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[10Jul2025 02:45:24.614] [main/INFO] [zeta/]: 'zeta' is enabling Zeta's piston structure resolver.
+[10Jul2025 02:45:24.655] [Thread-1/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[10Jul2025 02:45:24.992] [modloading-worker-0/INFO] [Better Compatibility Checker/]: Better Compatibility Checker setup
+[10Jul2025 02:45:25.077] [modloading-worker-0/INFO] [com.logprot.Logprot/]: Shields up!
+[10Jul2025 02:45:25.080] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
+[10Jul2025 02:45:25.085] [modloading-worker-0/INFO] [CorgiLib/]: Initializing network...
+[10Jul2025 02:45:25.091] [modloading-worker-0/INFO] [CorgiLib/]: Initialized network!
+[10Jul2025 02:45:25.106] [modloading-worker-0/INFO] [com.chunksending.ChunkSending/]: chunksending mod initialized
+[10Jul2025 02:45:25.112] [modloading-worker-0/INFO] [com.connectivity.Connectivity/]: Connectivity initialized
+[10Jul2025 02:45:25.179] [modloading-worker-0/INFO] [com.lootintegrations.LootintegrationsMod/]: lootintegrations mod initialized
+[10Jul2025 02:45:25.216] [modloading-worker-0/INFO] [com.dragonfight.DragonfightMod/]: dragonfight mod initialized
+[10Jul2025 02:45:25.254] [modloading-worker-0/INFO] [cn.foggyhillside.ends_delight.EndsDelight/]: HELLO FROM PREINIT
+[10Jul2025 02:45:25.255] [modloading-worker-0/INFO] [cn.foggyhillside.ends_delight.EndsDelight/]: DIRT BLOCK >> translation{key='block.minecraft.dirt', args=[]}
+[10Jul2025 02:45:25.296] [modloading-worker-0/INFO] [com.limitedchunks.LimitedChunks/]: Limited chunkloading initialized
+[10Jul2025 02:45:25.511] [modloading-worker-0/INFO] [com.betterchunkloading.BetterChunkLoading/]: betterchunkloading mod initialized
+[10Jul2025 02:45:25.709] [main/INFO] [ribbits/]: Registering Ribbit umbrella types...
+[10Jul2025 02:45:25.709] [main/INFO] [ribbits/]: Registering Ribbit professions...
+[10Jul2025 02:45:25.709] [main/INFO] [ribbits/]: Registering Ribbit instruments...
+[10Jul2025 02:45:25.710] [main/INFO] [ribbits/]: Registering Ribbit data serializers...
+[10Jul2025 02:45:25.765] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[10Jul2025 02:45:25.765] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[10Jul2025 02:45:25.765] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[10Jul2025 02:45:25.766] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[10Jul2025 02:45:25.766] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[10Jul2025 02:45:25.766] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[10Jul2025 02:45:25.766] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[10Jul2025 02:45:25.875] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[10Jul2025 02:45:25.949] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: OUTDATED Current: 1.20.1-1.4.8 Target: 1.20.1-1.4.13
+[10Jul2025 02:45:25.951] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Starting version check at https://mc-update-check.anthonyhilyard.com/499826
+[10Jul2025 02:45:25.958] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_0 to index 4 for type OVERWORLD
+[10Jul2025 02:45:25.958] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_1 to index 5 for type OVERWORLD
+[10Jul2025 02:45:25.958] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_2 to index 6 for type OVERWORLD
+[10Jul2025 02:45:26.012] [main/INFO] [journeymap/]: Initializing Packet Registries
+[10Jul2025 02:45:26.027] [main/INFO] [terrablender/]: Registered region yungscavebiomes:overworld to index 7 for type OVERWORLD
+[10Jul2025 02:45:26.136] [main/INFO] [Moonlight/]: Initialized color sets in 95ms
+[10Jul2025 02:45:26.161] [main/INFO] [terrablender/]: Registered region quark:biome_provider to index 8 for type OVERWORLD
+[10Jul2025 02:45:26.265] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Found status: UP_TO_DATE Current: 1.6.9 Target: null
+[10Jul2025 02:45:26.265] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamic_fps] Starting version check at https://api.lostluma.net/updates/dynamic-fps?platform=forge
+[10Jul2025 02:45:26.478] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
+[10Jul2025 02:45:27.482] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[10Jul2025 02:45:28.537] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/123/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23419!/assets/.mcassetsroot' uses unexpected schema
+[10Jul2025 02:45:28.538] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/123/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23419!/data/.mcassetsroot' uses unexpected schema
+[10Jul2025 02:45:29.006] [main/INFO] [com.simibubi.create.Create/]: Created 1144 recipes which will be injected into the game
+[10Jul2025 02:45:29.031] [main/INFO] [com.simibubi.create.Create/]: Created 40 tags which will be injected into the game
+[10Jul2025 02:45:29.163] [main/INFO] [ARRP/FileResourcePackProviderMixin/]: ARRP register - before user
+[10Jul2025 02:45:29.209] [main/INFO] [ARRP/ReloadableResourceManagerImplMixin/]: ARRP register - before vanilla
+[10Jul2025 02:45:29.211] [main/INFO] [ARRP/ReloadableResourceManagerImplMixin/]: ARRP register - after vanilla
+[10Jul2025 02:45:29.671] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+java.lang.NullPointerException: Cannot invoke "java.util.Map.get(Object)" because "json" is null
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:185) ~[fmlcore-1.20.1-47.3.7.jar%23420!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.7.jar%23420!/:?]
+[10Jul2025 02:45:29.672] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sliceanddice] Starting version check at https://api.modrinth.com/updates/slice-and-dice/forge_updates.json
+[10Jul2025 02:45:29.810] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sliceanddice] Found status: UP_TO_DATE Current: 3.4.1 Target: null
+[10Jul2025 02:45:29.810] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[10Jul2025 02:45:29.941] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.20.1-47.3.7.jar%23420!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.7.jar%23420!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	... 6 more
+[10Jul2025 02:45:29.942] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[10Jul2025 02:45:30.169] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[10Jul2025 02:45:30.169] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
+[10Jul2025 02:45:30.245] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Successfully loaded 0 data remolders!
+[10Jul2025 02:45:30.271] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: OUTDATED Current: 1.20.1-1.0.24 Target: 1.20.1-1.0.32
+[10Jul2025 02:45:30.271] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[10Jul2025 02:45:30.443] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.10.0.1 Target: null
+[10Jul2025 02:45:30.444] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aquamirae] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/aquamirae/versions.json
+[10Jul2025 02:45:30.456] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.20.1-47.3.7.jar%23420!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.7.jar%23420!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	... 6 more
+[10Jul2025 02:45:30.457] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [alexsmobsnaturalistcompat] Starting version check at https://api.modrinth.com/updates/v0NxYynO/forge_updates.json
+[10Jul2025 02:45:30.489] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+java.lang.NullPointerException: Cannot invoke "java.util.Map.get(Object)" because "promos" is null
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:189) ~[fmlcore-1.20.1-47.3.7.jar%23420!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.7.jar%23420!/:?]
+[10Jul2025 02:45:30.490] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
+[10Jul2025 02:45:30.902] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 20.2.13 Target: 20.2.13
+[10Jul2025 02:45:30.903] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[10Jul2025 02:45:30.999] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
+[10Jul2025 02:45:31.000] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
+[10Jul2025 02:45:31.023] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.20.1-47.3.7.jar%23420!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.7.jar%23420!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	... 6 more
+[10Jul2025 02:45:31.024] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[10Jul2025 02:45:31.051] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.20.1-47.3.7.jar%23420!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.7.jar%23420!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	... 6 more
+[10Jul2025 02:45:31.052] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
+[10Jul2025 02:45:31.064] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.20.1-47.3.7.jar%23420!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.7.jar%23420!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	... 6 more
+[10Jul2025 02:45:31.066] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.20.1
+[10Jul2025 02:45:31.174] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 12.0.0.4 Target: 12.0.0.4
+[10Jul2025 02:45:31.174] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[10Jul2025 02:45:31.262] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[10Jul2025 02:45:31.263] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.20.1
+[10Jul2025 02:45:31.364] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA Current: 17.1.19 Target: 17.1.19
+[10Jul2025 02:45:31.364] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[10Jul2025 02:45:31.375] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.13.40 Target: null
+[10Jul2025 02:45:31.375] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
+[10Jul2025 02:45:31.461] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: UP_TO_DATE Current: 1.1.25 Target: null
+[10Jul2025 02:45:31.894] [main/INFO] [com.cupboard.Cupboard/]: Loaded config for: connectivity.json
+[10Jul2025 02:45:34.369] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[10Jul2025 02:45:36.603] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:minecraft_121_update:blocks/spawner_loot_0
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'minecraft_121_update:deleted_mod_element'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.3.7-universal.jar%23424!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.7-universal.jar%23424!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[10Jul2025 02:45:36.794] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:minecraft_121_update:spawner_loot_2
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'minecraft_121_update:deleted_mod_element'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.3.7-universal.jar%23424!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.7-universal.jar%23424!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[10Jul2025 02:45:36.795] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:minecraft_121_update:spawner_loot_1
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'minecraft_121_update:deleted_mod_element'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.3.7-universal.jar%23424!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.7-universal.jar%23424!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[10Jul2025 02:45:37.081] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Loot Modification Manager has loaded 7 modifier groups
+[10Jul2025 02:45:37.179] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/bloodworm}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[10Jul2025 02:45:37.179] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/bloodworm}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[10Jul2025 02:45:37.179] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[10Jul2025 02:45:37.179] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/crown_squid}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[10Jul2025 02:45:37.179] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[10Jul2025 02:45:37.179] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[10Jul2025 02:45:37.345] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_furnace_boat as it's serializer returned null
+[10Jul2025 02:45:37.367] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[10Jul2025 02:45:37.368] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_door_from_river_logs_sawing as it's serializer returned null
+[10Jul2025 02:45:37.383] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jul2025 02:45:37.384] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_fence_from_poise_planks_sawing as it's serializer returned null
+[10Jul2025 02:45:37.384] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[10Jul2025 02:45:37.398] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[10Jul2025 02:45:37.399] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[10Jul2025 02:45:37.402] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_boards_from_driftwood_logs_sawing as it's serializer returned null
+[10Jul2025 02:45:37.403] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_brick_stairs_from_kelpy_cobblestone_stonecutting as it's serializer returned null
+[10Jul2025 02:45:37.403] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_slab_from_river_logs_sawing as it's serializer returned null
+[10Jul2025 02:45:37.404] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:chiseled_river_bookshelf as it's serializer returned null
+[10Jul2025 02:45:37.420] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jul2025 02:45:37.422] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:cracked_purpur_block_from_baking as it's serializer returned null
+[10Jul2025 02:45:37.423] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jul2025 02:45:37.423] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jul2025 02:45:37.437] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[10Jul2025 02:45:37.439] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jul2025 02:45:37.439] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_tile_slab_from_kelpy_cobblestone_tiles_stonecutting as it's serializer returned null
+[10Jul2025 02:45:37.439] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_boards_from_river_planks_sawing as it's serializer returned null
+[10Jul2025 02:45:37.449] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[10Jul2025 02:45:37.450] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jul2025 02:45:37.453] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jul2025 02:45:37.479] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_tiles as it's serializer returned null
+[10Jul2025 02:45:37.479] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jul2025 02:45:37.486] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_furnace_boat as it's serializer returned null
+[10Jul2025 02:45:37.486] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:chiseled_poise_bookshelf as it's serializer returned null
+[10Jul2025 02:45:37.492] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:eumus_brick_from_baking as it's serializer returned null
+[10Jul2025 02:45:37.493] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[10Jul2025 02:45:37.500] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jul2025 02:45:37.509] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jul2025 02:45:37.510] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_ladder as it's serializer returned null
+[10Jul2025 02:45:37.515] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe minecraft_121_update:copper_lock_crafting: com.google.gson.JsonSyntaxException: Unknown item 'minecraft_121_update:deleted_mod_element'
+[10Jul2025 02:45:37.516] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_tile_wall as it's serializer returned null
+[10Jul2025 02:45:37.522] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jul2025 02:45:37.534] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jul2025 02:45:37.536] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_fence_from_river_planks_sawing as it's serializer returned null
+[10Jul2025 02:45:37.539] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[10Jul2025 02:45:37.539] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_ladder as it's serializer returned null
+[10Jul2025 02:45:37.539] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_door_from_poise_stems_sawing as it's serializer returned null
+[10Jul2025 02:45:37.543] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[10Jul2025 02:45:37.550] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[10Jul2025 02:45:37.554] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_fence_from_driftwood_planks_sawing as it's serializer returned null
+[10Jul2025 02:45:37.555] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_boards as it's serializer returned null
+[10Jul2025 02:45:37.556] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[10Jul2025 02:45:37.564] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jul2025 02:45:37.564] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[10Jul2025 02:45:37.570] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jul2025 02:45:37.571] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_boards_from_poise_planks_sawing as it's serializer returned null
+[10Jul2025 02:45:37.572] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_sign_from_driftwood_logs_sawing as it's serializer returned null
+[10Jul2025 02:45:37.586] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[10Jul2025 02:45:37.587] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jul2025 02:45:37.587] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:large_poise_boat as it's serializer returned null
+[10Jul2025 02:45:37.593] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_boards_from_driftwood_planks_sawing as it's serializer returned null
+[10Jul2025 02:45:37.594] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jul2025 02:45:37.603] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jul2025 02:45:37.603] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[10Jul2025 02:45:37.603] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_ladder_from_poise_planks_sawing as it's serializer returned null
+[10Jul2025 02:45:37.604] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_ladder_from_poise_stems_sawing as it's serializer returned null
+[10Jul2025 02:45:37.605] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_tile_stairs as it's serializer returned null
+[10Jul2025 02:45:37.605] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_brick_wall_from_kelpy_cobblestone_bricks_stonecutting as it's serializer returned null
+[10Jul2025 02:45:37.605] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_chest as it's serializer returned null
+[10Jul2025 02:45:37.605] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_bricks_from_kelp as it's serializer returned null
+[10Jul2025 02:45:37.606] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jul2025 02:45:37.606] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[10Jul2025 02:45:37.607] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_tile_slab_from_kelpy_cobblestone_stonecutting as it's serializer returned null
+[10Jul2025 02:45:37.607] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[10Jul2025 02:45:37.608] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_tile_stairs_from_kelpy_cobblestone_tiles_stonecutting as it's serializer returned null
+[10Jul2025 02:45:37.609] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[10Jul2025 02:45:37.610] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[10Jul2025 02:45:37.610] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_tile_wall_from_kelpy_cobblestone_tiles_stonecutting as it's serializer returned null
+[10Jul2025 02:45:37.613] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[10Jul2025 02:45:37.620] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_button_from_poise_stems_sawing as it's serializer returned null
+[10Jul2025 02:45:37.625] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jul2025 02:45:37.626] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[10Jul2025 02:45:37.626] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jul2025 02:45:37.627] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_chest as it's serializer returned null
+[10Jul2025 02:45:37.634] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[10Jul2025 02:45:37.634] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jul2025 02:45:37.635] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_trapdoor_from_poise_stems_sawing as it's serializer returned null
+[10Jul2025 02:45:37.640] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jul2025 02:45:37.641] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_fence_gate_from_driftwood_logs_sawing as it's serializer returned null
+[10Jul2025 02:45:37.645] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[10Jul2025 02:45:37.656] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[10Jul2025 02:45:37.656] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[10Jul2025 02:45:37.656] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_leaf_pile as it's serializer returned null
+[10Jul2025 02:45:37.657] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jul2025 02:45:37.658] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_planks_from_poise_stems_sawing as it's serializer returned null
+[10Jul2025 02:45:37.658] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_pressure_plate_from_river_logs_sawing as it's serializer returned null
+[10Jul2025 02:45:37.660] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[10Jul2025 02:45:37.665] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mofus_better_end_:end_engine_recipe: com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod_element'
+[10Jul2025 02:45:37.666] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[10Jul2025 02:45:37.666] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jul2025 02:45:37.678] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_leaves_from_leaf_piles as it's serializer returned null
+[10Jul2025 02:45:37.679] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[10Jul2025 02:45:37.680] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:trapped_river_chest as it's serializer returned null
+[10Jul2025 02:45:37.686] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jul2025 02:45:37.703] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[10Jul2025 02:45:37.703] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[10Jul2025 02:45:37.704] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[10Jul2025 02:45:37.705] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[10Jul2025 02:45:37.706] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_brick_wall_from_kelpy_cobblestone_stonecutting as it's serializer returned null
+[10Jul2025 02:45:37.706] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jul2025 02:45:37.717] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_ladder_from_river_logs_sawing as it's serializer returned null
+[10Jul2025 02:45:37.718] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_chest as it's serializer returned null
+[10Jul2025 02:45:37.719] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_boards_from_poise_stems_sawing as it's serializer returned null
+[10Jul2025 02:45:37.724] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_tiles_from_kelp as it's serializer returned null
+[10Jul2025 02:45:37.734] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_tile_slab_from_kelpy_cobblestone_bricks_stonecutting as it's serializer returned null
+[10Jul2025 02:45:37.734] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_pressure_plate_from_driftwood_logs_sawing as it's serializer returned null
+[10Jul2025 02:45:37.734] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_trapdoor_from_river_logs_sawing as it's serializer returned null
+[10Jul2025 02:45:37.735] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jul2025 02:45:37.736] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_boards_from_river_logs_sawing as it's serializer returned null
+[10Jul2025 02:45:37.737] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_brick_wall as it's serializer returned null
+[10Jul2025 02:45:37.737] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jul2025 02:45:37.738] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_stairs_from_driftwood_planks_sawing as it's serializer returned null
+[10Jul2025 02:45:37.739] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_brick_slab_from_kelpy_cobblestone_bricks_stonecutting as it's serializer returned null
+[10Jul2025 02:45:37.739] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jul2025 02:45:37.739] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_button_from_driftwood_logs_sawing as it's serializer returned null
+[10Jul2025 02:45:37.740] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_fence_from_poise_stems_sawing as it's serializer returned null
+[10Jul2025 02:45:37.740] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[10Jul2025 02:45:37.742] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[10Jul2025 02:45:37.744] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_door_from_driftwood_logs_sawing as it's serializer returned null
+[10Jul2025 02:45:37.750] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_stairs_from_poise_planks_sawing as it's serializer returned null
+[10Jul2025 02:45:37.751] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:cracked_end_stone_bricks_from_baking as it's serializer returned null
+[10Jul2025 02:45:37.752] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_bookshelf as it's serializer returned null
+[10Jul2025 02:45:37.752] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[10Jul2025 02:45:37.757] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[10Jul2025 02:45:37.766] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_button_from_river_planks_sawing as it's serializer returned null
+[10Jul2025 02:45:37.766] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_button_from_river_logs_sawing as it's serializer returned null
+[10Jul2025 02:45:37.766] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[10Jul2025 02:45:37.766] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jul2025 02:45:37.771] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[10Jul2025 02:45:37.772] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_boards as it's serializer returned null
+[10Jul2025 02:45:37.774] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jul2025 02:45:37.775] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jul2025 02:45:37.775] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[10Jul2025 02:45:37.776] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[10Jul2025 02:45:37.789] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe irons_spellbooks:curios/concentration_amulet: com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingot'
+[10Jul2025 02:45:37.794] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jul2025 02:45:37.799] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_stairs_from_river_planks_sawing as it's serializer returned null
+[10Jul2025 02:45:37.799] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[10Jul2025 02:45:37.800] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[10Jul2025 02:45:37.813] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jul2025 02:45:37.813] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[10Jul2025 02:45:37.814] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_furnace_boat as it's serializer returned null
+[10Jul2025 02:45:37.814] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[10Jul2025 02:45:37.815] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[10Jul2025 02:45:37.816] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jul2025 02:45:37.816] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[10Jul2025 02:45:37.821] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_slab_from_poise_planks_sawing as it's serializer returned null
+[10Jul2025 02:45:37.828] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jul2025 02:45:37.828] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jul2025 02:45:37.830] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alexsdelight:barbecue_on_a_stick: com.google.gson.JsonSyntaxException: Unknown item 'amfd:singular_cooked_moose_rib'
+[10Jul2025 02:45:37.830] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[10Jul2025 02:45:37.831] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jul2025 02:45:37.831] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jul2025 02:45:37.831] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[10Jul2025 02:45:37.837] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jul2025 02:45:37.841] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jul2025 02:45:37.842] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jul2025 02:45:37.851] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jul2025 02:45:37.853] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[10Jul2025 02:45:37.854] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jul2025 02:45:37.854] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jul2025 02:45:37.854] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jul2025 02:45:37.860] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jul2025 02:45:37.860] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jul2025 02:45:37.861] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[10Jul2025 02:45:37.870] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:trapped_poise_chest as it's serializer returned null
+[10Jul2025 02:45:37.874] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:chiseled_driftwood_bookshelf as it's serializer returned null
+[10Jul2025 02:45:37.876] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_tiles_from_kelpy_cobblestone_stonecutting as it's serializer returned null
+[10Jul2025 02:45:37.877] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe artifactscrafting:shock_pendant_recipe_elemental_reality: com.google.gson.JsonSyntaxException: Unknown item 'elementalreality:electricium_ingot'
+[10Jul2025 02:45:37.877] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:cracked_eumus_bricks_from_baking as it's serializer returned null
+[10Jul2025 02:45:37.878] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[10Jul2025 02:45:37.884] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[10Jul2025 02:45:37.890] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[10Jul2025 02:45:37.890] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_button_from_poise_planks_sawing as it's serializer returned null
+[10Jul2025 02:45:37.892] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jul2025 02:45:37.893] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_beehive as it's serializer returned null
+[10Jul2025 02:45:37.894] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[10Jul2025 02:45:37.895] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[10Jul2025 02:45:37.904] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[10Jul2025 02:45:37.904] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[10Jul2025 02:45:37.905] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_pressure_plate_from_poise_stems_sawing as it's serializer returned null
+[10Jul2025 02:45:37.905] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_button_from_driftwood_planks_sawing as it's serializer returned null
+[10Jul2025 02:45:37.906] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[10Jul2025 02:45:37.917] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_tile_wall_from_kelpy_cobblestone_bricks_stonecutting as it's serializer returned null
+[10Jul2025 02:45:37.927] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jul2025 02:45:37.927] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[10Jul2025 02:45:37.929] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_slab_from_river_planks_sawing as it's serializer returned null
+[10Jul2025 02:45:37.930] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe artifactscrafting:snorkler_recipe_elemental_reality: com.google.gson.JsonSyntaxException: Unknown item 'elementalreality:ghelidium_nugget'
+[10Jul2025 02:45:37.930] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jul2025 02:45:37.931] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_ladder_from_driftwood_logs_sawing as it's serializer returned null
+[10Jul2025 02:45:37.936] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jul2025 02:45:37.937] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_brick_slab as it's serializer returned null
+[10Jul2025 02:45:37.938] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jul2025 02:45:37.938] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jul2025 02:45:37.938] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_slab_from_poise_stems_sawing as it's serializer returned null
+[10Jul2025 02:45:37.940] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[10Jul2025 02:45:37.940] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_tile_stairs_from_kelpy_cobblestone_bricks_stonecutting as it's serializer returned null
+[10Jul2025 02:45:37.940] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_ladder_from_driftwood_planks_sawing as it's serializer returned null
+[10Jul2025 02:45:37.941] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[10Jul2025 02:45:37.941] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_beehive as it's serializer returned null
+[10Jul2025 02:45:37.942] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jul2025 02:45:37.942] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_beehive as it's serializer returned null
+[10Jul2025 02:45:37.949] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_ladder_from_river_planks_sawing as it's serializer returned null
+[10Jul2025 02:45:37.950] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[10Jul2025 02:45:37.956] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_sign_from_river_logs_sawing as it's serializer returned null
+[10Jul2025 02:45:37.962] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_brick_stairs_from_kelpy_cobblestone_bricks_stonecutting as it's serializer returned null
+[10Jul2025 02:45:37.963] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:large_river_boat as it's serializer returned null
+[10Jul2025 02:45:37.963] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_fence_from_river_logs_sawing as it's serializer returned null
+[10Jul2025 02:45:37.964] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[10Jul2025 02:45:37.965] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_slab_from_driftwood_logs_sawing as it's serializer returned null
+[10Jul2025 02:45:37.965] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jul2025 02:45:37.965] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jul2025 02:45:37.966] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[10Jul2025 02:45:37.966] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jul2025 02:45:37.966] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jul2025 02:45:37.968] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jul2025 02:45:37.968] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[10Jul2025 02:45:37.969] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:trapped_driftwood_chest as it's serializer returned null
+[10Jul2025 02:45:37.975] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[10Jul2025 02:45:37.975] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_fence_from_driftwood_logs_sawing as it's serializer returned null
+[10Jul2025 02:45:37.975] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[10Jul2025 02:45:37.975] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[10Jul2025 02:45:37.976] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_tile_wall_from_kelpy_cobblestone_stonecutting as it's serializer returned null
+[10Jul2025 02:45:37.976] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[10Jul2025 02:45:37.980] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[10Jul2025 02:45:37.980] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_bricks as it's serializer returned null
+[10Jul2025 02:45:37.981] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[10Jul2025 02:45:37.982] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jul2025 02:45:37.982] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[10Jul2025 02:45:37.988] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe nethers_exorcism_reborn:electrumarmorcraft: com.google.gson.JsonSyntaxException: Unknown item 'oreganized:electrum_block'
+[10Jul2025 02:45:37.993] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[10Jul2025 02:45:37.994] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[10Jul2025 02:45:37.994] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[10Jul2025 02:45:37.999] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[10Jul2025 02:45:38.000] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_planks_from_driftwood_logs_sawing as it's serializer returned null
+[10Jul2025 02:45:38.004] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_bookshelf as it's serializer returned null
+[10Jul2025 02:45:38.005] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jul2025 02:45:38.006] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_fence_gate_from_poise_stems_sawing as it's serializer returned null
+[10Jul2025 02:45:38.006] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_tile_stairs_from_kelpy_cobblestone_stonecutting as it's serializer returned null
+[10Jul2025 02:45:38.012] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_slab_from_driftwood_planks_sawing as it's serializer returned null
+[10Jul2025 02:45:38.012] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[10Jul2025 02:45:38.019] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe nethers_exorcism_reborn:stripped_turq_toplankscreate: com.google.gson.JsonSyntaxException: Unknown item 'nethers_exorcism_reborn:stripped_turquoise_bamboo_log'
+[10Jul2025 02:45:38.019] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jul2025 02:45:38.020] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jul2025 02:45:38.020] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_boards as it's serializer returned null
+[10Jul2025 02:45:38.021] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[10Jul2025 02:45:38.022] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_sign_from_poise_stems_sawing as it's serializer returned null
+[10Jul2025 02:45:38.022] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jul2025 02:45:38.022] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_tile_slab as it's serializer returned null
+[10Jul2025 02:45:38.023] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_stairs_from_poise_stems_sawing as it's serializer returned null
+[10Jul2025 02:45:38.024] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_ladder as it's serializer returned null
+[10Jul2025 02:45:38.024] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_planks_from_river_logs_sawing as it's serializer returned null
+[10Jul2025 02:45:38.024] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[10Jul2025 02:45:38.024] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe endergetic:poise_bookshelf as it's serializer returned null
+[10Jul2025 02:45:38.025] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_trapdoor_from_driftwood_logs_sawing as it's serializer returned null
+[10Jul2025 02:45:38.026] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jul2025 02:45:38.027] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_bricks_from_kelpy_cobblestone_stonecutting as it's serializer returned null
+[10Jul2025 02:45:38.027] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jul2025 02:45:38.027] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[10Jul2025 02:45:38.028] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jul2025 02:45:38.029] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[10Jul2025 02:45:38.029] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_brick_slab_from_kelpy_cobblestone_stonecutting as it's serializer returned null
+[10Jul2025 02:45:38.029] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_stairs_from_river_logs_sawing as it's serializer returned null
+[10Jul2025 02:45:38.035] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[10Jul2025 02:45:38.035] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:river_fence_gate_from_river_logs_sawing as it's serializer returned null
+[10Jul2025 02:45:38.036] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_brick_stairs as it's serializer returned null
+[10Jul2025 02:45:38.037] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:large_driftwood_boat as it's serializer returned null
+[10Jul2025 02:45:38.037] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:kelpy_cobblestone_tiles_from_kelpy_cobblestone_bricks_stonecutting as it's serializer returned null
+[10Jul2025 02:45:38.037] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[10Jul2025 02:45:38.044] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[10Jul2025 02:45:38.045] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[10Jul2025 02:45:38.045] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe upgrade_aquatic:driftwood_stairs_from_driftwood_logs_sawing as it's serializer returned null
+[10Jul2025 02:45:38.049] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 50 recipes
+[10Jul2025 02:45:38.052] [main/INFO] [com.possible_triangle.sliceanddice.SliceAndDice/]: Injecting recipes
+[10Jul2025 02:45:38.178] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Advancement Modification Manager has loaded 13 modifier groups
+[10Jul2025 02:45:38.434] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 7419 advancements
+[10Jul2025 02:45:38.455] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio slots
+[10Jul2025 02:45:38.467] [main/ERROR] [top.theillusivec4.curios.Curios/]: talisman is not a registered slot type!
+[10Jul2025 02:45:38.468] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
+[10Jul2025 02:45:38.470] [main/ERROR] [bettervillage/]: Ice And Fire compatibility is not enabled for Better Village and Ice And Fire is present in your mod list.
+     - Please install the datapack for better compatibility between Better Villages and Ice And Fire.
+     - You can find the datapack URL in the `compatibility` section of the Better Villages description.
+     - URL=https://www.curseforge.com/minecraft/mc-mods/better-village-forge
+[10Jul2025 02:45:38.478] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Unable to decode loot conditions
+com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternatives'
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:99) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.loot.IGlobalLootModifier.lambda$static$1(IGlobalLootModifier.java:39) ~[forge-1.20.1-47.3.7-universal.jar%23424!/:?]
+	at com.mojang.serialization.Decoder$1.lambda$decode$1(Decoder.java:49) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.Decoder$1.decode(Decoder.java:49) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.Codec$2.decode(Codec.java:71) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.Decoder.parse(Decoder.java:18) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.FieldDecoder.decode(FieldDecoder.java:29) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.MapCodec$1.decode(MapCodec.java:34) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.RecordCodecBuilder$Instance$5.decode(RecordCodecBuilder.java:323) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.RecordCodecBuilder$2.decode(RecordCodecBuilder.java:107) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.KeyDispatchCodec.lambda$decode$3(KeyDispatchCodec.java:67) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.KeyDispatchCodec.lambda$decode$4(KeyDispatchCodec.java:58) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.KeyDispatchCodec.decode(KeyDispatchCodec.java:56) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.MapDecoder.lambda$compressedDecode$1(MapDecoder.java:52) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.MapDecoder.compressedDecode(MapDecoder.java:52) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.MapCodec$MapCodecCodec.decode(MapCodec.java:91) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.Decoder.parse(Decoder.java:18) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at net.minecraftforge.common.loot.LootModifierManager.apply(LootModifierManager.java:79) ~[forge-1.20.1-47.3.7-universal.jar%23424!/:?]
+	at net.minecraftforge.common.loot.LootModifierManager.m_5787_(LootModifierManager.java:38) ~[forge-1.20.1-47.3.7-universal.jar%23424!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[10Jul2025 02:45:38.480] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id nethersdelight:chopping_leather - error: Unknown type 'minecraft:alternatives'
+[10Jul2025 02:45:38.480] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Unable to decode loot conditions
+com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:99) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.loot.IGlobalLootModifier.lambda$static$1(IGlobalLootModifier.java:39) ~[forge-1.20.1-47.3.7-universal.jar%23424!/:?]
+	at com.mojang.serialization.Decoder$1.lambda$decode$1(Decoder.java:49) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.Decoder$1.decode(Decoder.java:49) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.Codec$2.decode(Codec.java:71) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.Decoder.parse(Decoder.java:18) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.FieldDecoder.decode(FieldDecoder.java:29) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.MapCodec$1.decode(MapCodec.java:34) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.RecordCodecBuilder$Instance$5.decode(RecordCodecBuilder.java:323) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.RecordCodecBuilder$2.decode(RecordCodecBuilder.java:107) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.KeyDispatchCodec.lambda$decode$3(KeyDispatchCodec.java:67) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.KeyDispatchCodec.lambda$decode$4(KeyDispatchCodec.java:58) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.codecs.KeyDispatchCodec.decode(KeyDispatchCodec.java:56) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.MapDecoder.lambda$compressedDecode$1(MapDecoder.java:52) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.MapDecoder.compressedDecode(MapDecoder.java:52) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.MapCodec$MapCodecCodec.decode(MapCodec.java:91) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at com.mojang.serialization.Decoder.parse(Decoder.java:18) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at net.minecraftforge.common.loot.LootModifierManager.apply(LootModifierManager.java:79) ~[forge-1.20.1-47.3.7-universal.jar%23424!/:?]
+	at net.minecraftforge.common.loot.LootModifierManager.m_5787_(LootModifierManager.java:38) ~[forge-1.20.1-47.3.7-universal.jar%23424!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23419!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[10Jul2025 02:45:38.482] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id nethersdelight:chopping_string - error: Unknown type 'minecraft:alternative'
+[10Jul2025 02:45:38.519] [main/INFO] [com.cupboard.Cupboard/]: Loaded config for: lootintegrations.json
+[10Jul2025 02:45:38.521] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[10Jul2025 02:45:38.530] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Chunk Generator Modification Manager has loaded 1 modifier groups
+[10Jul2025 02:45:38.534] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/wax_on with 2 patches
+[10Jul2025 02:45:38.534] [main/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/kill_a_mob with 3 patches
+[10Jul2025 02:45:38.534] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/bred_all_animals with 3 patches
+[10Jul2025 02:45:38.534] [main/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/kill_all_mobs with 3 patches
+[10Jul2025 02:45:38.535] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/balanced_diet with 2 patches
+[10Jul2025 02:45:38.535] [main/INFO] [quark-zeta/]: Modified advancement minecraft:nether/all_effects with 1 patches
+[10Jul2025 02:45:38.535] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/wax_off with 2 patches
+[10Jul2025 02:45:38.535] [main/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/adventuring_time with 1 patches
+[10Jul2025 02:45:38.535] [main/INFO] [quark-zeta/]: Modified advancement minecraft:nether/all_potions with 1 patches
+[10Jul2025 02:45:38.547] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains, upgrade_aquatic:has_feature/driftwood_river
+[10Jul2025 02:45:39.278] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[10Jul2025 02:45:39.278] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[10Jul2025 02:45:39.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[10Jul2025 02:45:39.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[10Jul2025 02:45:39.488] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[10Jul2025 02:45:39.511] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[10Jul2025 02:45:39.578] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[10Jul2025 02:45:39.578] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[10Jul2025 02:45:39.578] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[10Jul2025 02:45:39.578] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[10Jul2025 02:45:39.594] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: dynamicview.json
+[10Jul2025 02:45:39.612] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[10Jul2025 02:45:40.256] [Server thread/INFO] [Framework/]: Loading server configs...
+[10Jul2025 02:45:40.964] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[10Jul2025 02:45:40.966] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[10Jul2025 02:45:40.971] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[10Jul2025 02:45:41.611] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: betterchunkloading.json
+[10Jul2025 02:45:51.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[10Jul2025 02:45:54.140] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Jul2025 02:45:54.141] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Jul2025 02:45:54.142] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Jul2025 02:45:54.143] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Jul2025 02:45:54.143] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Jul2025 02:45:54.144] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Jul2025 02:45:54.404] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Jul2025 02:45:54.606] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: limitedchunks.json
+[10Jul2025 02:45:54.936] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 3533 ms
+[10Jul2025 02:45:54.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (15.340s)! For help, type "help"
+[10Jul2025 02:45:55.037] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[10Jul2025 02:45:55.169] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 106790 bytes (in 11 string chunks with the size of 10000)
+[10Jul2025 02:45:55.171] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[10Jul2025 02:45:55.171] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[10Jul2025 02:45:55.172] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: betterfpsdist.json
+[10Jul2025 02:45:55.175] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: dragonfight.json
+[10Jul2025 02:45:55.176] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: logprot.json
+[10Jul2025 02:45:55.177] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: chunksending.json
+[10Jul2025 02:45:55.181] [Server thread/WARN] [ModernFix/]: Dedicated server took 70.778 seconds to load
+[10Jul2025 02:46:06.469] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Calamar892[/127.16.152.39:46689] logged in with entity id 75 at (-276.6309983193457, 71.0, 325.30000001192093)
+[10Jul2025 02:46:06.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 joined the game
