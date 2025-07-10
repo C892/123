@@ -237,3 +237,15 @@
 [10Jul2025 02:04:27.262] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemFrame['Item Frame'/80772, l='ServerLevel[world]', x=-876.50, y=73.03, z=-1791.50]
 [10Jul2025 02:04:27.263] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: WitherSkeleton['Wither Skeleton'/80773, l='ServerLevel[world]', x=-872.46, y=73.00, z=-1782.46]
 [10Jul2025 02:04:27.453] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: WitherSkeleton['Wither Skeleton'/80793, l='ServerLevel[world]', x=-860.54, y=73.00, z=-1777.46]
+[10Jul2025 02:06:01.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [A Terrible Fortress]
+[10Jul2025 02:07:10.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gibro was slain by Gearling
+[10Jul2025 02:07:54.899] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Calamar892) moved wrongly! 0.28022547990708074
+[10Jul2025 02:07:54.989] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Calamar892) moved wrongly! 0.6849982985201689
+[10Jul2025 02:07:55.001] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Calamar892) moved wrongly! 0.9020371369219682
+[10Jul2025 02:14:16.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gibro was shot by Skeleton
+[10Jul2025 02:15:09.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Shinier Buddy]
+[10Jul2025 02:18:51.415] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/90076, l='ServerLevel[world]', x=-105.50, y=-20.00, z=149.50] died: Toxic Slime was killed
+[10Jul2025 02:18:51.415] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/90077, l='ServerLevel[world]', x=-108.59, y=-20.00, z=146.49] died: Toxic Slime was killed
+[10Jul2025 02:20:10.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gibro was slain by Gearling
+[10Jul2025 02:20:17.320] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gibro lost connection: Disconnected
+[10Jul2025 02:20:17.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gibro left the game
