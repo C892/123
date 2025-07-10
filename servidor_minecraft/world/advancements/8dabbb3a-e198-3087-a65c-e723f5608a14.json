@@ -398,6 +398,7 @@
       "biomeswevegone:coconino_meadow": "2025-07-06 02:52:55 +0000",
       "biomeswevegone:weeping_witch_forest": "2025-07-06 02:45:16 +0000",
       "biomeswevegone:prairie": "2025-07-06 02:50:47 +0000",
+      "biomeswevegone:rose_fields": "2025-07-10 01:37:23 +0000",
       "biomeswevegone:aspen_boreal": "2025-07-06 02:47:59 +0000",
       "biomeswevegone:allium_shrubland": "2025-07-06 02:49:09 +0000",
       "biomeswevegone:pumpkin_valley": "2025-07-06 02:52:53 +0000"
@@ -4996,6 +4997,12 @@
     },
     "done": true
   },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-07-10 01:41:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs": {
     "criteria": {
       "has_oxidized_cut_copper": "2025-07-10 01:31:54 +0000"
@@ -5005,6 +5012,12 @@
   "minecraft:recipes/building_blocks/oxidized_cut_copper_slab": {
     "criteria": {
       "has_oxidized_cut_copper": "2025-07-10 01:31:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-07-10 01:35:07 +0000"
     },
     "done": true
   },

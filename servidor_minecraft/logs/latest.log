@@ -205,3 +205,6 @@
 [10Jul2025 01:26:20.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gibro joined the game
 [10Jul2025 01:30:09.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gibro has made the advancement [Cover Me with Diamonds]
 [10Jul2025 01:35:07.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gibro has made the advancement [Sneak 100]
+[10Jul2025 01:35:25.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gibro was slain by Gearling
+[10Jul2025 01:41:26.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gibro has made the advancement [Penteconter]
+[10Jul2025 01:43:33.800] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Calamar892) moved wrongly! 0.4129292643261806
