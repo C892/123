@@ -7935,6 +7935,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-07-10 00:05:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_cut_copper_stonecutting": {
     "criteria": {
       "has_waxed_cut_copper": "2025-07-09 23:44:15 +0000"
@@ -7950,6 +7956,12 @@
   "lootr:100loot": {
     "criteria": {
       "loot_stat": "2025-07-09 23:48:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-07-10 00:05:04 +0000"
     },
     "done": true
   },
