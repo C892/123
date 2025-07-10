@@ -7882,6 +7882,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-10 01:12:11 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_crate": {
     "criteria": {
       "has_cherry_planks": "2025-07-10 00:11:46 +0000"
@@ -7909,6 +7915,12 @@
   "minecraft:recipes/building_blocks/packed_mud": {
     "criteria": {
       "has_mud": "2025-07-09 23:21:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-10 01:12:11 +0000"
     },
     "done": true
   },
@@ -7942,6 +7954,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-10 01:12:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-10 01:12:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-07-09 23:30:40 +0000"
@@ -7963,6 +7987,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
     "criteria": {
       "has_copper_ore": "2025-07-09 23:20:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-07-10 01:13:27 +0000"
     },
     "done": true
   },
@@ -8038,6 +8068,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-07-10 01:13:27 +0000"
+    },
+    "done": true
+  },
   "lootr:100loot": {
     "criteria": {
       "loot_stat": "2025-07-09 23:48:02 +0000"
@@ -8053,6 +8089,12 @@
   "minecraft:recipes/building_blocks/waxed_cut_copper_stairs": {
     "criteria": {
       "has_waxed_cut_copper": "2025-07-09 23:44:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-10 01:12:11 +0000"
     },
     "done": true
   },
@@ -8080,6 +8122,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-07-10 01:13:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
     "criteria": {
       "has_copper_ore": "2025-07-09 23:20:48 +0000"
@@ -8098,6 +8146,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-07-10 01:13:36 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/iron_ladder": {
     "criteria": {
       "has_iron_bars": "2025-07-09 23:18:38 +0000"
@@ -8107,6 +8161,12 @@
   "minecraft:recipes/building_blocks/cherry_slab": {
     "criteria": {
       "has_planks": "2025-07-10 00:11:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-10 01:12:11 +0000"
     },
     "done": true
   },
@@ -8134,6 +8194,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-10 01:12:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cherry_window": {
     "criteria": {
       "has_ingredient": "2025-07-10 00:11:46 +0000"
@@ -8143,6 +8209,12 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_chair": {
     "criteria": {
       "has_cherry_planks": "2025-07-10 00:11:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-07-10 01:10:53 +0000"
     },
     "done": true
   },
