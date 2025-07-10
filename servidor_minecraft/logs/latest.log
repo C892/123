@@ -208,3 +208,6 @@
 [10Jul2025 01:35:25.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gibro was slain by Gearling
 [10Jul2025 01:41:26.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gibro has made the advancement [Penteconter]
 [10Jul2025 01:43:33.800] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of Calamar892) moved wrongly! 0.4129292643261806
+[10Jul2025 01:46:40.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gibro was slain by Gearling
+[10Jul2025 01:50:58.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gibro was blown up by Skeleton Creeper
+[10Jul2025 01:53:32.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gibro hit the ground too hard
