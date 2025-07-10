@@ -1155,3 +1155,31 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Jul2025 02:45:55.181] [Server thread/WARN] [ModernFix/]: Dedicated server took 70.778 seconds to load
 [10Jul2025 02:46:06.469] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Calamar892[/127.16.152.39:46689] logged in with entity id 75 at (-276.6309983193457, 71.0, 325.30000001192093)
 [10Jul2025 02:46:06.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 joined the game
+[10Jul2025 02:57:44.686] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 lost connection: Disconnected
+[10Jul2025 02:57:44.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 left the game
+[10Jul2025 02:57:53.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[10Jul2025 02:57:53.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[10Jul2025 02:57:53.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[10Jul2025 02:57:53.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[10Jul2025 02:57:53.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10Jul2025 02:57:53.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[10Jul2025 02:57:53.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[10Jul2025 02:57:53.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[10Jul2025 02:57:53.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10Jul2025 02:57:53.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mofus_better_end_:broken_constellation
+[10Jul2025 02:57:53.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[10Jul2025 02:57:53.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10Jul2025 02:57:53.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10Jul2025 02:57:53.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[10Jul2025 02:57:53.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[10Jul2025 02:57:53.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[10Jul2025 02:57:53.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10Jul2025 02:57:53.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (broken_constellation): All chunks are saved
+[10Jul2025 02:57:53.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[10Jul2025 02:57:53.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10Jul2025 02:57:53.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[10Jul2025 02:57:53.567] [Server thread/INFO] [Framework/]: Unloading server configs...
+[10Jul2025 02:57:53.570] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[10Jul2025 02:57:53.572] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[10Jul2025 02:57:53.572] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[10Jul2025 02:57:53.587] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
